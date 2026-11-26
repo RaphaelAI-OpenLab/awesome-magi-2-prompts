@@ -1,0 +1,49 @@
+{
+  "global_caption": {
+    "core_caption": "",
+    "format_and_structure": "10-second continuous 1080p video starting strictly from the reference first frame.",
+    "narrative_and_emotional_design": "",
+    "visual_design": "",
+    "audio_design": "",
+    "continuity_requirements": [
+      "Preserve subject identity, lighting direction, color palette, and layout from the initial image."
+    ]
+  },
+  "reference_bank": [
+    {
+      "reference_identifier": "ref_subject_1",
+      "reference_type": "subject",
+      "label": "",
+      "role": "primary subject",
+      "description": "",
+      "appearance_or_design": ""
+    }
+  ],
+  "shot_timeline": [
+    {
+      "shot_identifier": "shot_1",
+      "time_range_seconds": [0.0, 10.0],
+      "scene_reference_identifier": "ref_scene_1",
+      "shot_caption": "",
+      "camera_lighting_and_composition": "",
+      "motion_and_physical_logic": "",
+      "reference_identifiers": ["ref_subject_1"],
+      "audio_event_identifiers": ["audio_1"]
+    }
+  ],
+  "audio_event_timeline": [
+    {
+      "audio_event_identifier": "audio_1",
+      "event_type": "ambience",
+      "time_range_seconds": [0.0, 10.0],
+      "source_reference_identifier": "ref_subject_1",
+      "audio_caption": "",
+      "spoken_text": "",
+      "synchronization_note": ""
+    }
+  ],
+  "visible_text": [],
+  "generation_requirements": [
+    "Maintain physical causality and smooth motion continuity across all 10.0 seconds."
+  ]
+}

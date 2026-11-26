@@ -1,0 +1,9 @@
+[
+  {
+    "prompt": "Template example only: replace with a copyable short or PE-enhanced prompt before running SandAI-org/MAGI-2-preview."
+  },
+  {
+    "prompt_file": "examples/t2v_pe_template.json",
+    "image": "path/to/first_frame.jpg"
+  }
+]

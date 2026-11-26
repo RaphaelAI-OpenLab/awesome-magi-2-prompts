@@ -1,0 +1,136 @@
+{
+  "global_layer": {
+    "context": "",
+    "description": "",
+    "aesthetics": {
+      "style": "",
+      "contrast": "",
+      "saturation": "",
+      "color_scheme": "",
+      "visual_effects": "",
+      "mood_atmosphere": ""
+    },
+    "audio_baseline": {
+      "ambience": "",
+      "dialogue": {
+        "language": "English",
+        "speaker_tags": []
+      }
+    },
+    "objects_static": [
+      {
+        "object_id": "<object 1>",
+        "description": "",
+        "shape_and_color": "",
+        "texture": "",
+        "relative_size": "",
+        "position": "",
+        "orientation": ""
+      }
+    ],
+    "video_metadata": {
+      "duration": 10.0,
+      "aspect_ratio": "16:9"
+    },
+    "lighting_baseline": {
+      "conditions": "",
+      "direction": "",
+      "shadows": "",
+      "source_consistency": ""
+    },
+    "environment_baseline": {
+      "background_setting": ""
+    },
+    "alive_subjects_static": [
+      {
+        "subject_id": "<subject 1>",
+        "description": "",
+        "position": "",
+        "orientation": "",
+        "visual_attributes": {
+          "gender": "",
+          "ethnicity": "",
+          "age_group": "",
+          "facial_features": "",
+          "clothing": "",
+          "appearance_details": ""
+        }
+      }
+    ],
+    "camera_cinematography": {
+      "overall_camera_style": "",
+      "default_depth_of_field": "",
+      "lens_focal_length": ""
+    }
+  },
+  "dynamic_layer": {
+    "timeline_segments": [
+      {
+        "segment_basic_info": {
+          "timestamp_range": "00:00.0-00:10.0",
+          "segment_description": "",
+          "active_background": "",
+          "lighting_delta": "",
+          "camera_delta": {
+            "focus": "",
+            "camera_position": "",
+            "composition": "",
+            "camera_movement": {
+              "type": "",
+              "direction": "",
+              "intensity": ""
+            }
+          }
+        },
+        "objects": [
+          {
+            "object_id": "<object 1>",
+            "timestamp": "00:00.0-00:10.0",
+            "number_of_objects": 1,
+            "dynamic_state": {
+              "state_change": "",
+              "motion_detail": "",
+              "visible_condition": ""
+            },
+            "spatial_position": {
+              "location": "",
+              "relative_size": "",
+              "orientation": ""
+            }
+          }
+        ],
+        "alive_subjects": [
+          {
+            "subject_id": "<subject 1>",
+            "timestamp": "00:00.0-00:10.0",
+            "number_of_subjects": 1,
+            "spatial_position": {
+              "location": "",
+              "relative_size": "",
+              "orientation": ""
+            },
+            "action": {
+              "primary_action": "",
+              "body_configuration": "",
+              "motion_detail": "",
+              "interaction": "",
+              "facial_expression": ""
+            }
+          }
+        ],
+        "text_render": [],
+        "causal_events": [],
+        "audio": {
+          "dialogue_lines": [],
+          "ambience_deltas": [
+            {
+              "timestamp_range": "00:00.0-00:10.0",
+              "ambience": ""
+            }
+          ],
+          "special_audio_events": []
+        }
+      }
+    ]
+  }
+}

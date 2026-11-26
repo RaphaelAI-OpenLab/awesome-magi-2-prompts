@@ -1,0 +1,76 @@
+{
+  "id": "",
+  "status": "draft",
+  "title": {
+    "en": "",
+    "zh-CN": ""
+  },
+  "summary": {
+    "en": "",
+    "zh-CN": ""
+  },
+  "category": "",
+  "tags": [],
+  "origin": "community",
+  "prompt_status": "public",
+  "prompt_language": "en",
+  "short_prompt": "",
+  "structured_prompt": null,
+  "omni_references": [],
+  "model": {
+    "family": "MAGI-2",
+    "variant": "unspecified",
+    "api_model_id": null
+  },
+  "parameters": {
+    "task_type": "t2v",
+    "duration_sec": 10,
+    "fps": 25,
+    "resolution": "1080p",
+    "aspect_ratio": "16:9",
+    "has_audio": true,
+    "audio_mode": "unspecified"
+  },
+  "preview": {
+    "path": "",
+    "alt": {
+      "en": "",
+      "zh-CN": ""
+    }
+  },
+  "video_url": null,
+  "source": {
+    "url": null,
+    "author": "",
+    "author_url": null,
+    "platform": "",
+    "published_at": null
+  },
+  "verification": {
+    "status": "source-only",
+    "tested_at": null,
+    "tested_on": "",
+    "notes": {
+      "en": "",
+      "zh-CN": ""
+    }
+  },
+  "rights": {
+    "prompt": "unknown",
+    "preview": "link-only",
+    "video": "link-only",
+    "credit": "",
+    "license_url": null
+  },
+  "added_at": null,
+  "featured": false,
+  "links": {
+    "case_detail_url": null,
+    "generate_url": null,
+    "generate_url_verified_at": null
+  },
+  "notes": {
+    "en": "",
+    "zh-CN": ""
+  }
+}

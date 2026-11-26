@@ -1,0 +1,127 @@
+{
+  "project": {
+    "name": "Awesome MAGI-2 Prompts",
+    "repository_slug": "awesome-magi-2-prompts",
+    "repository_owner": "RaphaelAI-OpenLab",
+    "default_branch": "main",
+    "model_family": "MAGI-2",
+    "official_release_date": "2026-08-04",
+    "official_url": "https://sand.ai/blog/magi-2-preview",
+    "model_docs_url": "https://github.com/SandAI-org/MAGI-2-preview",
+    "huggingface_url": "https://huggingface.co/sand-ai/MAGI-2-preview",
+    "model_ids": [
+      "magi-2",
+      "magi-2-preview"
+    ]
+  },
+  "github": {
+    "description": "Awesome MAGI-2 & MAGI-2-preview prompts: copyable T2V/I2V, synced audio, omni-reference & shot timeline templates.",
+    "homepage": "https://raphael.app/ai-video-generator",
+    "topics": [
+      "magi-2",
+      "magi-2-prompts",
+      "magi-2-preview",
+      "sand-ai",
+      "ai-video-generation",
+      "text-to-video",
+      "image-to-video",
+      "video-prompts",
+      "audio-video-generation",
+      "omni-reference",
+      "prompt-engineering",
+      "prompt-library",
+      "prompts",
+      "awesome",
+      "awesome-list",
+      "generative-ai",
+      "video-editing",
+      "ai-filmmaking",
+      "video-generation",
+      "raphael"
+    ]
+  },
+  "brand": {
+    "name": "Raphael",
+    "home_url": "https://raphael.app/",
+    "gallery_url": "https://raphael.app/ai-video-generator",
+    "model_page_url": null,
+    "model_available": false,
+    "model_support_verified_at": null
+  },
+  "tracking": {
+    "utm_source": "github",
+    "utm_medium": "repository",
+    "utm_campaign": "magi_2_launch"
+  },
+  "cms": {
+    "collection": "magi2_materials"
+  },
+  "pages": {
+    "plausible_domain": "raphaelai-openlab.github.io",
+    "plausible_script_url": "https://plau.colorepistle.com/js/script.outbound-links.js"
+  },
+  "presentation": {
+    "updated_at": "2026-11-26T08:00:00Z",
+    "featured_limit": 12,
+    "latest_limit": 6,
+    "generate_case_pages": true,
+    "featured_case_ids": [
+      "rainy-cafe-boarding-pass",
+      "rococo-garden-three-room-oner",
+      "asics-gel-nimbus-ugc-ad",
+      "red-paper-kite-five-styles",
+      "neon-night-run-edm",
+      "tiny-2d-girl-in-nyc"
+    ]
+  },
+  "categories": [
+    {
+      "id": "dialogue-lip-sync",
+      "label": {
+        "en": "Dialogue & Lip-Sync",
+        "zh-CN": "对白与口型同步"
+      },
+      "website_url": null
+    },
+    {
+      "id": "multi-shot-storytelling",
+      "label": {
+        "en": "Multi-Shot Storytelling",
+        "zh-CN": "多镜头时间轴叙事"
+      },
+      "website_url": null
+    },
+    {
+      "id": "omni-reference",
+      "label": {
+        "en": "Omni-Reference Consistency",
+        "zh-CN": "全能多素材一致性"
+      },
+      "website_url": null
+    },
+    {
+      "id": "product-commercials",
+      "label": {
+        "en": "Product & Commercials",
+        "zh-CN": "产品与商业广告"
+      },
+      "website_url": null
+    },
+    {
+      "id": "sfx-ambience",
+      "label": {
+        "en": "SFX, Music & Ambience",
+        "zh-CN": "音效、配乐与环境音"
+      },
+      "website_url": null
+    },
+    {
+      "id": "cinematic-animation",
+      "label": {
+        "en": "Cinematic & Animation",
+        "zh-CN": "电影感与动画风格"
+      },
+      "website_url": null
+    }
+  ]
+}

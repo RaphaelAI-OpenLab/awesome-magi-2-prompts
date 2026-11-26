@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" role="img" aria-labelledby="title desc">
+  <title id="title">Awesome MAGI-2 Prompts</title>
+  <desc id="desc">Editorial banner for an open MAGI-2 and MAGI-2-preview prompt library with synced audio-video and timeline templates. Decorative artwork only, not a generated video frame.</desc>
+  <rect width="1440" height="440" rx="24" fill="#0f172a"/>
+  <path d="M0 364H1440" stroke="#1e293b"/>
+  <circle cx="76" cy="65" r="13" fill="#f97316"/>
+  <polygon points="72,58 84,65 72,72" fill="#fff7ed"/>
+  <text x="104" y="71" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">OPEN VIDEO &amp; AUDIO PROMPT COLLECTION</text>
+  <text x="60" y="200" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="84" font-weight="700" letter-spacing="-3">MAGI-2 Prompts</text>
+  <text x="64" y="254" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="24">Structured PE timelines. Native audio-video. Omni-Reference recipes.</text>
+  <rect x="64" y="292" width="228" height="34" rx="17" fill="#1e293b" stroke="#334155"/>
+  <text x="84" y="314" fill="#fdba74" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1">MAGI-2 · MAGI-2-PREVIEW</text>
+  <g transform="translate(996 58)">
+    <rect width="372" height="248" rx="16" fill="#1e293b" stroke="#334155"/>
+    <rect x="20" y="20" width="332" height="130" rx="10" fill="#0f172a" stroke="#334155"/>
+    <circle cx="186" cy="85" r="30" fill="#f97316" fill-opacity="0.2" stroke="#f97316" stroke-width="2"/>
+    <polygon points="178,72 200,85 178,98" fill="#fdba74"/>
+    <rect x="20" y="166" width="104" height="12" rx="6" fill="#38bdf8"/>
+    <rect x="132" y="166" width="136" height="12" rx="6" fill="#f97316"/>
+    <rect x="276" y="166" width="76" height="12" rx="6" fill="#a78bfa"/>
+    <path d="M24 206H46M54 198V214M62 192V220M70 201V211M78 195V217M86 202V210M94 190V222M102 197V215M110 203V209M118 196V216M126 200V212M134 206H348" stroke="#64748b" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <text x="64" y="405" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="0.4">Copy short prompts or structured PE timelines. Keep playable video sources outside Git.</text>
+  <text x="1375" y="405" fill="#64748b" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">CURATED BY RAPHAEL</text>
+</svg>

@@ -10,9 +10,9 @@
 
 6-scene mixed-media short blending a consistent hand-drawn 2D miniature character into live-action New York streets with synchronized urban SFX.
 
-<a href="https://raphael-assets.colorepistle.com/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4"><img src="../../assets/examples/tiny-2d-girl-in-nyc/preview.jpg" alt="Still frame from Tiny 2D Anime Girl in Photoreal NYC MAGI-2 clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4"><img src="../../assets/examples/tiny-2d-girl-in-nyc/preview.jpg" alt="Still frame from Tiny 2D Anime Girl in Photoreal NYC MAGI-2 clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4)**
 
 **Full Prompt**
 

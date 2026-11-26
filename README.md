@@ -146,9 +146,9 @@ SAMPLES=my_samples.json bash scripts/run_demo.sh
 
 Two-character dramatic dialogue in a rainy late-night cafe with strict Mandarin lip-sync and two exact hard cuts at 7s and 14s.
 
-<a href="https://raphael-assets.colorepistle.com/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4"><img src="assets/examples/rainy-cafe-boarding-pass/preview.jpg" alt="Still frame from Rainy Night Cafe Boarding Pass MAGI-2 dialogue clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4"><img src="assets/examples/rainy-cafe-boarding-pass/preview.jpg" alt="Still frame from Rainy Night Cafe Boarding Pass MAGI-2 dialogue clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4)**
 
 <details><summary><strong>Full Structured Prompt (2312 chars)</strong></summary>
 
@@ -238,9 +238,9 @@ Negative:
 
 30-second unbroken Steadicam single take traversing garden, boudoir, and sunlit salon locked by 4 reference images with layered spatial audio.
 
-<a href="https://raphael-assets.colorepistle.com/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4"><img src="assets/examples/rococo-garden-three-room-oner/preview.jpg" alt="Still frame from Rococo Garden Three-Room One-Take MAGI-2 clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4"><img src="assets/examples/rococo-garden-three-room-oner/preview.jpg" alt="Still frame from Rococo Garden Three-Room One-Take MAGI-2 clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4)**
 
 <details><summary><strong>Full Structured Prompt (2636 chars)</strong></summary>
 
@@ -302,9 +302,9 @@ Negative:
 
 4-scene 30-second vertical 9:16 creator-style running shoe commercial with lip-synced English dialogue, voiceover montage, and soft background music.
 
-<a href="https://raphael-assets.colorepistle.com/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4"><img src="assets/examples/asics-gel-nimbus-ugc-ad/preview.jpg" alt="Still frame from ASICS Gel Nimbus 9:16 vertical MAGI-2 UGC ad" width="300" /></a>
+<a href="https://awesome.raphael.app/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4"><img src="assets/examples/asics-gel-nimbus-ugc-ad/preview.jpg" alt="Still frame from ASICS Gel Nimbus 9:16 vertical MAGI-2 UGC ad" width="300" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4)**
 
 <details><summary><strong>Full Structured Prompt (2299 chars)</strong></summary>
 
@@ -391,9 +391,9 @@ Finished ad direction: A genuine creator-style product recommendation with a str
 
 30-second continuous take morphing every 6 seconds across charcoal sketch, watercolor, stained glass, 1970s 35mm film, and photoreal rooftop dusk.
 
-<a href="https://raphael-assets.colorepistle.com/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4"><img src="assets/examples/red-paper-kite-five-styles/preview.jpg" alt="Still frame from Red Paper Kite Across Five Art Styles MAGI-2 clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4"><img src="assets/examples/red-paper-kite-five-styles/preview.jpg" alt="Still frame from Red Paper Kite Across Five Art Styles MAGI-2 clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4)**
 
 <details><summary><strong>Full Structured Prompt (1035 chars)</strong></summary>
 
@@ -438,9 +438,9 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 Concise single-paragraph prompt generating a 30-second 16mm handheld neon music video synced end-to-end with a continuous 128 BPM EDM soundtrack.
 
-<a href="https://raphael-assets.colorepistle.com/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4"><img src="assets/examples/neon-night-run-edm/preview.jpg" alt="Still frame from Neon Night Run EDM MAGI-2 music video clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4"><img src="assets/examples/neon-night-run-edm/preview.jpg" alt="Still frame from Neon Night Run EDM MAGI-2 music video clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4)**
 
 **Prompt**
 
@@ -472,9 +472,9 @@ Generate with full audio: a loud continuous EDM music soundtrack must play from 
 
 6-scene mixed-media short blending a consistent hand-drawn 2D miniature character into live-action New York streets with synchronized urban SFX.
 
-<a href="https://raphael-assets.colorepistle.com/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4"><img src="assets/examples/tiny-2d-girl-in-nyc/preview.jpg" alt="Still frame from Tiny 2D Anime Girl in Photoreal NYC MAGI-2 clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4"><img src="assets/examples/tiny-2d-girl-in-nyc/preview.jpg" alt="Still frame from Tiny 2D Anime Girl in Photoreal NYC MAGI-2 clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4)**
 
 <details><summary><strong>Full Structured Prompt (3189 chars)</strong></summary>
 
@@ -540,9 +540,9 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 
 Two-character dramatic dialogue in a rainy late-night cafe with strict Mandarin lip-sync and two exact hard cuts at 7s and 14s.
 
-<a href="https://raphael-assets.colorepistle.com/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4"><img src="assets/examples/rainy-cafe-boarding-pass/preview.jpg" alt="Still frame from Rainy Night Cafe Boarding Pass MAGI-2 dialogue clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4"><img src="assets/examples/rainy-cafe-boarding-pass/preview.jpg" alt="Still frame from Rainy Night Cafe Boarding Pass MAGI-2 dialogue clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4)**
 
 <details><summary><strong>Full Structured Prompt (2312 chars)</strong></summary>
 
@@ -632,9 +632,9 @@ Negative:
 
 30-second 1440p 3D animated comedy anchored by two character reference sheets, featuring American English dialogue, hedgehog SFX, and a 14s match cut.
 
-<a href="https://raphael-assets.colorepistle.com/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4"><img src="assets/examples/hedgehog-pip-3d-comedy/preview.jpg" alt="Still frame from Maya and Pip the Hedgehog 3D animated MAGI-2 short" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4"><img src="assets/examples/hedgehog-pip-3d-comedy/preview.jpg" alt="Still frame from Maya and Pip the Hedgehog 3D animated MAGI-2 short" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4)**
 
 <details><summary><strong>Full Structured Prompt (4897 chars)</strong></summary>
 
@@ -707,9 +707,9 @@ NEGATIVE: no text or subtitles, no extra people or animals, no human speech from
 
 30-second continuous take morphing every 6 seconds across charcoal sketch, watercolor, stained glass, 1970s 35mm film, and photoreal rooftop dusk.
 
-<a href="https://raphael-assets.colorepistle.com/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4"><img src="assets/examples/red-paper-kite-five-styles/preview.jpg" alt="Still frame from Red Paper Kite Across Five Art Styles MAGI-2 clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4"><img src="assets/examples/red-paper-kite-five-styles/preview.jpg" alt="Still frame from Red Paper Kite Across Five Art Styles MAGI-2 clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4)**
 
 <details><summary><strong>Full Structured Prompt (1035 chars)</strong></summary>
 
@@ -754,9 +754,9 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 7-shot 30-second live-action Chinese campus short driven by subtle gestures, handwritten Chinese note edits, and pure library room foley.
 
-<a href="https://raphael-assets.colorepistle.com/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4"><img src="assets/examples/library-note-youth-short/preview.jpg" alt="Still frame from Library Note Chinese campus youth MAGI-2 short" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4"><img src="assets/examples/library-note-youth-short/preview.jpg" alt="Still frame from Library Note Chinese campus youth MAGI-2 short" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4)**
 
 <details><summary><strong>Full Structured Prompt (5411 chars)</strong></summary>
 
@@ -808,9 +808,9 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 30-second unbroken Steadicam single take traversing garden, boudoir, and sunlit salon locked by 4 reference images with layered spatial audio.
 
-<a href="https://raphael-assets.colorepistle.com/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4"><img src="assets/examples/rococo-garden-three-room-oner/preview.jpg" alt="Still frame from Rococo Garden Three-Room One-Take MAGI-2 clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4"><img src="assets/examples/rococo-garden-three-room-oner/preview.jpg" alt="Still frame from Rococo Garden Three-Room One-Take MAGI-2 clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4)**
 
 <details><summary><strong>Full Structured Prompt (2636 chars)</strong></summary>
 
@@ -872,9 +872,9 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 13-cut Japanese cel-animation street-food sequence anchored by @Image1 with shallow 24mm F1.4 look and pure Bangkok night-market ambient foley.
 
-<a href="https://raphael-assets.colorepistle.com/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4"><img src="assets/examples/bangkok-night-market-cel-anime/preview.jpg" alt="Still frame from Bangkok Night Market Japanese cel-anime MAGI-2 clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4"><img src="assets/examples/bangkok-night-market-cel-anime/preview.jpg" alt="Still frame from Bangkok Night Market Japanese cel-anime MAGI-2 clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4)**
 
 <details><summary><strong>Full Structured Prompt (2518 chars)</strong></summary>
 
@@ -974,9 +974,9 @@ cut13:
 
 4-scene 30-second vertical 9:16 creator-style running shoe commercial with lip-synced English dialogue, voiceover montage, and soft background music.
 
-<a href="https://raphael-assets.colorepistle.com/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4"><img src="assets/examples/asics-gel-nimbus-ugc-ad/preview.jpg" alt="Still frame from ASICS Gel Nimbus 9:16 vertical MAGI-2 UGC ad" width="300" /></a>
+<a href="https://awesome.raphael.app/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4"><img src="assets/examples/asics-gel-nimbus-ugc-ad/preview.jpg" alt="Still frame from ASICS Gel Nimbus 9:16 vertical MAGI-2 UGC ad" width="300" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4)**
 
 <details><summary><strong>Full Structured Prompt (2299 chars)</strong></summary>
 
@@ -1067,9 +1067,9 @@ Finished ad direction: A genuine creator-style product recommendation with a str
 
 Concise single-paragraph prompt generating a 30-second 16mm handheld neon music video synced end-to-end with a continuous 128 BPM EDM soundtrack.
 
-<a href="https://raphael-assets.colorepistle.com/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4"><img src="assets/examples/neon-night-run-edm/preview.jpg" alt="Still frame from Neon Night Run EDM MAGI-2 music video clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4"><img src="assets/examples/neon-night-run-edm/preview.jpg" alt="Still frame from Neon Night Run EDM MAGI-2 music video clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4)**
 
 **Prompt**
 
@@ -1105,9 +1105,9 @@ Generate with full audio: a loud continuous EDM music soundtrack must play from 
 
 6-scene mixed-media short blending a consistent hand-drawn 2D miniature character into live-action New York streets with synchronized urban SFX.
 
-<a href="https://raphael-assets.colorepistle.com/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4"><img src="assets/examples/tiny-2d-girl-in-nyc/preview.jpg" alt="Still frame from Tiny 2D Anime Girl in Photoreal NYC MAGI-2 clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4"><img src="assets/examples/tiny-2d-girl-in-nyc/preview.jpg" alt="Still frame from Tiny 2D Anime Girl in Photoreal NYC MAGI-2 clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4)**
 
 <details><summary><strong>Full Structured Prompt (3189 chars)</strong></summary>
 
@@ -1165,9 +1165,9 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 
 4-beat 15-second magical-realism fantasy timeline transforming a misty twilight forest into a glowing starlight garden with orchestral score.
 
-<a href="https://raphael-assets.colorepistle.com/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4"><img src="assets/examples/the-door-in-the-sky/preview.jpg" alt="Still frame from The Door in the Sky fantasy MAGI-2 short film" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4"><img src="assets/examples/the-door-in-the-sky/preview.jpg" alt="Still frame from The Door in the Sky fantasy MAGI-2 short film" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4)**
 
 <details><summary><strong>Full Structured Prompt (1134 chars)</strong></summary>
 

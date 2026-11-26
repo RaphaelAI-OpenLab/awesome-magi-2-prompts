@@ -10,9 +10,9 @@
 
 7-shot 30-second live-action Chinese campus short driven by subtle gestures, handwritten Chinese note edits, and pure library room foley.
 
-<a href="https://raphael-assets.colorepistle.com/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4"><img src="../../assets/examples/library-note-youth-short/preview.jpg" alt="Still frame from Library Note Chinese campus youth MAGI-2 short" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4"><img src="../../assets/examples/library-note-youth-short/preview.jpg" alt="Still frame from Library Note Chinese campus youth MAGI-2 short" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4)**
 
 **Full Prompt**
 

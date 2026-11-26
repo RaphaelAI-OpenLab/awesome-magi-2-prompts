@@ -10,9 +10,9 @@
 
 30-second unbroken Steadicam single take traversing garden, boudoir, and sunlit salon locked by 4 reference images with layered spatial audio.
 
-<a href="https://raphael-assets.colorepistle.com/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4"><img src="../../assets/examples/rococo-garden-three-room-oner/preview.jpg" alt="Still frame from Rococo Garden Three-Room One-Take MAGI-2 clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4"><img src="../../assets/examples/rococo-garden-three-room-oner/preview.jpg" alt="Still frame from Rococo Garden Three-Room One-Take MAGI-2 clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4)**
 
 **Full Prompt**
 

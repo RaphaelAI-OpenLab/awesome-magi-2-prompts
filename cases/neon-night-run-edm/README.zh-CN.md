@@ -10,9 +10,9 @@
 
 精简一段式英文提示词，生成 30 秒 16mm 手持霓虹夜景音乐短片，全程对齐 128 BPM 电子音乐节拍与落点。
 
-<a href="https://raphael-assets.colorepistle.com/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4"><img src="../../assets/examples/neon-night-run-edm/preview.jpg" alt="霓虹夜奔约会 MAGI-2 音乐短片封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4"><img src="../../assets/examples/neon-night-run-edm/preview.jpg" alt="霓虹夜奔约会 MAGI-2 音乐短片封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4)**
 
 **提示词**
 

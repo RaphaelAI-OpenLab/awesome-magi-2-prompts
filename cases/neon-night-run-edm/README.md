@@ -10,9 +10,9 @@
 
 Concise single-paragraph prompt generating a 30-second 16mm handheld neon music video synced end-to-end with a continuous 128 BPM EDM soundtrack.
 
-<a href="https://raphael-assets.colorepistle.com/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4"><img src="../../assets/examples/neon-night-run-edm/preview.jpg" alt="Still frame from Neon Night Run EDM MAGI-2 music video clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4"><img src="../../assets/examples/neon-night-run-edm/preview.jpg" alt="Still frame from Neon Night Run EDM MAGI-2 music video clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4)**
 
 **Prompt**
 

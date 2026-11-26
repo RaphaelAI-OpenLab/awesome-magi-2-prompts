@@ -10,9 +10,9 @@
 
 4-beat 15-second magical-realism fantasy timeline transforming a misty twilight forest into a glowing starlight garden with orchestral score.
 
-<a href="https://raphael-assets.colorepistle.com/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4"><img src="../../assets/examples/the-door-in-the-sky/preview.jpg" alt="Still frame from The Door in the Sky fantasy MAGI-2 short film" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4"><img src="../../assets/examples/the-door-in-the-sky/preview.jpg" alt="Still frame from The Door in the Sky fantasy MAGI-2 short film" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4)**
 
 **Full Prompt**
 

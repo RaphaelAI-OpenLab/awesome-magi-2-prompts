@@ -10,9 +10,9 @@
 
 30-second continuous take morphing every 6 seconds across charcoal sketch, watercolor, stained glass, 1970s 35mm film, and photoreal rooftop dusk.
 
-<a href="https://raphael-assets.colorepistle.com/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4"><img src="../../assets/examples/red-paper-kite-five-styles/preview.jpg" alt="Still frame from Red Paper Kite Across Five Art Styles MAGI-2 clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4"><img src="../../assets/examples/red-paper-kite-five-styles/preview.jpg" alt="Still frame from Red Paper Kite Across Five Art Styles MAGI-2 clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4)**
 
 **Full Prompt**
 

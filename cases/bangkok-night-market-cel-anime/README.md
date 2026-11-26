@@ -10,9 +10,9 @@
 
 13-cut Japanese cel-animation street-food sequence anchored by @Image1 with shallow 24mm F1.4 look and pure Bangkok night-market ambient foley.
 
-<a href="https://raphael-assets.colorepistle.com/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4"><img src="../../assets/examples/bangkok-night-market-cel-anime/preview.jpg" alt="Still frame from Bangkok Night Market Japanese cel-anime MAGI-2 clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4"><img src="../../assets/examples/bangkok-night-market-cel-anime/preview.jpg" alt="Still frame from Bangkok Night Market Japanese cel-anime MAGI-2 clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4)**
 
 **Full Prompt**
 

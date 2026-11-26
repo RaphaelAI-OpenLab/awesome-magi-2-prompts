@@ -10,9 +10,9 @@
 
 深夜雨中咖啡馆双人情感对白，含严格中文口型同步与第 7 秒、第 14 秒两次精准硬切。
 
-<a href="https://raphael-assets.colorepistle.com/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4"><img src="../../assets/examples/rainy-cafe-boarding-pass/preview.jpg" alt="雨夜咖啡馆的登机牌 MAGI-2 中文对白视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4"><img src="../../assets/examples/rainy-cafe-boarding-pass/preview.jpg" alt="雨夜咖啡馆的登机牌 MAGI-2 中文对白视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4)**
 
 **完整原始提示词**
 

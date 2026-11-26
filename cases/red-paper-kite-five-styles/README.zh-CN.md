@@ -10,9 +10,9 @@
 
 30 秒一镜到底，跟随同一只红纸风筝每 6 秒无缝穿越炭笔素描、水彩、彩绘玻璃、70 年代胶片与实景天台黄昏。
 
-<a href="https://raphael-assets.colorepistle.com/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4"><img src="../../assets/examples/red-paper-kite-five-styles/preview.jpg" alt="红纸风筝穿过五种画风 MAGI-2 视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4"><img src="../../assets/examples/red-paper-kite-five-styles/preview.jpg" alt="红纸风筝穿过五种画风 MAGI-2 视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4)**
 
 **完整原始提示词**
 

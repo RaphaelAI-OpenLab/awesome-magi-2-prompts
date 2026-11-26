@@ -146,9 +146,9 @@ SAMPLES=my_samples.json bash scripts/run_demo.sh
 
 深夜雨中咖啡馆双人情感对白，含严格中文口型同步与第 7 秒、第 14 秒两次精准硬切。
 
-<a href="https://raphael-assets.colorepistle.com/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4"><img src="assets/examples/rainy-cafe-boarding-pass/preview.jpg" alt="雨夜咖啡馆的登机牌 MAGI-2 中文对白视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4"><img src="assets/examples/rainy-cafe-boarding-pass/preview.jpg" alt="雨夜咖啡馆的登机牌 MAGI-2 中文对白视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4)**
 
 <details><summary><strong>展开完整原始提示词（2312 字）</strong></summary>
 
@@ -238,9 +238,9 @@ Negative:
 
 4 张参考图锁定女主角与三段连续空间，30 秒无缝一镜到底穿行花园、闺房与阳光沙龙，配层次化自然环境音与钢琴声。
 
-<a href="https://raphael-assets.colorepistle.com/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4"><img src="assets/examples/rococo-garden-three-room-oner/preview.jpg" alt="洛可可花园三场景一镜到底 MAGI-2 多图参考视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4"><img src="assets/examples/rococo-garden-three-room-oner/preview.jpg" alt="洛可可花园三场景一镜到底 MAGI-2 多图参考视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4)**
 
 <details><summary><strong>展开完整原始提示词（2636 字）</strong></summary>
 
@@ -302,9 +302,9 @@ Negative:
 
 4 幕 30 秒 9:16 竖屏跑鞋口播广告，含门廊开场、上脚特写、公园慢跑旁白与收尾推荐，英文对白与口型同步。
 
-<a href="https://raphael-assets.colorepistle.com/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4"><img src="assets/examples/asics-gel-nimbus-ugc-ad/preview.jpg" alt="ASICS Gel Nimbus 跑鞋竖屏 UGC 广告视频封面帧" width="300" /></a>
+<a href="https://awesome.raphael.app/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4"><img src="assets/examples/asics-gel-nimbus-ugc-ad/preview.jpg" alt="ASICS Gel Nimbus 跑鞋竖屏 UGC 广告视频封面帧" width="300" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4)**
 
 <details><summary><strong>展开完整原始提示词（2299 字）</strong></summary>
 
@@ -391,9 +391,9 @@ Finished ad direction: A genuine creator-style product recommendation with a str
 
 30 秒一镜到底，跟随同一只红纸风筝每 6 秒无缝穿越炭笔素描、水彩、彩绘玻璃、70 年代胶片与实景天台黄昏。
 
-<a href="https://raphael-assets.colorepistle.com/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4"><img src="assets/examples/red-paper-kite-five-styles/preview.jpg" alt="红纸风筝穿过五种画风 MAGI-2 视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4"><img src="assets/examples/red-paper-kite-five-styles/preview.jpg" alt="红纸风筝穿过五种画风 MAGI-2 视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4)**
 
 <details><summary><strong>展开完整原始提示词（1035 字）</strong></summary>
 
@@ -438,9 +438,9 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 精简一段式英文提示词，生成 30 秒 16mm 手持霓虹夜景音乐短片，全程对齐 128 BPM 电子音乐节拍与落点。
 
-<a href="https://raphael-assets.colorepistle.com/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4"><img src="assets/examples/neon-night-run-edm/preview.jpg" alt="霓虹夜奔约会 MAGI-2 音乐短片封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4"><img src="assets/examples/neon-night-run-edm/preview.jpg" alt="霓虹夜奔约会 MAGI-2 音乐短片封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4)**
 
 **提示词**
 
@@ -472,9 +472,9 @@ Generate with full audio: a loud continuous EDM music soundtrack must play from 
 
 6 幕二维手绘小人闯入超写实纽约街头的实景混合动画，保持角色比例、穿搭与物理光影交互一致，配纯都市拟音。
 
-<a href="https://raphael-assets.colorepistle.com/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4"><img src="assets/examples/tiny-2d-girl-in-nyc/preview.jpg" alt="迷你动画女孩闯入纽约实景 MAGI-2 混合媒介动画封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4"><img src="assets/examples/tiny-2d-girl-in-nyc/preview.jpg" alt="迷你动画女孩闯入纽约实景 MAGI-2 混合媒介动画封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4)**
 
 <details><summary><strong>展开完整原始提示词（3189 字）</strong></summary>
 
@@ -540,9 +540,9 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 
 深夜雨中咖啡馆双人情感对白，含严格中文口型同步与第 7 秒、第 14 秒两次精准硬切。
 
-<a href="https://raphael-assets.colorepistle.com/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4"><img src="assets/examples/rainy-cafe-boarding-pass/preview.jpg" alt="雨夜咖啡馆的登机牌 MAGI-2 中文对白视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4"><img src="assets/examples/rainy-cafe-boarding-pass/preview.jpg" alt="雨夜咖啡馆的登机牌 MAGI-2 中文对白视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4)**
 
 <details><summary><strong>展开完整原始提示词（2312 字）</strong></summary>
 
@@ -632,9 +632,9 @@ Negative:
 
 双角色设定图驱动的 30 秒 1440p 3D 萌宠喜剧短片，含美式英语口型对白、刺猬拟音、配乐变化与第 14 秒精准匹配剪辑。
 
-<a href="https://raphael-assets.colorepistle.com/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4"><img src="assets/examples/hedgehog-pip-3d-comedy/preview.jpg" alt="刺猬 Pip 的 3D 萌宠短剧 MAGI-2 视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4"><img src="assets/examples/hedgehog-pip-3d-comedy/preview.jpg" alt="刺猬 Pip 的 3D 萌宠短剧 MAGI-2 视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4)**
 
 <details><summary><strong>展开完整原始提示词（4897 字）</strong></summary>
 
@@ -707,9 +707,9 @@ NEGATIVE: no text or subtitles, no extra people or animals, no human speech from
 
 30 秒一镜到底，跟随同一只红纸风筝每 6 秒无缝穿越炭笔素描、水彩、彩绘玻璃、70 年代胶片与实景天台黄昏。
 
-<a href="https://raphael-assets.colorepistle.com/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4"><img src="assets/examples/red-paper-kite-five-styles/preview.jpg" alt="红纸风筝穿过五种画风 MAGI-2 视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4"><img src="assets/examples/red-paper-kite-five-styles/preview.jpg" alt="红纸风筝穿过五种画风 MAGI-2 视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/32b60448-840a-4f10-9ec9-1c6a1d8ac5ba.mp4)**
 
 <details><summary><strong>展开完整原始提示词（1035 字）</strong></summary>
 
@@ -754,9 +754,9 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 7 镜头 30 秒中国高中图书馆无对白实拍短片，围绕纸条改字、推书与桌下鞋尖轻触展开叙事，纯环境与动作拟音。
 
-<a href="https://raphael-assets.colorepistle.com/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4"><img src="assets/examples/library-note-youth-short/preview.jpg" alt="图书馆纸条里的青春暗号 MAGI-2 校园短片封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4"><img src="assets/examples/library-note-youth-short/preview.jpg" alt="图书馆纸条里的青春暗号 MAGI-2 校园短片封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4)**
 
 <details><summary><strong>展开完整原始提示词（5411 字）</strong></summary>
 
@@ -808,9 +808,9 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 4 张参考图锁定女主角与三段连续空间，30 秒无缝一镜到底穿行花园、闺房与阳光沙龙，配层次化自然环境音与钢琴声。
 
-<a href="https://raphael-assets.colorepistle.com/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4"><img src="assets/examples/rococo-garden-three-room-oner/preview.jpg" alt="洛可可花园三场景一镜到底 MAGI-2 多图参考视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4"><img src="assets/examples/rococo-garden-three-room-oner/preview.jpg" alt="洛可可花园三场景一镜到底 MAGI-2 多图参考视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4)**
 
 <details><summary><strong>展开完整原始提示词（2636 字）</strong></summary>
 
@@ -872,9 +872,9 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 基于 @Image1 角色锁定的 13 镜头日式手绘赛璐璐动画，以 24mm F1.4 浅景深呈现曼谷夜市烹制过程与纯环境拟音。
 
-<a href="https://raphael-assets.colorepistle.com/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4"><img src="assets/examples/bangkok-night-market-cel-anime/preview.jpg" alt="曼谷夜市摊档手绘动画 MAGI-2 视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4"><img src="assets/examples/bangkok-night-market-cel-anime/preview.jpg" alt="曼谷夜市摊档手绘动画 MAGI-2 视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4)**
 
 <details><summary><strong>展开完整原始提示词（2518 字）</strong></summary>
 
@@ -974,9 +974,9 @@ cut13:
 
 4 幕 30 秒 9:16 竖屏跑鞋口播广告，含门廊开场、上脚特写、公园慢跑旁白与收尾推荐，英文对白与口型同步。
 
-<a href="https://raphael-assets.colorepistle.com/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4"><img src="assets/examples/asics-gel-nimbus-ugc-ad/preview.jpg" alt="ASICS Gel Nimbus 跑鞋竖屏 UGC 广告视频封面帧" width="300" /></a>
+<a href="https://awesome.raphael.app/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4"><img src="assets/examples/asics-gel-nimbus-ugc-ad/preview.jpg" alt="ASICS Gel Nimbus 跑鞋竖屏 UGC 广告视频封面帧" width="300" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4)**
 
 <details><summary><strong>展开完整原始提示词（2299 字）</strong></summary>
 
@@ -1067,9 +1067,9 @@ Finished ad direction: A genuine creator-style product recommendation with a str
 
 精简一段式英文提示词，生成 30 秒 16mm 手持霓虹夜景音乐短片，全程对齐 128 BPM 电子音乐节拍与落点。
 
-<a href="https://raphael-assets.colorepistle.com/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4"><img src="assets/examples/neon-night-run-edm/preview.jpg" alt="霓虹夜奔约会 MAGI-2 音乐短片封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4"><img src="assets/examples/neon-night-run-edm/preview.jpg" alt="霓虹夜奔约会 MAGI-2 音乐短片封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/53df4174-2cc7-4d5f-9862-5dfce6bacb32.mp4)**
 
 **提示词**
 
@@ -1105,9 +1105,9 @@ Generate with full audio: a loud continuous EDM music soundtrack must play from 
 
 6 幕二维手绘小人闯入超写实纽约街头的实景混合动画，保持角色比例、穿搭与物理光影交互一致，配纯都市拟音。
 
-<a href="https://raphael-assets.colorepistle.com/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4"><img src="assets/examples/tiny-2d-girl-in-nyc/preview.jpg" alt="迷你动画女孩闯入纽约实景 MAGI-2 混合媒介动画封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4"><img src="assets/examples/tiny-2d-girl-in-nyc/preview.jpg" alt="迷你动画女孩闯入纽约实景 MAGI-2 混合媒介动画封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4)**
 
 <details><summary><strong>展开完整原始提示词（3189 字）</strong></summary>
 
@@ -1165,9 +1165,9 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 
 15 秒四段式魔幻写实短片时间轴：暮色迷雾森林中浮现空中金门并化作星光花海，配情绪管弦配乐。
 
-<a href="https://raphael-assets.colorepistle.com/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4"><img src="assets/examples/the-door-in-the-sky/preview.jpg" alt="天空之门 MAGI-2 奇幻短片封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4"><img src="assets/examples/the-door-in-the-sky/preview.jpg" alt="天空之门 MAGI-2 奇幻短片封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4)**
 
 <details><summary><strong>展开完整原始提示词（1134 字）</strong></summary>
 

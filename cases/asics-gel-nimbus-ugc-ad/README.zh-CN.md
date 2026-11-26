@@ -10,9 +10,9 @@
 
 4 幕 30 秒 9:16 竖屏跑鞋口播广告，含门廊开场、上脚特写、公园慢跑旁白与收尾推荐，英文对白与口型同步。
 
-<a href="https://raphael-assets.colorepistle.com/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4"><img src="../../assets/examples/asics-gel-nimbus-ugc-ad/preview.jpg" alt="ASICS Gel Nimbus 跑鞋竖屏 UGC 广告视频封面帧" width="300" /></a>
+<a href="https://awesome.raphael.app/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4"><img src="../../assets/examples/asics-gel-nimbus-ugc-ad/preview.jpg" alt="ASICS Gel Nimbus 跑鞋竖屏 UGC 广告视频封面帧" width="300" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4)**
 
 **完整原始提示词**
 

@@ -10,9 +10,9 @@
 
 6 幕二维手绘小人闯入超写实纽约街头的实景混合动画，保持角色比例、穿搭与物理光影交互一致，配纯都市拟音。
 
-<a href="https://raphael-assets.colorepistle.com/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4"><img src="../../assets/examples/tiny-2d-girl-in-nyc/preview.jpg" alt="迷你动画女孩闯入纽约实景 MAGI-2 混合媒介动画封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4"><img src="../../assets/examples/tiny-2d-girl-in-nyc/preview.jpg" alt="迷你动画女孩闯入纽约实景 MAGI-2 混合媒介动画封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/a8d7cc8d-69ed-4500-8658-86e7c85b8182.mp4)**
 
 **完整原始提示词**
 

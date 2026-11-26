@@ -10,9 +10,9 @@
 
 30-second 1440p 3D animated comedy anchored by two character reference sheets, featuring American English dialogue, hedgehog SFX, and a 14s match cut.
 
-<a href="https://raphael-assets.colorepistle.com/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4"><img src="../../assets/examples/hedgehog-pip-3d-comedy/preview.jpg" alt="Still frame from Maya and Pip the Hedgehog 3D animated MAGI-2 short" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4"><img src="../../assets/examples/hedgehog-pip-3d-comedy/preview.jpg" alt="Still frame from Maya and Pip the Hedgehog 3D animated MAGI-2 short" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4)**
 
 **Full Prompt**
 

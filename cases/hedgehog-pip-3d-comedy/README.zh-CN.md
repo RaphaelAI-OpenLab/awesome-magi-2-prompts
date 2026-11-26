@@ -10,9 +10,9 @@
 
 双角色设定图驱动的 30 秒 1440p 3D 萌宠喜剧短片，含美式英语口型对白、刺猬拟音、配乐变化与第 14 秒精准匹配剪辑。
 
-<a href="https://raphael-assets.colorepistle.com/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4"><img src="../../assets/examples/hedgehog-pip-3d-comedy/preview.jpg" alt="刺猬 Pip 的 3D 萌宠短剧 MAGI-2 视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4"><img src="../../assets/examples/hedgehog-pip-3d-comedy/preview.jpg" alt="刺猬 Pip 的 3D 萌宠短剧 MAGI-2 视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/60bfd130-6d8c-477d-b2d3-72839e63c7e6.mp4)**
 
 **完整原始提示词**
 

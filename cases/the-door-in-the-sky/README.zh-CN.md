@@ -10,9 +10,9 @@
 
 15 秒四段式魔幻写实短片时间轴：暮色迷雾森林中浮现空中金门并化作星光花海，配情绪管弦配乐。
 
-<a href="https://raphael-assets.colorepistle.com/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4"><img src="../../assets/examples/the-door-in-the-sky/preview.jpg" alt="天空之门 MAGI-2 奇幻短片封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4"><img src="../../assets/examples/the-door-in-the-sky/preview.jpg" alt="天空之门 MAGI-2 奇幻短片封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/f8df786e-2c54-4c4b-b8ed-14bdbdb1904e.mp4)**
 
 **完整原始提示词**
 

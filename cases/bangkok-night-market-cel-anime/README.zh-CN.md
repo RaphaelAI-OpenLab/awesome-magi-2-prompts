@@ -10,9 +10,9 @@
 
 基于 @Image1 角色锁定的 13 镜头日式手绘赛璐璐动画，以 24mm F1.4 浅景深呈现曼谷夜市烹制过程与纯环境拟音。
 
-<a href="https://raphael-assets.colorepistle.com/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4"><img src="../../assets/examples/bangkok-night-market-cel-anime/preview.jpg" alt="曼谷夜市摊档手绘动画 MAGI-2 视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4"><img src="../../assets/examples/bangkok-night-market-cel-anime/preview.jpg" alt="曼谷夜市摊档手绘动画 MAGI-2 视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/797d2fec-1e8b-4747-a5bd-296e631221e9.mp4)**
 
 **完整原始提示词**
 

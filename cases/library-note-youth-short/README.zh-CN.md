@@ -10,9 +10,9 @@
 
 7 镜头 30 秒中国高中图书馆无对白实拍短片，围绕纸条改字、推书与桌下鞋尖轻触展开叙事，纯环境与动作拟音。
 
-<a href="https://raphael-assets.colorepistle.com/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4"><img src="../../assets/examples/library-note-youth-short/preview.jpg" alt="图书馆纸条里的青春暗号 MAGI-2 校园短片封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4"><img src="../../assets/examples/library-note-youth-short/preview.jpg" alt="图书馆纸条里的青春暗号 MAGI-2 校园短片封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/8b4ed9b9-5c66-4c49-b40c-a011d18ab44f.mp4)**
 
 **完整原始提示词**
 

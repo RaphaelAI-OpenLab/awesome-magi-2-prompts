@@ -10,9 +10,9 @@
 
 4-scene 30-second vertical 9:16 creator-style running shoe commercial with lip-synced English dialogue, voiceover montage, and soft background music.
 
-<a href="https://raphael-assets.colorepistle.com/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4"><img src="../../assets/examples/asics-gel-nimbus-ugc-ad/preview.jpg" alt="Still frame from ASICS Gel Nimbus 9:16 vertical MAGI-2 UGC ad" width="300" /></a>
+<a href="https://awesome.raphael.app/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4"><img src="../../assets/examples/asics-gel-nimbus-ugc-ad/preview.jpg" alt="Still frame from ASICS Gel Nimbus 9:16 vertical MAGI-2 UGC ad" width="300" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/e21e0ccd-1aae-4cfd-9424-6b85fe352192.mp4)**
 
 **Full Prompt**
 

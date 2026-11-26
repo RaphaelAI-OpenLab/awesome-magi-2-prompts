@@ -10,9 +10,9 @@
 
 Two-character dramatic dialogue in a rainy late-night cafe with strict Mandarin lip-sync and two exact hard cuts at 7s and 14s.
 
-<a href="https://raphael-assets.colorepistle.com/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4"><img src="../../assets/examples/rainy-cafe-boarding-pass/preview.jpg" alt="Still frame from Rainy Night Cafe Boarding Pass MAGI-2 dialogue clip" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4"><img src="../../assets/examples/rainy-cafe-boarding-pass/preview.jpg" alt="Still frame from Rainy Night Cafe Boarding Pass MAGI-2 dialogue clip" width="640" /></a>
 
-▶ **[Watch audio-enabled MP4](https://raphael-assets.colorepistle.com/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4)**
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/74ab8314-1821-4d7e-bd69-c39b4e840ba8.mp4)**
 
 **Full Prompt**
 

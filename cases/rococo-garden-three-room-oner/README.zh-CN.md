@@ -10,9 +10,9 @@
 
 4 张参考图锁定女主角与三段连续空间，30 秒无缝一镜到底穿行花园、闺房与阳光沙龙，配层次化自然环境音与钢琴声。
 
-<a href="https://raphael-assets.colorepistle.com/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4"><img src="../../assets/examples/rococo-garden-three-room-oner/preview.jpg" alt="洛可可花园三场景一镜到底 MAGI-2 多图参考视频封面帧" width="640" /></a>
+<a href="https://awesome.raphael.app/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4"><img src="../../assets/examples/rococo-garden-three-room-oner/preview.jpg" alt="洛可可花园三场景一镜到底 MAGI-2 多图参考视频封面帧" width="640" /></a>
 
-▶ **[播放有声视频原片](https://raphael-assets.colorepistle.com/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4)**
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/0b3445d5-9078-4c49-b3e8-b0f6189f23b3.mp4)**
 
 **完整原始提示词**
 

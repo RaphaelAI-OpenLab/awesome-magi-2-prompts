@@ -130,9 +130,9 @@ SAMPLES=my_samples.json bash scripts/run_demo.sh
 | --- | --- |
 | 🎬 Total cases | **10** |
 | ⭐ Featured cases | **6** |
-| 🔄 Last updated | **2026-11-26 UTC 08:07:43** |
+| 🔄 Last updated | **2026-11-26 UTC 09:46:53** |
 
-<!-- cms-stats 10 2026-11-26T08:07:43Z -->
+<!-- cms-stats 10 2026-11-26T09:46:53Z -->
 
 <a id="featured"></a>
 

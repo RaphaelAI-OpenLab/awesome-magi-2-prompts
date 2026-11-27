@@ -210,6 +210,8 @@ def validate_config(config, errors: list[str]) -> None:
         errors.append("tracking: expected utm_source, utm_medium, and utm_campaign")
     if not re.fullmatch(r"[A-Za-z0-9_]+", str(config["cms"].get("collection", ""))):
         errors.append("cms.collection: invalid collection identifier")
+    if config["cms"].get("media_base_url") is not None and not is_https_url(config["cms"]["media_base_url"]):
+        errors.append("cms.media_base_url: expected HTTPS URL")
 
     try:
         updated = dt.datetime.fromisoformat(presentation["updated_at"])
@@ -439,6 +441,20 @@ def validate(*, release: bool = False, check_links: bool = True) -> tuple[list[s
         return errors, warnings
 
     validate_prompts(config, prompts, errors, warnings, release=release)
+    state_path = ROOT / "content" / "cms-sync-state.json"
+    if state_path.is_file():
+        try:
+            state = read_json("content/cms-sync-state.json")
+            id_map = state.get("id_map")
+            known_ids = {item["id"] for item in prompts if item.get("id")}
+            if not isinstance(id_map, dict):
+                errors.append("content/cms-sync-state.json.id_map: expected an object")
+            else:
+                for cms_id, prompt_id in id_map.items():
+                    if prompt_id not in known_ids:
+                        errors.append(f"content/cms-sync-state.json.id_map[{cms_id}]: unknown prompt ID {prompt_id!r}")
+        except (OSError, json.JSONDecodeError) as exc:
+            errors.append(f"content/cms-sync-state.json: {exc}")
     validate_repo_hygiene(errors)
     validate_examples(errors)
     for asset in ("assets/header.svg", "assets/gallery-placeholder.svg"):

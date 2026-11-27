@@ -38,7 +38,7 @@
 
 ## 🏷️ 按分类浏览
 
-[全部 (10)](#all-cases) · [对白与口型同步 (2)](#category-dialogue-lip-sync) · [多镜头时间轴叙事 (2)](#category-multi-shot-storytelling) · [全能多素材一致性 (2)](#category-omni-reference) · [产品与商业广告 (1)](#category-product-commercials) · [音效、配乐与环境音 (1)](#category-sfx-ambience) · [电影感与动画风格 (2)](#category-cinematic-animation)
+[全部 (17)](#all-cases) · [对白与口型同步 (3)](#category-dialogue-lip-sync) · [多镜头时间轴叙事 (2)](#category-multi-shot-storytelling) · [全能多素材一致性 (4)](#category-omni-reference) · [产品与商业广告 (3)](#category-product-commercials) · [音效、配乐与环境音 (3)](#category-sfx-ambience) · [电影感与动画风格 (2)](#category-cinematic-animation)
 
 <a id="contents"></a>
 
@@ -128,11 +128,11 @@ SAMPLES=my_samples.json bash scripts/run_demo.sh
 
 | **指标** | **数量** |
 | --- | --- |
-| 🎬 素材总数 | **10** |
+| 🎬 素材总数 | **17** |
 | ⭐ 精选案例 | **6** |
-| 🔄 最后更新 | **2026年11月26日星期四 UTC 21:45:36** |
+| 🔄 最后更新 | **2026年11月27日星期五 UTC 08:36:16** |
 
-<!-- cms-stats 10 2026-11-26T21:45:36Z -->
+<!-- cms-stats 17 2026-11-27T08:36:16Z -->
 
 <a id="featured"></a>
 
@@ -532,9 +532,143 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 
 ### 对白与口型同步
 
+<a id="case-cms-0c9e2e90"></a>
+
+#### 1. 古镇早市的婚期笑谈
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@abulu8）：古镇早市的婚期笑谈。
+
+<a href="https://awesome.raphael.app/materials/3bf7b3ae-d38f-4696-afdc-09c08d164658.mp4"><img src="assets/examples/cms-0c9e2e90/preview.jpg" alt="MAGI-2 案例《古镇早市的婚期笑谈》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/3bf7b3ae-d38f-4696-afdc-09c08d164658.mp4)**
+
+<details><summary><strong>展开完整原始提示词（4156 字）</strong></summary>
+
+```text
+【全局前置设定：画质与质感】
+
+1970 年代香港武侠电影中的生活喜剧段落质感。Techniscope 2.35:1 宽银幕，褪色偏暖的 Eastmancolor 胶片色调，厚重的胶片颗粒，轻微的片门抖动与边缘暗角。
+
+那个年代的外景拍法：明亮的清晨阳光，饱满的暖黄色调，人物脸上有油彩妆感与清晰的轮廓光。摄影棚搭建的古镇街市布景，色彩鲜亮热闹。
+
+全片没有任何打斗、没有兵器出鞘、没有特效。
+
+声音：轻快俏皮的笛子与锣鼓配乐，市集里此起彼伏的吆喝声与讨价还价声（听不清具体内容）、鸡鸭叫声、扁担吱呀声、车轮声。对白是那个年代的国语配音质感，清晰、略带回响。
+
+【韩子墨·书生剑客】
+
+成年东亚男性，约二十六岁，身高 5 英尺 10 寸，身形修长匀称，比例正常的成年男性体型。黑色头发在头顶束成发髻，用一根青色发带系住；一双认真的眼睛，眉毛一急就皱起来，脸上有那个年代的油彩妆感。身穿浅青色长衫，腰系白色腰带，黑色布鞋。手里提着一只空的竹编菜篮。
+
+他稳重、老实、心急。他已经求过亲，她也答应了，现在他只想快点把日子定下来。被她逗的时候，他会皱眉、撇嘴、耳朵发红。
+
+【柳莺莺·俏姑娘】
+
+成年东亚女性，约二十二岁，身高 5 英尺 3 寸，身形娇小轻快，比例正常的成年女性体型。黑色长发编成一条长辫垂在肩前，辫梢系着一条红头绳，额前留着齐眉的刘海；一双灵动的大眼睛，笑起来两个酒窝，脸上有那个年代的油彩妆感与淡淡的胭脂。身穿桃红色的碎花短袄，配一条靛蓝色长裤，腰系一条白色围裙，黑色布鞋。
+
+她心里比谁都想嫁他，但她就是喜欢看他着急。她逗他的时候总是在挑菜——眼睛盯着菜，嘴角却在偷笑，时不时用眼角瞟他一眼。
+
+【体型比例·必须严格遵守】
+
+韩子墨 5 英尺 10 寸，柳莺莺 5 英尺 3 寸。两人并肩走时，她的头顶到他的肩膀。全程严格保持。
+
+【人体完整性·防变形·必须严格遵守】
+
+韩子墨与柳莺莺每人始终是两条手臂、两条腿、一个头，每只手五根手指。两人的面孔在任何角度下都保持稳定，五官不得拉伸、融化或互换。
+
+所有蔬菜保持原本的形状与颜色，不得变形、融化、变成别的东西。菜篮里的菜只会越来越多，不会凭空消失。
+
+【场景：清晨的古镇菜市】
+
+一条热闹的古镇街市，清晨。
+
+青石板路两旁挤满了菜摊：竹筐里堆着翠绿的白菜、红艳艳的番茄、白胖的萝卜、一串串红辣椒、一捆捆青葱、紫亮的茄子、金黄的玉米。头顶撑着一顶顶灰白色的布棚，棚下挂着成串的干辣椒与大蒜。
+
+一个卖鸡鸭的摊子上，几只鸡在竹笼里咕咕叫。一个卖豆腐的担子冒着热气。路边有一辆装满南瓜的木板车。
+
+街两侧是白墙黑瓦的店铺，招牌旗子在晨风中飘。阳光从街口斜射进来，穿过布棚的缝隙，在石板路上投下一道道明暗交错的光斑。
+
+【市集里的人·背景层·必须严格遵守】
+
+街市里有来来往往的赶集百姓与守着摊子的菜贩，他们是热闹的背景：挑着担子走过的、提着篮子讨价还价的、坐在小凳上剥豆子的。
+
+他们始终在背景与中景，比两名主角更远、更小，绝不进入两人的近景，绝不挡住两人的脸，不给单独的特写，不说可听清的台词。菜贩始终站在自己的摊子后面。
+
+只有一个例外：26 秒番茄滚落时，旁边番茄摊的胖大婶会出现在中景，捂着嘴笑。
+
+所有背景人物的面孔与身体同样保持稳定，不得变形、融合、复制。
+
+【刚性空间锚点】青石板街的走向、两侧菜摊的排列、装满南瓜的木板车、街口的阳光方向，全片绝不漂移。
+
+【对白规则·必须严格遵守】
+
+本片共有九句台词，全部在下方时间码中以「」标出。只有「」内的中文是被说出来的。其余所有文字——动作描述、表情描述、运镜说明——全部是画面说明，绝对不得念出、不得配音、不得作为旁白。
+
+全片主角台词不得超过九句。背景人群只有听不清的嘈杂声，不得出现清晰的台词。不得出现旁白、内心独白。
+
+韩子墨为年轻男声，认真、心急、越说越委屈。柳莺莺为年轻女声，清脆、俏皮、漫不经心，最后一句压低了声音，又软又甜。唇形自然同步。
+
+【运镜·七十年代生活段落语法】
+
+以两人并肩行走时的横移跟拍为主，镜头始终与他们同速，保持两人在画面中央；两人之间的过肩正反打；每一次她拿起一样菜时，一次快速的变焦推近到那样菜。镜头稳定，绝不晃动。
+
+【表演的铁律】
+
+两人一直在走、在挑菜、在把菜往篮子里放。每一句台词之前与之后都有一个具体的动作。不得出现两个人站着不动念台词的画面。
+
+━━━━━━━━━━━━━━━━━━
+
+【0.0—4.0 秒｜赶集】
+
+缓慢横移的广角：清晨热闹的街市，阳光穿过布棚洒在青石板上，菜摊上的蔬菜颜色鲜亮，赶集的人来来往往，鸡在笼子里咕咕叫。
+
+镜头穿过人群，找到并肩走着的两人：柳莺莺走在前面半步，一边走一边东张西望地看菜；韩子墨跟在旁边，提着空菜篮，眼睛一直看着她。
+
+韩子墨清了清嗓子，凑近她一点。
+
+韩子墨：「莺莺，我们早点成亲吧。」
+
+运镜：横移跟拍，与两人同速，他开口时稳定在两人的中景。
+
+【4.0—8.0 秒｜挑白菜】
+
+柳莺莺在一个菜摊前停下，拿起一棵大白菜，翻来覆去地看，捏捏菜帮子，又凑近闻了闻。
+
+运镜：快速变焦推近白菜，再拉回。
+
+柳莺莺：「急什么？我还没挑好呢。」
+
+她眼睛盯着白菜，嘴角却偷偷往上翘，用眼角瞟了他一眼。说完，她把白菜往他的菜篮里一放。
+
+反打近景：韩子墨低头看看篮子里的白菜，又抬头看她，
+
+... [truncated in root README; open standalone case page for full prompt]
+```
+
+[前往独立案例页查看完整 4156 字提示词 →](cases/cms-0c9e2e90/README.zh-CN.md)
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 30.3s · 30 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/abulu8/status/2125929153639936164) · 作者: [@abulu8](https://x.com/abulu8) · 2026-11-26
+
+> 作者在 X 原帖中称使用 MAGI-2，模型未经独立核实。
+
+[案例详情页](cases/cms-0c9e2e90/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-0c9e2e90&utm_term=zh-CN)**
+
+---
+
 <a id="case-rainy-cafe-boarding-pass"></a>
 
-#### 1. 雨夜咖啡馆的登机牌
+#### 2. 雨夜咖啡馆的登机牌
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -626,7 +760,7 @@ Negative:
 
 <a id="case-hedgehog-pip-3d-comedy"></a>
 
-#### 2. 刺猬 Pip 的 3D 萌宠短剧
+#### 3. 刺猬 Pip 的 3D 萌宠短剧
 
 **来源类型**: `community` · **任务**: `OMNI-REF` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -655,22 +789,12 @@ PALETTE: before the cut — bright sunny afternoon, warm yellow light, Maya in a
 
 STORY: Maya keeps dodging Pip's pointy cuddles, until an unreachable sweater itch makes his quills the perfect back-scratcher.
 
-0-5s | Sunny afternoon. Maya reads in the armchair in her white T-shirt. Pip climbs up her arm and snuggles against her neck. At contact tiny pink cartoon starbursts pop where the quills touch. Maya jolts, eyes wide, shoulders hunched, teeth clenched: {Ow! Pip, you're so pointy!} Pip looks up, nose twitching happily, and presses closer. <hedgehog snuffles, tiny boing at contact> (pizzicato strings, ukulele)
+0-5s | Sunny afternoon. Maya reads in the armchair in her white T-shirt. Pip climbs up her arm and snuggles against her neck. At contact tiny pink cartoon starbursts pop where the quills touch. Maya jolts, eyes wide, shoulders hunched, teeth clenched: {Ow! Pip
 
-5-11s | Maya sets him on her lap and leans away; the starbursts fade. Pip notices the gap, trots after her and presses close; starbursts again. Wider shot: he follows again until she is tipped over the armrest, one hand held out flat: {Pip, personal space, please!} Pip pushes his soft nose into her palm; she grimaces but strokes his soft forehead with one fingertip. <chair creaks; music pauses before the line>
-
-11-14s | Maya cups him with both hands under his belly and sets him on the fleece blanket on the side table, then offers him a blueberry from the bowl. Pip nibbles it, then looks at her, head tilted, puzzled. Maya sighs, then slides the whole bowl closer to him with a rueful smile. (score softens)
-
-14-19s | Match cut, same composition: rainy evening. Maya now wears the chunky wool sweater. Wiggly yellow cartoon itch squiggles crawl between her shoulder blades. She twists and reaches over her shoulder, can't reach, rubs against the chair back, grimacing. Then she notices Pip on the side table. Eyes light up; she pats her shoulder eagerly: {Pip! Come here, buddy!} <rain on glass, wool rustle, bright xylophone note>
-
-19-23s | Medium close two-shot. Pip turns toward her, looks at her face, then at her shoulder, lifts his chin and half-closes his eyes smugly for half a second. Maya grins pleadingly and holds out a cupped palm. Pip walks onto it; she supports his belly, leans forward and gently sets him on her sweater between her shoulder blades. (plucked phrase, then gentle piano)
-
-23-30s | Pip shuffles side to side; his quills rake the wool, and each itch squiggle pops into warm sparkles. Maya's shoulders drop, eyes close, long sigh: {Oh, that's the spot.} Pip pauses and starts to climb down; her eyes open and she steadies him with a palm: {Don't stop now.} A brief smug look, then Pip scratches in little circles again. Maya laughs softly; Pip ends curled on her shoulder as she strokes his face. <contented hedgehog huffs> (warm cello and piano ending)
-
-AUDIO: Dialogue language: natural American English, spoken only by Maya, mouth visible and lip-synced; complaints are exasperated, never flat. Pip makes only natural hedgehog sounds. Lyric-free score under dialogue: pizzicato and ukulele before the cut, rain ambience then warm cello and piano after. No laugh track, no narration.
-
-NEGATIVE: no text or subtitles, no extra people or animals, no human speech from Pip, no clothing or accessories on Pip, no extra limbs or tails, no clipping, no floating, no props appearing from nowhere, no scorch or smoke.
+... [truncated in root README; open standalone case page for full prompt]
 ```
+
+[前往独立案例页查看完整 4897 字提示词 →](cases/hedgehog-pip-3d-comedy/README.zh-CN.md)
 
 </details>
 
@@ -701,7 +825,7 @@ NEGATIVE: no text or subtitles, no extra people or animals, no human speech from
 
 <a id="case-red-paper-kite-five-styles"></a>
 
-#### 3. 红纸风筝穿过五种画风
+#### 4. 红纸风筝穿过五种画风
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -748,7 +872,7 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 <a id="case-library-note-youth-short"></a>
 
-#### 4. 图书馆纸条里的青春暗号
+#### 5. 图书馆纸条里的青春暗号
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -766,17 +890,12 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 【场景与中国校园氛围】 主要场景为中国普通高中的图书馆阅览区，初夏下午最后一节自主阅读课。图书馆安静、整洁，带有使用多年的生活痕迹。浅米白墙面，深绿色或灰绿色金属窗框，窗下有普通暖气片，薄白窗帘被半开的窗户吹得轻轻鼓起。窗外能看到香樟树、教学楼走廊与操场边缘，远处偶尔有穿校服的学生经过。 阅览区摆放长条形浅棕木桌，桌面有细小划痕与自然磨损，搭配木面金属脚靠背椅。书架上是不同厚度的中文书籍，书脊带常见的索书标签，不出现日文书名或日式校园装饰。远处墙面可以有一块小而朴素的“保持安静”提示牌，文字只作为环境细节，不占据主要画面。 男女主并肩坐在同一张桌子靠窗的一侧，女生位于画面左侧，男生位于画面右侧，肩膀之间起初隔着约二十厘米。镜头主要从桌子对面拍摄，因此能看到两人的正面与上半身。女生左侧靠窗，男生右侧靠过道，空间方向全片保持一致。 桌面物品有限且位置清楚：女生面前一本摊开的中文散文集，一支深蓝色中性笔，一本浅色笔记本；男生面前一本打开的书和一支黑色中性笔。两人之间留出足够推书的空间。桌面没有饮料广告、食品包装或品牌露出。后景只保留两三个安静读书的学生，始终虚化，不参与男女主的互动。
 【女主外貌与服装】 女主为18岁中国高中女生，脸型柔和，略带自然的青春饱满感。黑色眼睛清楚明亮，眼尾柔和，眉毛自然平直，鼻子比例适中，嘴唇是未经明显修饰的淡粉色。脸上保留真实细腻的皮肤纹理，不使用浓妆、修容、假睫毛或明显唇釉。她的美感来自干净的眼神、安静的神情和表情中藏不住的小紧张。 黑色头发在脑后扎成低马尾，额前是稀疏自然的碎刘海，耳边有一两缕没有扎进去的短发。发型具有真实上学时的随意感，不做精致卷发。她紧张时会下意识抿住嘴唇，视线短暂落向桌面；开心时先是眼睛松下来，随后嘴角才慢慢扬起。 服装为中国高中常见的夏季运动校服，脚穿普通白色帆布鞋，鞋边有轻微使用痕迹。整体是朴素的中国学生穿搭。 她不是一味害羞。她会主动写下纸条，也会在误会男生拒绝时，带一点不服气地想把书收回来。最后发现男生回应，她先看他一眼，再低头忍笑，保留自己的小骄傲。
 【男主外貌与服装】 男主为18岁中国高中男生，身形修长，肩背自然舒展，清瘦但不单薄。脸型略长，轮廓干净，眉毛稍浓，黑色眼睛带一点慵懒与顽皮。嘴角习惯轻微偏向一侧，笑容有一点故作镇定的坏，但不能显得油滑或成熟世故。 黑色短发自然蓬松，额前碎发轻轻垂落，没有发胶塑造的尖刺，也没有遮住眼睛的长刘海。面部无胡须，皮肤自然，鼻梁与眼下有柔和阴影。他的吸引力来自轻松的姿态、看穿女生小心思后又忍不住回应的眼神，以及自己其实也紧张，却装得很镇定的反差。 男生穿与女生同校同款的短袖校服，普通灰白色运动鞋。坐姿起初比女生松一点，一只前臂搭在桌上，另一只手压着书页，但不翘椅子、不把脚架到桌上。 他不会做“邪魅一笑”、挑下巴或故意贴脸之类夸张动作。暧昧主要表现为：明明注意到女生在写纸条，却不立刻看她；读到邀请后故意停一拍；改完字又装作继续读书；最后悄悄把自己的椅子往她那边挪近一点。
-【核心道具与纸条文字】 纸条是一张从普通横线笔记本上取下来的小纸，约手掌一半大小，纸张浅白，边缘略有撕开的不齐。不要使用爱心形信纸、粉色信封、贴纸或精致礼物，让它像真实学生临时写下的一句话。 女生写在纸条上的内容为： “明天，还坐这里吗？” 使用清楚、自然、略显认真但并不花哨的中文手写体。男生的回应不另写一大段文字，而是在“明天”的“天”字上画一条细细的划线，在旁边补上“每天”，再在句子下方写： “给你留位。” 纸条最后可清楚读出原来的邀请和他的修改，形成“明天”变“每天”的视觉转折。纸条特写时只出现规定文字，不生成乱码、额外表白、英文或其他句子。字迹在前后镜头保持一致，修改痕迹必须保留。
-【声音设计】 全片只使用环境音、动作拟音与人物呼吸声。无背景音乐、无旋律、无钢琴、无弦乐、无电子氛围音、无心跳节拍、无旁白、无对白。 声音突出图书馆内近处与远处的空间层次：近处是笔尖划纸、纸条摩擦书页、手掌移动、衣袖擦过桌面、椅脚轻微摩擦、翻页与压低的呼吸；远处是吊扇或壁扇持续而轻的机械运转、窗外树叶摩擦、偶尔一声鸟鸣，以及操场传来的极远且无法分辨内容的活动声。不要出现带旋律的下课铃。 情绪变化时可以适度降低远处环境声，让细小动作更清楚，但不能突然完全静音，也不添加人为制造的悬念音效。最后用一次几乎同时发生的翻页声自然结束。
-[00:00–00:04] 镜头一：女生藏在书页后的心事 85mm正面面部近景开场，女生低头看着桌面，白色校服领口与蓝色肩线清楚可见。窗边柔光落在她靠窗一侧的脸颊上，另一侧是细腻的浅青灰阴影。她的目光并没有真正停在书页上，而是轻轻向右侧移动，偷偷看一眼坐在旁边的男生。 男生只以虚化的肩膀和手臂出现在画面边缘，不抢走开场视觉中心。女生确认他像是在读书，便收回视线，轻轻抿一下嘴。 切俯斜角手部近景，她用深蓝中性笔在小纸条上写下最后一个问号。纸条完整内容已经写好：“明天，还坐这里吗？”笔尖停在纸面上方半秒，她似乎还在犹豫要不要递出去。另一只手的指尖轻轻压着纸角，手指自然，没有反复捏皱纸张。 音效：安静的风扇机械声、细微笔尖划纸声、窗帘被风带动的一次轻响。
-[00:04–00:08] 镜头二：借一本书，递一句话 50mm正面双人中近景，女生把纸条平放在散文集打开的书页上，位置靠近书页中央，随后用指尖压着书角，将整本打开的书沿桌面向男生那边推过去约十五厘米。动作很轻，不惊动后面的学生。 她没有直接看他，而是用眼角留意他的反应，另一只手假装整理自己的笔记本。男生先看向慢慢进入自己视线的书，随后低头看见纸条。 切书页与手部特写。男生原本搭在桌面的左手伸过来按住书边，女生的右手还没有完全收回。两人的食指侧面在书角附近轻轻碰到，接触只持续一瞬。女生的手指先缩了一下，随后收回到自己身前；男生的手停住，没有追过去握她。 音效：书本沿木桌滑动的轻响、纸条摩擦书页的沙沙声、女生衣袖轻擦桌沿的声音。触碰瞬间不添加音效。
-[00:08–00:12] 镜头三：他看懂了，却故意不说 85mm男生面部近景，男生读完纸条，眼睛在“明天”两个字上停了一下。嘴角有一个很小、几乎被压住的上扬，他稍稍低头，把这个笑藏起来。 他侧过眼睛看女生。女生察觉到目光，立刻把视线转向自己的笔记本，假装认真看字，但手里的笔握得比刚才更紧。 切正面双人近景，男生用左手压住纸条，右手拿起黑色中性笔，在纸上划了一笔。机位从略低的侧前方拍摄，暂时看不到他具体写了什么，只能看见笔尖短促移动，以及女生目光被那一笔吸引。 男生写完后，没有立即把书还给她，而是把笔放下，故意将目光移回自己原来的书上，神情装得平静。 音效：笔帽或笔身触到桌面的轻响，短促的一次划线声，远处有人轻轻翻过一页书。
-[00:12–00:16] 镜头四：她以为，他划掉了邀请 女生面部近景。她看见男生刚才划线的动作，却没看见具体内容，眼睛里的期待慢慢收住。她轻轻吸一口气，抿住嘴，露出一点“算了，当我没写”的局促与不服气。 她伸出右手，准备把夹着纸条的书拉回自己面前。镜头切到桌面，女生的指尖刚碰到书角，男生的左手已经轻轻按住书的另一边。 男生没有按她的手，也没有拉住她的手腕，只是压住书页，阻止书立刻被抽走。他抬眼看她，嘴角有一点顽皮，却比之前柔和。随后，他主动把书转正，将纸条朝她的方向推近，让她能够看清。 两人的动作都很轻，桌上书页只发生自然滑动，不能出现双方用力抢书的喜剧表演。 音效：女生一次细微吸气，手掌与纸张接触的声音，书脊沿桌面移动的轻响。风扇声与窗外树叶声持续。
-[00:16–00:20] 镜头五：“明天”被改成“每天” 俯拍纸条特写，镜头稳定，给文字足够清楚的阅读时间。原句“明天，还坐这里吗？”仍然可辨认，其中“天”字被一条细线划过，旁边清楚补写“每天”，下方多了一句：“给你留位。” 男生的手指只轻轻点一下新写的“每天”，随后离开画面，不反复敲击，不比心。 切女生面部近景。她先看着纸条，眼睛轻轻睁大一点，随后眼神松下来，嘴角不受控制地扬起。她想忍住笑，于是低下头，但笑意仍然留在眼角。耳边一缕头发被风吹动，她没有立刻整理，注意力全在纸条上。 这一段不要把脸颊突然染成夸张的红色，也不要添加柔光闪烁。羞涩依靠眼神、呼吸和低头表现。 音效：男生指尖轻碰纸面的声音，窗外一阵较清楚的树叶沙沙声，女生很轻的一次呼气。
-[00:20–00:25] 镜头六：都在看书，谁也没看进去 50mm正面上半身双人近景，女生在左，男生在右，两个人都保持近正面的面部角度。女生把纸条小心夹进自己笔记本的内页，再合上一半，指尖停在封面上。 男生看见她收好纸条，嘴角轻轻扬起。女生抬眼看他，两人的视线这次没有立即避开，停留大约一秒。男生原先故作轻松的表情逐渐变得有点不好意思，先移开目光，低头看书。女生发现他也会紧张，眼睛里带着一点很轻的得意。 随后男生将自己的椅子向女生方向挪近几厘米，动作谨慎，怕椅脚发出声音。女生听见轻响，看一眼两人缩短的距离，没有躲开，只把自己的书稍微往中间移，让两人可以一起看。 肩膀仍然没有紧贴，只留下比开场更近、让人能察觉的距离。 音效：笔记本合拢的轻响，椅脚短暂而轻微的摩擦声，衣料移动声。没有说话，没有配乐。
-[00:25–00:30] 镜头七：桌下的距离，已经回答了 先用一秒半拍摄桌下鞋部近景，机位从桌子对面平视向下，不拍裙底。女生穿白色帆布鞋，男生穿灰白运动鞋，两人都穿深蓝校服长裤。随着男生椅子挪近，他的鞋侧轻轻碰到女生鞋边。他察觉后停住，没有继续挤过去。 女生的脚起初微微缩了一点，随后没有离开，而是轻轻落回原来的位置，让两只鞋仍然挨着。动作很小，不勾脚、不缠腿，保持自然青涩。 切回正面双人中近景，两人已经一起看着放在中间的书。女生伸手准备翻页，男生也同时伸手，发现撞上同一个动作后，男生先收回手，让她翻。两人嘴角各自露出一点藏不住的笑，仍然没有抬头互看。 镜头缓慢后退少许，把轻轻飘动的白窗帘、中文书架、校服和安静的阅览室重新纳入画面。桌上的笔记本边缘露出一点收好的纸条，字迹不必再次展示。最后停在两人并肩读书的画面，保留一秒自然呼吸，不出现标题、旁白或结束文案。 音效：鞋底轻触与椅脚的极轻声响，女生翻过书页的一次清晰沙沙声，窗帘轻动与持续的风扇声。以自然环境声结束。
-【人物表演与连续性要求】 女主的情绪顺序必须是：偷偷观察、鼓起勇气、触碰后紧张、误以为被拒绝、发现回应、羞涩开心、主动允许距离靠近。男主的情绪顺序必须是：察觉她的小动作、看懂邀请、故意逗她、及时解释、看见她收好纸条后开心、真正对视时反而局促。不能从头到尾都保持固定微笑。 纸条始终只有一张，由女生写好放在打开的书上，男生直接在同一张纸上修改，再随书推回，最后由女生夹进自己的笔记本。书本移动路径、笔的颜色、两人的左右位置、发型、校服和桌面物品保持一致。 全片的暧昧来自主动试探后的回应，以及双方自愿缩短的距离。避免强行搂抱、抓手腕、堵住去路、贴脸亲吻或夸张挑逗。保持中国校园的真实服装和环境，保留日式青春影像的细腻光线、低饱和青绿色调、干净肤色与情绪留白。全片只用真实环境音和动作拟音，不出现任何背景音乐、旁白、对白、广告内容或片尾抒情字幕。
+【核心道具与纸条文字】 纸条是一张从普通横线笔记本上取下来的小纸，约手掌一半大小，纸张浅白，边缘略有撕开的不齐。不要使用爱心形信纸、粉色信封、贴纸或精致礼物，让它像真实学生临时写下的一句话。 女生写在纸条上的内容为： “明天，还坐这里吗？” 使用清楚、自然、略显认真但并不花哨的中文手写体。男生的回应
+
+... [truncated in root README; open standalone case page for full prompt]
 ```
+
+[前往独立案例页查看完整 5411 字提示词 →](cases/library-note-youth-short/README.zh-CN.md)
 
 </details>
 
@@ -800,9 +919,155 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 ### 全能多素材一致性
 
+<a id="case-cms-fdda6fe4"></a>
+
+#### 6. 雨中巴黎的冷面喜剧
+
+**来源类型**: `community` · **任务**: `OMNI-REF` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@Ciri_ai）：雨中巴黎的冷面喜剧。
+
+<a href="https://awesome.raphael.app/materials/6b1fee73-b1e4-4c82-9a5a-18cdda5c2128.mp4"><img src="assets/examples/cms-fdda6fe4/preview.jpg" alt="MAGI-2 案例《雨中巴黎的冷面喜剧》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/6b1fee73-b1e4-4c82-9a5a-18cdda5c2128.mp4)**
+
+<details><summary><strong>展开完整原始提示词（1537 字）</strong></summary>
+
+```text
+THE GENTLEWOMAN 02 — THE ART OF NOT CARING. CLIP 2: THE CITY BOWS DOWN. Create the second 15-second cinematic deadpan physical-comedy sequence in the same rainy Paris morning, visually continuous with clip 1. Use the character-sheet image as the strict identity, face, hair, wardrobe and prop reference; same woman, same charcoal-black long coat, dark outfit and boots. Coffee cup stays in her LEFT hand; CLOSED matte-black umbrella stays in her RIGHT hand at all times and never opens. In five elegant, fast, readable vignettes: 1) she rescues a street artist's easel from tipping by nudging its support back into place with the closed umbrella; 2) a paper bag of birdseed slips, scattering pigeons; she calmly rights the bag and guides it back to the owner; 3) a waiter struggles with a wobbling silver serving tray; she catches and steadies the edge using the umbrella handle without taking the tray; 4) at a grand Paris hotel entrance, a suitcase wheel is stuck in a cobblestone gap; she uses the umbrella tip to free it with one precise movement; 5) close-up as she continues walking, finally allowing the faintest satisfied smile, then returns to her perfectly neutral expression. Finish with a doorman giving her a small respectful nod as she passes. Understated visual comedy, believable physics, soft overcast light, wet reflective Paris streets, refined European fashion-film cinematography, smooth tracking and clean cuts. No dialogue, no captions, no text, no hand switching, no umbrella opening, no extra props in her hands.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | omni-ref |
+| 时长 / 帧率 | 22.6s · 30 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/Ciri_ai/status/2125795679201304780) · 作者: [@Ciri_ai](https://x.com/Ciri_ai) · 2026-11-26
+
+> 作者自述使用 MAGI-2，未经独立核实。
+
+[案例详情页](cases/cms-fdda6fe4/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-fdda6fe4&utm_term=zh-CN)**
+
+---
+
+<a id="case-cms-de6cd92d"></a>
+
+#### 7. ONE HIT 时装换装广告
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@joshesye）：ONE HIT 时装换装广告。
+
+<a href="https://awesome.raphael.app/materials/d2ef3d5b-4cc2-4ec9-8745-cf9097f4b48b.mp4"><img src="assets/examples/cms-de6cd92d/preview.jpg" alt="MAGI-2 案例《ONE HIT 时装换装广告》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/d2ef3d5b-4cc2-4ec9-8745-cf9097f4b48b.mp4)**
+
+<details><summary><strong>展开完整原始提示词（3779 字）</strong></summary>
+
+```text
+Create a 15-second 16:9 fashion lookbook MV combining rapid outfit changes, magazine editorial graphics, and beat-synced transitions.
+The video is not narrative-driven. Core structure:
+Locked camera → Typography reveal → Close-up → Rapid Look switches → Hero Ending
+Keep the same female character centered in frame throughout the video. Preserve facial identity, body proportions, skin tone, and overall appearance across every outfit.
+0.0–1.5s
+Pure white studio, girl standing naturally in the center.
+Camera locked.
+Huge black typography “ONE HIT” rapidly expands behind her.
+Magazine elements appear on the beat:
+barcode, scan lines, crosshair, numbers, thin borders, grid graphics.
+The clean studio instantly becomes a bold fashion magazine poster.
+1.5–3.0s
+Fast camera push-in to a close-up.
+The girl gently turns toward camera, hair moving naturally, direct eye contact, calm and confident expression.
+Black-and-white editorial background with subtle film grain.
+3.0–4.5s
+Look 01.
+Instant outfit change on the beat.
+Character stays centered and makes a natural fashion pose.
+Background switches to a completely new magazine layout with oversized headline, barcode and numbering.
+4.5–6.0s
+Look 02.
+New outfit.
+Medium shot. Girl takes one confident step forward.
+Background typography rapidly changes.
+Black and white remain dominant with stronger red accents.
+6.0–7.5s
+Look 03.
+New outfit.
+Girl makes a gentle half-turn, hair swinging naturally.
+Background changes to red-and-white editorial graphics with huge English typography, numbers, coordinates, scan lines and borders.
+7.5–9.0s
+Look 04.
+Sporty fashion outfit.
+Girl leans slightly forward with a relaxed confident smile.
+Subtle low-angle camera.
+Large red magazine typography slides into frame on the beat.
+9.0–10.5s
+Look 05.
+New outfit.
+Girl moves into a stylish crouching pose.
+Quick camera push-in.
+Background layout completely rearranges, creating a new visual impact.
+10.5–12.0s
+Look 06.
+Girl stands again.
+Camera pulls back to medium shot.
+Bold yellow fashion uniform with long blue hair styling.
+Background returns to black-and-white editorial design with large headline and barcode elements.
+12.0–13.5s
+Look 07.
+Sharp tailored suit.
+Girl walks confidently toward camera.
+Background switches to red-and-black magazine design.
+New headline, number codes, scan lines and graphic grids appear rapidly.
+Pacing becomes faster.
+13.5–15.0s
+Final Hero Shot.
+Girl wears a minimal black fashion look.
+Arms crossed, standing confidently in the center.
+Camera settles into a clean medium shot.
+Background gradually simplifies, leaving only a few premium magazine graphics.
+Final logo or visual mark appears naturally.
+Freeze on the final beat.
+Overall Style
+Premium Korean fashion lookbook, editorial fashion photography, Y2K magazine design, high-end commercial photography.
+Black and white base with red accents.
+Oversized English typography, barcode, scan lines, crosshair, coordinates, numbering, grids, thin borders, subtle film grain.
+Switch to a new outfit or visual layout every 1–1.5 seconds, synchronized closely with the music beat.
+Keep the camera relatively controlled. Use quick push-ins, subtle pull-backs, pose changes, graphic transitions, and layout swaps.
+Character must always remain near the center of frame.
+Maintain realistic hair movement, fabric physics, natural poses, clean studio lighting, and high-contrast premium photography.
+Avoid
+No face drift, character replacement, body morphing, extra limbs, distorted hands, unstable proportions, messy typography, chaotic camera movement, random backgrounds, cartoon style, low-quality CGI, watermark, or unwanted subtitles.
+Final result should feel like a high-end Korean fashion campaign mixed with a Y2K magazine cover and beat-synced music video.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 14.8s · 30 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | music (audio=True) |
+
+[原始来源](https://x.com/joshesye/status/2125557298135245012) · 作者: [@joshesye](https://x.com/joshesye) · 2026-11-25
+
+> 作者在 X 原帖中称使用 MAGI-2，模型未经独立核实。完整提示词来自同一作者的回复：https://x.com/joshesye/status/2125557476208570465
+
+[案例详情页](cases/cms-de6cd92d/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-de6cd92d&utm_term=zh-CN)**
+
+---
+
 <a id="case-rococo-garden-three-room-oner"></a>
 
-#### 5. 洛可可花园三场景一镜到底
+#### 8. 洛可可花园三场景一镜到底
 
 **来源类型**: `community` · **任务**: `OMNI-REF` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -866,7 +1131,7 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 <a id="case-bangkok-night-market-cel-anime"></a>
 
-#### 6. 曼谷夜市摊档的手绘动画（13 镜头）
+#### 9. 曼谷夜市摊档的手绘动画（13 镜头）
 
 **来源类型**: `community` · **任务**: `OMNI-REF` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -966,9 +1231,101 @@ cut13:
 
 ### 产品与商业广告
 
+<a id="case-cms-d53ca8bf"></a>
+
+#### 10. 雨天伦敦的连环闹剧
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@AIwithkhan）：雨天伦敦的连环闹剧。
+
+<a href="https://awesome.raphael.app/materials/546f50eb-d41b-49d0-bbd2-e39f87347641.mp4"><img src="assets/examples/cms-d53ca8bf/preview.jpg" alt="MAGI-2 案例《雨天伦敦的连环闹剧》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/546f50eb-d41b-49d0-bbd2-e39f87347641.mp4)**
+
+<details><summary><strong>展开完整原始提示词（958 字）</strong></summary>
+
+```text
+Create one 30-second ultra-photorealistic live-action British comedy short in 16:9 landscape, 60 fps. a stylish young woman spending an ordinary rainy day exploring central London. She is enjoying her coffee, admiring the city and casually going about her day. However, everywhere she goes, a ridiculous chain of unexpected accidents unfolds around her. Sometimes she accidentally causes the chaos; sometimes she becomes its unfortunate victim.
+
+The comedy should feel like a high-budget British comedy film, featuring perfectly timed visual gags, believable slapstick, realistic physics, natural human reactions and unexpected comedic payoffs.
+
+Make this short, cinematic and entertaining, with seven fast-paced London sequences, each lasting approximately 4 seconds. Maintain perfect character consistency throughout. Use seamless scene continuity within each location and hard cuts between locations. No dialogue, narration, subtitles or background music.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 30.3s · 30 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/AIwithkhan/status/2125945816229859418) · 作者: [@AIwithkhan](https://x.com/AIwithkhan) · 2026-11-26
+
+> 作者自述使用 MAGI-2，未经独立核实。
+
+[案例详情页](cases/cms-d53ca8bf/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-d53ca8bf&utm_term=zh-CN)**
+
+---
+
+<a id="case-cms-a1baa303"></a>
+
+#### 11. 烛光餐厅的三场约会
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@ivanka_humeniuk）：烛光餐厅的三场约会。
+
+<a href="https://awesome.raphael.app/materials/db161e86-3512-492a-a5d9-e53e49e012dc.mp4"><img src="assets/examples/cms-a1baa303/preview.jpg" alt="MAGI-2 案例《烛光餐厅的三场约会》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/db161e86-3512-492a-a5d9-e53e49e012dc.mp4)**
+
+<details><summary><strong>展开完整原始提示词（31520 字）</strong></summary>
+
+```text
+📌 PROMPT ( Video Episode 1):
+
+STRICT RULE: Absolutely no music, only diegetic sounds.
+Realism cinematic, real skin with pores and small marks, natural eyes, people and set lit only by this place's named sources: the tall candle burning on every table, lighting each face softly from below and in front, the far corners of the room and the gaps between the tables left dark; 1990 Kodak 35mm colour-negative film grade with softly faded shadows, soft halation around every flame and clearly visible organic film grain; still air with a faint haze.
+Framed on the rule of thirds, with a light anamorphic lens character: softly oval out-of-focus highlights in the background, and a fine 35mm film grain.
+Image reference 1 (location Restaurant Dining Room): the Restaurant Dining Room 100% as in the reference.
+Image reference 2 (character Stella): Stella, face, hair, body and clothes 100% as in the reference.
+Image reference 3 (character Brad): Brad, face, hair, body and clothes 100% as in the reference.
+Image reference 4 (character Tony): Tony, face, hair, body and clothes 100% as in the reference.
+Image reference 5 (prop Brick Phone): the Brick Phone 100% as in the reference.
+Image reference 6 (prop Newspaper): the Newspaper 100% as in the reference.
+Continuity: Stella is clean and unchanged from the reference, with no stain, mark or damage; Brad is clean and unchanged from the reference, with no stain, mark or damage; Tony is clean and unchanged from the reference, with no stain, mark or damage.
+In frame only: Stella, Brad, Tony and the background diners. Every other table is taken by elegant diners in 1990 evening wear who eat, talk and raise glasses, the whole room filled with their soft, wordless murmur and the clink of glasses and cutlery, and two waiters in white jackets pass far behind, always soft and out of focus, never near the leads; the grand piano closed. Stella and Brad sit face to face at the small candlelit table for two in the middle of the room, Stella screen left, Brad screen right, an arm's length apart across the table. Tony works the room behind them and comes to the table in S4 and S6. The brick phone stays at Brad's right ear the whole clip. The newspap
+
+... [truncated in root README; open standalone case page for full prompt]
+```
+
+[前往独立案例页查看完整 31520 字提示词 →](cases/cms-a1baa303/README.zh-CN.md)
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 83.9s · 30 fps |
+| 分辨率 / 比例 | 1080p · 32:27 |
+| 音频模式 | music (audio=True) |
+
+[原始来源](https://x.com/ivanka_humeniuk/status/2125805598239269190) · 作者: [@ivanka_humeniuk](https://x.com/ivanka_humeniuk) · 2026-11-26
+
+> 作者自述使用 MAGI-2，未经独立核实。原帖视频为四段合辑。第一段提示词见原帖，第二至四段提示词见同一作者回复 https://x.com/ivanka_humeniuk/status/2125805606736953683。
+
+[案例详情页](cases/cms-a1baa303/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-a1baa303&utm_term=zh-CN)**
+
+---
+
 <a id="case-asics-gel-nimbus-ugc-ad"></a>
 
-#### 7. ASICS Gel Nimbus 跑鞋竖屏 UGC 广告
+#### 12. ASICS Gel Nimbus 跑鞋竖屏 UGC 广告
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1059,9 +1416,175 @@ Finished ad direction: A genuine creator-style product recommendation with a str
 
 ### 音效、配乐与环境音
 
+<a id="case-cms-fb4c34de"></a>
+
+#### 13. 雨夜屋顶武侠短片
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@abulu8）：雨夜屋顶武侠短片。
+
+<a href="https://awesome.raphael.app/materials/9c81bb45-bca0-4b76-aabb-3812af843d74.mp4"><img src="assets/examples/cms-fb4c34de/preview.jpg" alt="MAGI-2 案例《雨夜屋顶武侠短片》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/9c81bb45-bca0-4b76-aabb-3812af843d74.mp4)**
+
+<details><summary><strong>展开完整原始提示词（6115 字）</strong></summary>
+
+```text
+【全局前置设定：画质与质感】
+
+1970 年代香港武侠电影质感。Techniscope 2.35:1 宽银幕，褪色的 Eastmancolor 胶片色调，厚重的胶片颗粒，轻微的片门抖动与画面边缘暗角，偶尔出现细小的划痕与灰尘斑点。
+
+夜景是那个年代的摄影棚做法：深蓝色滤光的夜色，雨塔浇下的人造大雨，雨丝在逆光中呈亮白色的斜线；巷子里的灯笼与面摊的炉火提供暖橙色的点光源，与冷蓝的夜色形成强烈对比。硬光、强轮廓光，人物脸上有明显的油彩妆感，被雨水打湿后泛着光。
+
+所有特效都是实拍物理效果：吊威亚的腾跃与跨屋顶飞跃、真实碎裂飞溅的瓦片、兵器撞击的火星、溅起的水花。全片绝对没有能量光效、气功光或数字特效。
+
+声音是那个年代的后期配音质感：兵器碰撞声、瓦片碎裂声略微过响、过干净；每一次重击配一记鼓点；哗哗的雨声、巷子里面锅的咕嘟声与紧张急促的古筝配乐从第一帧贯穿到最后一帧。
+
+【沈孤鸿·铁扇书生】
+
+成年东亚男性，约二十八岁，身高 5 英尺 11 寸，身形修长匀称，肩背挺直，比例正常的成年男性体型。黑色长发在脑后束成一束，额前两缕湿发贴着脸颊；剑眉星目，神情沉静。淡青色书生长衫，外罩深灰色薄披风，黑色细腰带，被雨淋透后贴在身上。黑色布靴。
+
+兵器是一把铁骨折扇：十二根乌黑精铁扇骨，扇面白底黑字书法，展开时扇沿锋利。合拢时是一根短棍，展开时是一面扇形的盾。
+
+他冷静、优雅、干净利落。
+
+【鬼面·夜行刺客】
+
+成年东亚男性，身高 6 英尺 1 寸，身形精瘦修长，四肢细长，比例正常的成年男性体型。全身黑色紧身夜行衣，束袖，黑腰带。脸上戴一张白色鬼脸面具：惨白底色，两道上挑的黑色眉眼描线，嘴部一道咧开的红色裂口。面具后露出几缕凌乱的黑发。
+
+兵器是一对钢制双钩：每把钩长约三尺，钩头弯曲如月牙，护手处一片月牙形的刃。
+
+他快、诡、阴，专从刁钻角度勾、拉、劈。
+
+【体型比例·必须严格遵守】
+
+沈孤鸿 5 英尺 11 寸，鬼面 6 英尺 1 寸。鬼面略高、更瘦长。全程严格保持。
+
+【人体与兵器完整性·防变形·必须严格遵守】
+
+画面中每个人始终是两条手臂、两条腿、一个头，每只手五根手指，关节只在正常的方向弯曲。
+
+所有人的面孔在任何速度、任何角度下都保持稳定，五官不得拉伸、融化、错位或互换。鬼面的面具始终是一张完整的硬质面具，形状与图案不得变形，直到 27 秒被劈开。
+
+兵器是刚性的：折扇的十二根扇骨始终笔直、数量不变；双钩始终是两把，钩身不得弯曲、拉长、融化或变成别的形状。兵器始终握在手里，不得与手掌融合、不得穿过身体。
+
+两名打斗者的肢体不得缠绕在一起。每一次接触都是清晰的一击——出手、接触、分开，两个身体的轮廓在每一帧都清楚可辨。
+
+每个动作是一道干净的单一弧线，有明确的起点与终点。快，但每一帧都是一个完整、清晰、结构正确的身体。
+
+【场景：雨夜古镇屋顶】
+
+一座古镇的屋顶群，夜晚，大雨。
+
+层层叠叠的深灰色瓦片屋顶，坡度陡峭，雨水顺着瓦槽流下，屋檐边缘挂着水帘。屋脊上有翘起的檐角与陶制脊兽。屋顶之间有窄窄的巷子间隙。几处屋顶上立着砖砌烟囱。两座屋顶之间横拉着一根粗麻绳，挂着一排被雨淋湿的布幡。屋顶下方是狭窄的石板巷子，挂着红色纸灯笼，灯光从下方照上来，在湿瓦上反出一片片橙光。屋顶群的尽头是一座三层木结构钟楼，顶层挂着一口巨大的铜钟。
+
+【可破坏结构】瓦片、脊兽、檐角、烟囱、麻绳与布幡、钟楼木栏——全部可以被踩碎、劈飞、割断、撞穿。被踩碎的瓦片会滑落掉进巷子里。已损坏处永久保持。
+
+【刚性空间锚点】屋顶群的排列、两屋之间的麻绳、钟楼的位置、巷子里的灯笼与面摊，全片绝不漂移、消失或改变数量。
+
+【环境中的人·背景层·必须严格遵守】
+
+屋顶下方的巷子与周围的窗户里有几个过夜生活的镇上百姓，他们只存在于背景与中景，是环境的一部分：
+
+巷子里，一个面摊撑着油布雨棚，矮胖的老板系着白围裙在热气腾腾的锅前用长筷子捞面，两个穿粗布短衫的客人坐在矮凳上端碗吃面；一个瘦小的打更人戴斗笠、披蓑衣，提着灯笼、敲着竹梆子在巷子里走着；对面二楼一扇木格窗里亮着灯，一个白发老妇人坐在窗边纳鞋底。
+
+他们一开始各做各的事。随着瓦片从屋顶滑落砸进巷子、打斗声越来越响，他们陆续抬头往上看，反应写在下方的时间段里。
+
+人数固定：面摊老板一人、吃面客人两人、打更人一人、窗边老妇人一人，共五人，全片绝不增减。
+
+他们全程待在巷子里与窗户后，绝不上屋顶、绝不靠近两名打斗者、绝不加入打斗、绝不被兵器碰到。他们在画面中始终比打斗者小、离镜头更远，只在广角与俯拍镜头中出现，不给单独的特写。
+
+【全片从第一帧到最后一帧都是恶斗·必须严格遵守】
+
+第 0 帧已经在打。没有开场对峙、没有亮相。
+
+第 0 秒到第 30 秒，攻防与追逐一刻不停，任何一秒都不允许出现没有攻防或没有高速移动的画面。背景百姓的反应只在打斗的同一画面中发生，绝不打断打斗。最后一帧依然处在高速运动中。
+
+绝对禁止：对峙、凝视、站着不动、单独的表情镜头、僵持、蓄力、摆架势、慢动作、停顿、结尾的静止画面、定格。
+
+变焦急推只作为 0.3 秒的插入，插完立刻回到打斗。
+
+【屋顶的物理】湿瓦是滑的：急停与落脚时脚下有真实的打滑、瓦片碎裂、碎瓦顺坡滑落、水花溅起。每次跨越屋顶间隙都是一次真实的腾空飞跃，有起跳、滞空与落地冲击。扇子
+
+... [truncated in root README; open standalone case page for full prompt]
+```
+
+[前往独立案例页查看完整 6115 字提示词 →](cases/cms-fb4c34de/README.zh-CN.md)
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 30.3s · 30 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | music (audio=True) |
+
+[原始来源](https://x.com/abulu8/status/2125950604694667400) · 作者: [@abulu8](https://x.com/abulu8) · 2026-11-26
+
+> 作者在 X 原帖中称使用 MAGI-2，模型未经独立核实。
+
+[案例详情页](cases/cms-fb4c34de/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-fb4c34de&utm_term=zh-CN)**
+
+---
+
+<a id="case-cms-5378ef28"></a>
+
+#### 14. 红帽女孩的冬日录像
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@Ciri_ai）：红帽女孩的冬日录像。
+
+<a href="https://awesome.raphael.app/materials/494b4521-bbc3-494d-94f6-ac360d8b7c70.mp4"><img src="assets/examples/cms-5378ef28/preview.jpg" alt="MAGI-2 案例《红帽女孩的冬日录像》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/494b4521-bbc3-494d-94f6-ac360d8b7c70.mp4)**
+
+<details><summary><strong>展开完整原始提示词（2412 字）</strong></summary>
+
+```text
+Create a 30-second, 1080p ultra-realistic personal home-video of a naturally pretty young Korean woman in her early 20s, with straight black hair in two loose low pigtails, wearing a thick red knit beanie, a cream puffer jacket, a gray wool scarf, dark jeans, and brown winter boots. She carries a paper cup of hot cocoa.
+
+Start immediately with her stepping out of her front door into fresh snowfall. She pulls her scarf up, turns to the camera, smiles, and says, "It snowed overnight!" She walks down a quiet residential street, boots crunching in untouched snow. Partway down, she glances at the person holding the camera, laughs, and says, "Stop filming me, it's so early!" She holds her cocoa toward the lens like a toast.
+
+She stops at a parked car, wipes snow off the side mirror with her glove, and writes a small heart on the frosted window. Then she pauses. For about three seconds she stands still, looking up at the falling snow, breath steaming, a soft smile on her face, with only quiet ambience. The camera lingers on her.
+
+She scoops a handful of snow, packs it into a ball, and tosses it at a bare tree. It misses, and she pouts at the camera. She tries again and hits the trunk, and a clump of snow drops from a branch onto her head. She shrieks, shakes it off, laughs, and says, "Okay, I deserved that!"
+
+As she turns back toward home, she notices a single small red mitten sitting on a fence post. She picks it up, looks at it, then at the camera, and says, "Wait... whose is this?" She sets it back carefully on the post.
+
+Finally, at her gate, she turns to the camera with red cheeks and a runny nose, sniffs, waves, and says, "Okay, see you! Bye!" She goes inside, and the recording abruptly cuts to black.
+
+**Visual style:** Raw early-2000s handheld DV camcorder footage, soft overcast winter morning light, slightly overexposed snow, imperfect framing, camera shake, autofocus hunting on falling snowflakes, faded cool-toned colors, mild digital noise, a brief fogged lens when she steps outside, and realistic movements.
+
+**Audio:** Muffled snowy neighborhood ambience, soft wind, crunching footsteps, a distant dog barking, a faint camera-holder chuckle off-screen, and perfectly synchronized casual English dialogue. No background music.
+
+Maintain identical facial features, clothing, hairstyle, and body proportions throughout. Keep every interaction and object physically realistic.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 30.2s · 60 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/Ciri_ai/status/2125844812167569730) · 作者: [@Ciri_ai](https://x.com/Ciri_ai) · 2026-11-26
+
+> 作者自述使用 MAGI-2，未经独立核实。
+
+[案例详情页](cases/cms-5378ef28/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-5378ef28&utm_term=zh-CN)**
+
+---
+
 <a id="case-neon-night-run-edm"></a>
 
-#### 8. 霓虹夜奔约会（128 BPM 电子乐）
+#### 15. 霓虹夜奔约会（128 BPM 电子乐）
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1099,7 +1622,7 @@ Generate with full audio: a loud continuous EDM music soundtrack must play from 
 
 <a id="case-tiny-2d-girl-in-nyc"></a>
 
-#### 9. 迷你动画女孩闯入纽约实景
+#### 16. 迷你动画女孩闯入纽约实景
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1159,7 +1682,7 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 
 <a id="case-the-door-in-the-sky"></a>
 
-#### 10. 天空之门（奇幻短片）
+#### 17. 天空之门（奇幻短片）
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 

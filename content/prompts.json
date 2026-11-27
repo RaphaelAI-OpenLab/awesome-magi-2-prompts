@@ -856,5 +856,558 @@
       "en": "Creator reported MAGI-2 via Higgsfield; full 4-beat prompt included in the original post.",
       "zh-CN": "作者标注通过 Higgsfield 使用 MAGI-2 生成；完整四段式提示词来自原帖。"
     }
+  },
+  {
+    "id": "cms-fb4c34de",
+    "status": "published",
+    "title": {
+      "en": "雨夜屋顶武侠短片",
+      "zh-CN": "雨夜屋顶武侠短片"
+    },
+    "summary": {
+      "en": "Community MAGI-2 video case (@abulu8): 雨夜屋顶武侠短片.",
+      "zh-CN": "社区 MAGI-2 视频案例（@abulu8）：雨夜屋顶武侠短片。"
+    },
+    "category": "sfx-ambience",
+    "tags": [
+      "cms-synced",
+      "t2v"
+    ],
+    "origin": "community",
+    "prompt_status": "public",
+    "prompt_language": "zh-CN",
+    "short_prompt": "",
+    "structured_prompt": "【全局前置设定：画质与质感】\n\n1970 年代香港武侠电影质感。Techniscope 2.35:1 宽银幕，褪色的 Eastmancolor 胶片色调，厚重的胶片颗粒，轻微的片门抖动与画面边缘暗角，偶尔出现细小的划痕与灰尘斑点。\n\n夜景是那个年代的摄影棚做法：深蓝色滤光的夜色，雨塔浇下的人造大雨，雨丝在逆光中呈亮白色的斜线；巷子里的灯笼与面摊的炉火提供暖橙色的点光源，与冷蓝的夜色形成强烈对比。硬光、强轮廓光，人物脸上有明显的油彩妆感，被雨水打湿后泛着光。\n\n所有特效都是实拍物理效果：吊威亚的腾跃与跨屋顶飞跃、真实碎裂飞溅的瓦片、兵器撞击的火星、溅起的水花。全片绝对没有能量光效、气功光或数字特效。\n\n声音是那个年代的后期配音质感：兵器碰撞声、瓦片碎裂声略微过响、过干净；每一次重击配一记鼓点；哗哗的雨声、巷子里面锅的咕嘟声与紧张急促的古筝配乐从第一帧贯穿到最后一帧。\n\n【沈孤鸿·铁扇书生】\n\n成年东亚男性，约二十八岁，身高 5 英尺 11 寸，身形修长匀称，肩背挺直，比例正常的成年男性体型。黑色长发在脑后束成一束，额前两缕湿发贴着脸颊；剑眉星目，神情沉静。淡青色书生长衫，外罩深灰色薄披风，黑色细腰带，被雨淋透后贴在身上。黑色布靴。\n\n兵器是一把铁骨折扇：十二根乌黑精铁扇骨，扇面白底黑字书法，展开时扇沿锋利。合拢时是一根短棍，展开时是一面扇形的盾。\n\n他冷静、优雅、干净利落。\n\n【鬼面·夜行刺客】\n\n成年东亚男性，身高 6 英尺 1 寸，身形精瘦修长，四肢细长，比例正常的成年男性体型。全身黑色紧身夜行衣，束袖，黑腰带。脸上戴一张白色鬼脸面具：惨白底色，两道上挑的黑色眉眼描线，嘴部一道咧开的红色裂口。面具后露出几缕凌乱的黑发。\n\n兵器是一对钢制双钩：每把钩长约三尺，钩头弯曲如月牙，护手处一片月牙形的刃。\n\n他快、诡、阴，专从刁钻角度勾、拉、劈。\n\n【体型比例·必须严格遵守】\n\n沈孤鸿 5 英尺 11 寸，鬼面 6 英尺 1 寸。鬼面略高、更瘦长。全程严格保持。\n\n【人体与兵器完整性·防变形·必须严格遵守】\n\n画面中每个人始终是两条手臂、两条腿、一个头，每只手五根手指，关节只在正常的方向弯曲。\n\n所有人的面孔在任何速度、任何角度下都保持稳定，五官不得拉伸、融化、错位或互换。鬼面的面具始终是一张完整的硬质面具，形状与图案不得变形，直到 27 秒被劈开。\n\n兵器是刚性的：折扇的十二根扇骨始终笔直、数量不变；双钩始终是两把，钩身不得弯曲、拉长、融化或变成别的形状。兵器始终握在手里，不得与手掌融合、不得穿过身体。\n\n两名打斗者的肢体不得缠绕在一起。每一次接触都是清晰的一击——出手、接触、分开，两个身体的轮廓在每一帧都清楚可辨。\n\n每个动作是一道干净的单一弧线，有明确的起点与终点。快，但每一帧都是一个完整、清晰、结构正确的身体。\n\n【场景：雨夜古镇屋顶】\n\n一座古镇的屋顶群，夜晚，大雨。\n\n层层叠叠的深灰色瓦片屋顶，坡度陡峭，雨水顺着瓦槽流下，屋檐边缘挂着水帘。屋脊上有翘起的檐角与陶制脊兽。屋顶之间有窄窄的巷子间隙。几处屋顶上立着砖砌烟囱。两座屋顶之间横拉着一根粗麻绳，挂着一排被雨淋湿的布幡。屋顶下方是狭窄的石板巷子，挂着红色纸灯笼，灯光从下方照上来，在湿瓦上反出一片片橙光。屋顶群的尽头是一座三层木结构钟楼，顶层挂着一口巨大的铜钟。\n\n【可破坏结构】瓦片、脊兽、檐角、烟囱、麻绳与布幡、钟楼木栏——全部可以被踩碎、劈飞、割断、撞穿。被踩碎的瓦片会滑落掉进巷子里。已损坏处永久保持。\n\n【刚性空间锚点】屋顶群的排列、两屋之间的麻绳、钟楼的位置、巷子里的灯笼与面摊，全片绝不漂移、消失或改变数量。\n\n【环境中的人·背景层·必须严格遵守】\n\n屋顶下方的巷子与周围的窗户里有几个过夜生活的镇上百姓，他们只存在于背景与中景，是环境的一部分：\n\n巷子里，一个面摊撑着油布雨棚，矮胖的老板系着白围裙在热气腾腾的锅前用长筷子捞面，两个穿粗布短衫的客人坐在矮凳上端碗吃面；一个瘦小的打更人戴斗笠、披蓑衣，提着灯笼、敲着竹梆子在巷子里走着；对面二楼一扇木格窗里亮着灯，一个白发老妇人坐在窗边纳鞋底。\n\n他们一开始各做各的事。随着瓦片从屋顶滑落砸进巷子、打斗声越来越响，他们陆续抬头往上看，反应写在下方的时间段里。\n\n人数固定：面摊老板一人、吃面客人两人、打更人一人、窗边老妇人一人，共五人，全片绝不增减。\n\n他们全程待在巷子里与窗户后，绝不上屋顶、绝不靠近两名打斗者、绝不加入打斗、绝不被兵器碰到。他们在画面中始终比打斗者小、离镜头更远，只在广角与俯拍镜头中出现，不给单独的特写。\n\n【全片从第一帧到最后一帧都是恶斗·必须严格遵守】\n\n第 0 帧已经在打。没有开场对峙、没有亮相。\n\n第 0 秒到第 30 秒，攻防与追逐一刻不停，任何一秒都不允许出现没有攻防或没有高速移动的画面。背景百姓的反应只在打斗的同一画面中发生，绝不打断打斗。最后一帧依然处在高速运动中。\n\n绝对禁止：对峙、凝视、站着不动、单独的表情镜头、僵持、蓄力、摆架势、慢动作、停顿、结尾的静止画面、定格。\n\n变焦急推只作为 0.3 秒的插入，插完立刻回到打斗。\n\n【屋顶的物理】湿瓦是滑的：急停与落脚时脚下有真实的打滑、瓦片碎裂、碎瓦顺坡滑落、水花溅起。每次跨越屋顶间隙都是一次真实的腾空飞跃，有起跳、滞空与落地冲击。扇子展开时扇开一片雨幕；双钩挥过时甩出一道水线；兵器相撞的火星在雨中溅开即灭。\n\n【密度】全片每秒 4—6 次清晰的攻防或追逐状态变化，下方每段写明了交击次数，必须全部打出来。速度快，但不是快进，不用模糊残影掩盖动作。\n\n【伤害等级 0】无血、无伤口。凶狠体现为：衣衫被钩破、兵器撞出火星、瓦片被踩碎、被震退滑行、险些滑下屋顶。\n\n【胜负】沈孤鸿赢：鬼面的双钩被打落，面具被劈成两半。\n\n【对白规则】本片没有任何台词、对白、旁白或内心独白。所有文字都是画面说明，绝对不得念出、不得配音。\n\n【运镜·七十年代武侠语法】\n\n不使用现代手持晃动与 FPV。使用：沿屋脊方向的横移跟拍；跨越间隙时的低角度仰拍；从高处俯拍屋顶群与巷子，交代位置与间隙；0.3 秒变焦急推插入。\n\n近景与广角交替：每一段贴身快打之后立即切回广角，让观众看清两人在哪个屋顶、离边缘多远、下方巷子里的百姓在做什么。\n\n━━━━━━━━━━━━━━━━━━\n\n【0.0—3.0 秒｜开打·八次交击】\n\n第 0 帧：固定低角度广角，雨夜屋顶，鬼面的双钩正从左右两侧勾向沈孤鸿的脖子——沈孤鸿\"啪\"地展开铁扇一挡，两只钩头同时撞在扇骨上，火星在雨中溅开即灭。\n\n紧接着：沈孤鸿合扇点向鬼面手腕，鬼面撤钩；鬼面左钩低扫脚踝，沈孤鸿抬脚，钩子刮碎一片瓦；右钩上撩，沈孤鸿仰身，钩尖擦过他的下巴前方；沈孤鸿合扇横砸鬼面的肩头，鬼面侧身卸开；鬼面双钩剪向他的腰，沈孤鸿展扇下压，压住双钩，借力后翻，落在屋脊上。\n\n画面下方的巷子里，面摊老板正在捞面，打更人敲着梆子慢慢走过，谁都没有抬头。\n\n每一次碰撞配一记鼓点。\n\n【3.0—6.0 秒｜屋脊·九次交击】\n\n横移跟拍，沿屋脊方向。\n\n两人在窄窄的屋脊上快打：鬼面左钩劈、右钩勾、左钩拉，沈孤鸿扇子开合连挡三下；鬼面一钩勾住扇沿往外拉，沈孤鸿顺势转身把钩带偏，两人分开；鬼面一脚踹来，沈孤鸿侧身让过，鬼面的脚踩碎一只陶脊兽，碎片滚下屋坡；沈孤鸿合扇连点鬼面胸口两下，鬼面连退两步，脚下打滑往屋坡下滑去——他把一只钩子勾在屋脊上稳住，翻身冲回屋脊。\n\n俯拍可见：脊兽的碎片掉进巷子，砸在面摊的油布雨棚上弹开。面摊老板举着长筷子抬头往上看，两个吃面的客人端着碗跟着抬头。\n\n【6.0—9.0 秒｜飞越巷子·七次交击】\n\n鬼面一钩横扫，沈孤鸿向后一跃——腾空跳过一条巷子的间隙，落在对面的屋顶上，脚下一滑，瓦片碎了一片。\n\n低角度仰拍，背景是雨夜天空：鬼面紧跟着腾空飞越巷子，双钩高举在空中劈下——沈孤鸿展扇上挡，钩刃撞在扇骨上，一串火星；鬼面落地即连攻：左钩、右钩、扫腿——沈孤鸿连格两下，跳起躲过扫腿；在空中一扇拍在鬼面的面具上，\"当\"的一声，鬼面的头被拍得偏向一侧，面具完好。\n\n两人在空中飞越巷子时，下方的打更人停下脚步，仰起斗笠，手里的梆子停在半空。\n\n【9.0—12.0 秒｜麻绳·七次交击】\n\n两人追打到横在两屋之间的麻绳旁。\n\n沈孤鸿跳上麻绳，在摇晃的绳子上向前奔跑，脚下布幡乱甩；鬼面追到绳边挥钩连砍两下，沈孤鸿在绳上左右跳躲；鬼面一钩割断一条布幡，布幡在雨中飘落，落向对面的木格窗；鬼面第四钩割断了麻绳——\n\n绳子断开的瞬间，沈孤鸿抓住断绳的一头荡了出去，在空中划过一道弧，双脚蹬中鬼面的胸口，鬼面倒飞出去，背部撞上一根砖砌烟囱，烟囱顶端的砖块崩落了几块。\n\n背景中，飘落的布幡擦过对面那扇亮灯的窗户，窗边的老妇人放下鞋底，推开窗探出头来。\n\n【12.0—15.0 秒｜连钩·九次交击】\n\n切回广角交代位置，再进入近景。\n\n鬼面从烟囱前弹起，把双钩的钩尾\"咔\"地扣在一起，连成一把两头带钩的长兵器，在身前抡成一个圆。\n\n近景快打：长钩左头横扫，沈孤鸿展扇挡；右头回扫，合扇格；长钩当头劈下，沈孤鸿侧身让过，长钩劈碎一大片瓦；鬼面抡钩扫下盘，沈孤鸿跳起；落地时一扇横削，鬼面竖钩挡住；两人分开半步，鬼面长钩直捅，沈孤鸿侧身，扇骨顺着钩杆滑下去，敲在鬼面的手指上，鬼面手一松，长钩脱手又被他另一只手抓回。\n\n【15.0—18.0 秒｜险境·八次交击】\n\n固定广角：鬼面抡着长钩连扫，把沈孤鸿一步步逼向屋檐边缘，正好在面摊的正上方。\n\n沈孤鸿退一步挡一下：挡、挡、挡——第四步，他的脚后跟已经踩在屋檐最边上，碎瓦从他脚边滑落，掉进下面的巷子，砸在面摊旁的灯笼上，灯笼剧烈晃荡。两个吃面的客人吓得同时从矮凳上站起来往后缩，面摊老板护着锅往后退。\n\n鬼面长钩全力横扫——沈孤鸿向后一仰，整个上半身探出屋檐之外，长钩从他胸口上方掠过；他借这一仰的势，单脚勾住屋檐翻转一圈，翻回屋顶上，落在鬼面身侧，一扇拍在鬼面的手肘上，鬼面的长钩扫了个空。\n\n【18.0—21.0 秒｜拆钩·八次交击】\n\n近景：沈孤鸿展开铁扇，扇骨卡进双钩相扣的连接处，用力一拧——\"咔\"的一声，扣子松开，长钩重新分成两把双钩。\n\n鬼面左右手各抓一把，从两侧同时攻来：左钩劈——沈孤鸿合扇格；右钩勾——他展扇挡；双钩同时剪——他后跃；鬼面追上来又是三钩连环，沈孤鸿连闪三下，最后一闪时他已经跳上了通往钟楼的屋顶。\n\n【21.0—24.0 秒｜钟楼·七次交击】\n\n横移跟拍。两人沿着屋顶一路追打到钟楼。\n\n沈孤鸿踩着屋檐纵身一跃，抓住钟楼二层的木栏翻了上去；鬼面紧随其后翻上来。两人在钟楼顶层的木栏边快打：鬼面右钩劈下，沈孤鸿侧身，钩子劈断一截木栏，木头掉进雨里；鬼面左钩横扫，沈孤鸿弯腰，钩子\"当\"地一声刮在大铜钟上，铜钟嗡嗡长鸣；沈孤鸿合扇连点鬼面左手腕两下，左钩脱手，旋转着飞出钟楼。\n\n俯拍可见：左钩翻转着坠进下方的巷子，\"哆\"地钉在打更人脚前一步远的石板缝里。打更人吓得一屁股坐在地上，梆子和灯笼都掉了。\n\n【24.0—27.0 秒｜破面·七次交击】\n\n鬼面只剩一把右钩，嘶吼着全力劈下。\n\n沈孤鸿展扇向上一托，接住钩刃，顺势一转扇面把钩子绞开；鬼面空出右手，转身一脚踹来，沈孤鸿侧身，那一脚踹在铜钟上，铜钟又是一声巨响；沈孤鸿合扇敲在鬼面的右手腕上，右钩也脱手，钉进钟楼的木柱里；鬼面空手扑来，沈孤鸿展扇——\n\n扇沿从鬼面的面具正中竖着划过。\n\n【27.0—30.0 秒｜收尾·仍在运动中】\n\n0.3 秒变焦急推插入：白色鬼脸面具沿着正中一道细线裂开。\n\n面具分成左右两半，从鬼面脸上滑落，翻转着飘向下方的巷子——露出面具后一张惊愕的、被雨水打湿的普通男人的脸。他捂着脸踉跄后退，脚下一滑，从钟楼的栏杆缺口处摔了出去，落在下方一座屋顶上，顺着湿瓦一路滑下去，跌进面摊旁边的一堆竹筐里，竹筐四散滚开。\n\n面摊的两个客人跳起来端着碗闪到一边；面摊老板举着长筷子目瞪口呆；对面窗边的老妇人捂住了嘴；坐在地上的打更人张大嘴仰头看着。\n\n沈孤鸿已经从钟楼上纵身跃下，在雨中飞越屋顶，一边飞跃一边\"啪\"地合上铁扇。\n\n最后一帧依然在运动中：沈孤鸿在大雨中凌空跃过面摊上方的巷子，披风在身后展开；两半白色面具在雨中翻转下坠；铜钟还在摇晃长鸣；下方巷子里的竹筐还在滚动，面摊的蒸汽还在升腾，几个百姓仰着头看着他飞过。横移跟拍随着他的飞跃持续移动，画面在运动中结束。\n\n━━━━━━━━━━━━━━━━━━\n\n【全局约束】\n\nmasterpiece, highest quality，1970 年代香港武侠片质感。\n\n两名打斗者：沈孤鸿始终是淡青长衫深灰披风束发；鬼面始终是黑色夜行衣，白色鬼脸面具在 27 秒前全程戴着。\n\n背景百姓始终是五人：面摊老板、两名吃面客人、打更人、窗边老妇人。他们全程只在巷子与窗户里，绝不上屋顶、绝不靠近打斗者。\n\n兵器只有一把铁扇与一对双钩。双钩在 12—18 秒相扣为长兵器，18 秒被拆开；左钩在 23 秒飞落巷子钉在石板上，右钩在 26 秒钉入木柱。\n\n所有人物的面孔、肢体与兵器全程结构稳定，绝不变形。\n\n破坏只能单向累积，必须由实际接触触发。体型差全程保持。\n\n全片 30 秒无任何静止时刻，最后一帧处于运动中。\n\n【负面提示词】\n\n面部变形，面部融化，五官错位，五官拉伸，换脸，脸部抖动，表情扭曲失真，面具变形，面具图案改变，面具提前破裂，面具消失；\n\n肢体变形，肢体扭曲，多手，多腿，多指，少指，关节反向弯曲，肢体缠绕在一起，两个身体融合，身体穿模，手臂穿过身体，人体比例异常，身体拉长，躯干扭曲；\n\n兵器变形，扇骨弯曲，扇骨数量变化，双钩弯曲，双钩拉长，双钩融化，兵器与手掌融合，兵器穿过身体，兵器凭空出现或消失，兵器复制，出现第三把钩；\n\n背景人物数量变化，背景人物复制，路人上屋顶，路人靠近打斗者，路人加入打斗，路人被打到，路人被钩子击中，路人特写，路人面部变形，路人与环境融合，人群拥挤，出现第六个百姓；\n\n画面闪烁，帧间抖动，形体在帧间漂移，人物在帧间变换形状，模糊残影掩盖动作，快进感，跳帧加速；\n\n开场对峙，亮相，对视，凝视，站着不动，单独的表情镜头，变焦急推超过 0.3 秒，僵持，蓄力，摆架势，停顿，节奏缓慢，打斗中断，一招一停，互相等待，全片慢动作，结尾静止，定格帧，最后一帧静止；\n\n能量光效，气功光，发光武器，数字特效，CGI 质感，粒子特效；\n\n现代数字摄影质感，饱和鲜艳的现代调色，手持晃动，FPV 运动，无人机镜头；\n\n流血，伤口，死亡；\n\n台词，对白，旁白，字幕，人名字幕，Logo，水印；\n\n体型差消失，沈孤鸿比鬼面高；\n\n雨停，白天，晴天，屋顶消失，钟楼消失，面摊消失，现代建筑，室内场景，破坏复原；\n\n硬切成黑屏，镜头瞬移，人物出画，低清晰度，卡顿，卡通渲染，动漫风格，3D 渲染。",
+    "omni_references": [],
+    "model": {
+      "family": "MAGI-2",
+      "variant": "flagship",
+      "api_model_id": null
+    },
+    "parameters": {
+      "task_type": "t2v",
+      "duration_sec": 30.3,
+      "fps": 30,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "has_audio": true,
+      "audio_mode": "music"
+    },
+    "preview": {
+      "path": "assets/examples/cms-fb4c34de/preview.jpg",
+      "alt": {
+        "en": "Preview still frame from 雨夜屋顶武侠短片 MAGI-2 clip",
+        "zh-CN": "MAGI-2 案例《雨夜屋顶武侠短片》视频封面帧"
+      }
+    },
+    "video_url": "https://awesome.raphael.app/materials/9c81bb45-bca0-4b76-aabb-3812af843d74.mp4",
+    "source": {
+      "url": "https://x.com/abulu8/status/2125950604694667400",
+      "author": "@abulu8",
+      "author_url": "https://x.com/abulu8",
+      "platform": "X",
+      "published_at": "2026-11-26"
+    },
+    "verification": {
+      "status": "source-only",
+      "tested_at": null,
+      "tested_on": "",
+      "notes": {
+        "en": "",
+        "zh-CN": ""
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "source-attributed",
+      "video": "link-only",
+      "credit": "@abulu8",
+      "license_url": null
+    },
+    "added_at": "2026-11-27",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "作者在 X 原帖中称使用 MAGI-2，模型未经独立核实。",
+      "zh-CN": "作者在 X 原帖中称使用 MAGI-2，模型未经独立核实。"
+    }
+  },
+  {
+    "id": "cms-0c9e2e90",
+    "status": "published",
+    "title": {
+      "en": "古镇早市的婚期笑谈",
+      "zh-CN": "古镇早市的婚期笑谈"
+    },
+    "summary": {
+      "en": "Community MAGI-2 video case (@abulu8): 古镇早市的婚期笑谈.",
+      "zh-CN": "社区 MAGI-2 视频案例（@abulu8）：古镇早市的婚期笑谈。"
+    },
+    "category": "dialogue-lip-sync",
+    "tags": [
+      "cms-synced",
+      "t2v"
+    ],
+    "origin": "community",
+    "prompt_status": "public",
+    "prompt_language": "zh-CN",
+    "short_prompt": "",
+    "structured_prompt": "【全局前置设定：画质与质感】\n\n1970 年代香港武侠电影中的生活喜剧段落质感。Techniscope 2.35:1 宽银幕，褪色偏暖的 Eastmancolor 胶片色调，厚重的胶片颗粒，轻微的片门抖动与边缘暗角。\n\n那个年代的外景拍法：明亮的清晨阳光，饱满的暖黄色调，人物脸上有油彩妆感与清晰的轮廓光。摄影棚搭建的古镇街市布景，色彩鲜亮热闹。\n\n全片没有任何打斗、没有兵器出鞘、没有特效。\n\n声音：轻快俏皮的笛子与锣鼓配乐，市集里此起彼伏的吆喝声与讨价还价声（听不清具体内容）、鸡鸭叫声、扁担吱呀声、车轮声。对白是那个年代的国语配音质感，清晰、略带回响。\n\n【韩子墨·书生剑客】\n\n成年东亚男性，约二十六岁，身高 5 英尺 10 寸，身形修长匀称，比例正常的成年男性体型。黑色头发在头顶束成发髻，用一根青色发带系住；一双认真的眼睛，眉毛一急就皱起来，脸上有那个年代的油彩妆感。身穿浅青色长衫，腰系白色腰带，黑色布鞋。手里提着一只空的竹编菜篮。\n\n他稳重、老实、心急。他已经求过亲，她也答应了，现在他只想快点把日子定下来。被她逗的时候，他会皱眉、撇嘴、耳朵发红。\n\n【柳莺莺·俏姑娘】\n\n成年东亚女性，约二十二岁，身高 5 英尺 3 寸，身形娇小轻快，比例正常的成年女性体型。黑色长发编成一条长辫垂在肩前，辫梢系着一条红头绳，额前留着齐眉的刘海；一双灵动的大眼睛，笑起来两个酒窝，脸上有那个年代的油彩妆感与淡淡的胭脂。身穿桃红色的碎花短袄，配一条靛蓝色长裤，腰系一条白色围裙，黑色布鞋。\n\n她心里比谁都想嫁他，但她就是喜欢看他着急。她逗他的时候总是在挑菜——眼睛盯着菜，嘴角却在偷笑，时不时用眼角瞟他一眼。\n\n【体型比例·必须严格遵守】\n\n韩子墨 5 英尺 10 寸，柳莺莺 5 英尺 3 寸。两人并肩走时，她的头顶到他的肩膀。全程严格保持。\n\n【人体完整性·防变形·必须严格遵守】\n\n韩子墨与柳莺莺每人始终是两条手臂、两条腿、一个头，每只手五根手指。两人的面孔在任何角度下都保持稳定，五官不得拉伸、融化或互换。\n\n所有蔬菜保持原本的形状与颜色，不得变形、融化、变成别的东西。菜篮里的菜只会越来越多，不会凭空消失。\n\n【场景：清晨的古镇菜市】\n\n一条热闹的古镇街市，清晨。\n\n青石板路两旁挤满了菜摊：竹筐里堆着翠绿的白菜、红艳艳的番茄、白胖的萝卜、一串串红辣椒、一捆捆青葱、紫亮的茄子、金黄的玉米。头顶撑着一顶顶灰白色的布棚，棚下挂着成串的干辣椒与大蒜。\n\n一个卖鸡鸭的摊子上，几只鸡在竹笼里咕咕叫。一个卖豆腐的担子冒着热气。路边有一辆装满南瓜的木板车。\n\n街两侧是白墙黑瓦的店铺，招牌旗子在晨风中飘。阳光从街口斜射进来，穿过布棚的缝隙，在石板路上投下一道道明暗交错的光斑。\n\n【市集里的人·背景层·必须严格遵守】\n\n街市里有来来往往的赶集百姓与守着摊子的菜贩，他们是热闹的背景：挑着担子走过的、提着篮子讨价还价的、坐在小凳上剥豆子的。\n\n他们始终在背景与中景，比两名主角更远、更小，绝不进入两人的近景，绝不挡住两人的脸，不给单独的特写，不说可听清的台词。菜贩始终站在自己的摊子后面。\n\n只有一个例外：26 秒番茄滚落时，旁边番茄摊的胖大婶会出现在中景，捂着嘴笑。\n\n所有背景人物的面孔与身体同样保持稳定，不得变形、融合、复制。\n\n【刚性空间锚点】青石板街的走向、两侧菜摊的排列、装满南瓜的木板车、街口的阳光方向，全片绝不漂移。\n\n【对白规则·必须严格遵守】\n\n本片共有九句台词，全部在下方时间码中以「」标出。只有「」内的中文是被说出来的。其余所有文字——动作描述、表情描述、运镜说明——全部是画面说明，绝对不得念出、不得配音、不得作为旁白。\n\n全片主角台词不得超过九句。背景人群只有听不清的嘈杂声，不得出现清晰的台词。不得出现旁白、内心独白。\n\n韩子墨为年轻男声，认真、心急、越说越委屈。柳莺莺为年轻女声，清脆、俏皮、漫不经心，最后一句压低了声音，又软又甜。唇形自然同步。\n\n【运镜·七十年代生活段落语法】\n\n以两人并肩行走时的横移跟拍为主，镜头始终与他们同速，保持两人在画面中央；两人之间的过肩正反打；每一次她拿起一样菜时，一次快速的变焦推近到那样菜。镜头稳定，绝不晃动。\n\n【表演的铁律】\n\n两人一直在走、在挑菜、在把菜往篮子里放。每一句台词之前与之后都有一个具体的动作。不得出现两个人站着不动念台词的画面。\n\n━━━━━━━━━━━━━━━━━━\n\n【0.0—4.0 秒｜赶集】\n\n缓慢横移的广角：清晨热闹的街市，阳光穿过布棚洒在青石板上，菜摊上的蔬菜颜色鲜亮，赶集的人来来往往，鸡在笼子里咕咕叫。\n\n镜头穿过人群，找到并肩走着的两人：柳莺莺走在前面半步，一边走一边东张西望地看菜；韩子墨跟在旁边，提着空菜篮，眼睛一直看着她。\n\n韩子墨清了清嗓子，凑近她一点。\n\n韩子墨：「莺莺，我们早点成亲吧。」\n\n运镜：横移跟拍，与两人同速，他开口时稳定在两人的中景。\n\n【4.0—8.0 秒｜挑白菜】\n\n柳莺莺在一个菜摊前停下，拿起一棵大白菜，翻来覆去地看，捏捏菜帮子，又凑近闻了闻。\n\n运镜：快速变焦推近白菜，再拉回。\n\n柳莺莺：「急什么？我还没挑好呢。」\n\n她眼睛盯着白菜，嘴角却偷偷往上翘，用眼角瞟了他一眼。说完，她把白菜往他的菜篮里一放。\n\n反打近景：韩子墨低头看看篮子里的白菜，又抬头看她，眉头皱了起来——他不确定她说的是白菜还是他。\n\n【8.0—12.0 秒｜考虑考虑】\n\n两人继续往前走。韩子墨快走两步追上她，跟她并肩。\n\n韩子墨：「你都已经答应我了。」\n\n柳莺莺走到番茄摊前，拿起一个红番茄对着阳光照了照，又放下，换了一个更红的。\n\n柳莺莺：「我答应的是，考虑考虑。」\n\n她把番茄放进他的篮子，自己背着手往前走了，辫梢的红头绳一甩一甩。\n\n反打近景：韩子墨站在原地张着嘴，愣了一秒，赶紧提着篮子追上去。\n\n【12.0—16.5 秒｜初八】\n\n横移跟拍，两人走过挂满干辣椒的布棚下。\n\n韩子墨从袖子里掏出一张折好的红纸，展开给她看，上面写着一个日子。他指着那个日子，满脸认真。\n\n韩子墨：「我算过了，下个月初八，是好日子。」\n\n柳莺莺看都没看那张红纸，从旁边摊子上抓起一根又白又胖的大萝卜，举到他面前晃了晃。\n\n运镜：快速变焦推近萝卜，再拉回到她一本正经的脸。\n\n柳莺莺：「下个月初八，我要来买萝卜。」\n\n她把萝卜塞进他的篮子里。篮子已经满了一半，沉甸甸地往下坠。\n\n【16.5—21.0 秒｜他生气了】\n\n韩子墨停住了脚步。\n\n他把红纸攥回手里，嘴唇抿成一条线，耳朵根红了。他低头看看那一篮子菜，又看看她，眉头紧锁，把脸扭到一边，像个赌气的孩子。\n\n韩子墨：「那你就跟萝卜过日子吧。」\n\n他把菜篮往她手里一塞，转身就要往回走。\n\n运镜：近景跟着他转身，他的背影在热闹的人群前显得有点委屈。\n\n柳莺莺抱着沉甸甸的菜篮，看着他的背影，愣了一下——然后忍不住\"噗\"地笑出声来，两个酒窝都露了出来。\n\n【21.0—26.0 秒｜几个孩子】\n\n柳莺莺把菜篮往旁边的南瓜车上一搁，小跑两步追上他，一把挽住他的胳膊，把他拉住。\n\n他别着脸不看她。她踮起脚，凑到他的耳边，声音压得很低、很软，眼睛亮晶晶地看着他的侧脸。\n\n柳莺莺：「那你说……想要几个孩子？」\n\n运镜：缓慢推近两人的侧脸，她贴着他耳边说话，他的耳朵在阳光里红透了。\n\n韩子墨整个人僵住了。他慢慢转过头来看着她，眼睛越睁越大，嘴巴半张着，脸从耳根一路红到脖子。他的嘴角一点一点地咧开，抬起一只手，手指张开又合上，好像在数数。\n\n韩子墨：「三……不，五个！」\n\n【26.0—30.0 秒｜回家】\n\n柳莺莺笑得弯下了腰，两个酒窝深深的。她直起身，拉起他的手。\n\n柳莺莺：「那还不快回家准备彩礼！」\n\n她拉着他就往街口跑。韩子墨被拉得一个踉跄，回头一把抓起南瓜车上的菜篮——篮子一歪，几个红番茄骨碌碌滚了出来，滚过青石板路，一路滚到番茄摊前。番茄摊后面的胖大婶捂着嘴笑。\n\n两人手拉着手，在热闹的街市里一路小跑，韩子墨一只手被她拉着，另一只手抱着菜篮，篮子里的白菜叶子一颠一颠；柳莺莺的长辫子在身后甩着，红头绳在阳光里一闪一闪。\n\n最后一帧：阳光洒满的街市，两人手拉着手跑向明亮的街口，背影越来越小，身后是滚了一地的红番茄、笑着的胖大婶与热闹的人群。运镜：横移跟拍随两人奔跑，随后缓慢升起拉远，把整条街市与两人的背影一同纳入画面，画面在运动中自然收束。\n\n━━━━━━━━━━━━━━━━━━\n\n【全局约束】\n\nmasterpiece, highest quality，1970 年代香港武侠片生活段落质感。\n\n韩子墨始终是浅青长衫白腰带青发带；柳莺莺始终是桃红碎花短袄靛蓝长裤白围裙、单辫红头绳。\n\n全片共九句主角台词，绝不增减。柳莺莺每一次逗他时，她的眼睛或嘴角必须泄露她在笑。\n\n菜篮里的菜依次增加：白菜、番茄、萝卜，只增不减，直到 26 秒几个番茄滚出。\n\n两名主角的面孔与肢体全程结构稳定，绝不变形。背景人群始终在远处，绝不进入两人的近景。\n\n【负面提示词】\n\n主角台词超过九句，背景人物说出清晰台词，旁白，内心独白，念出动作描述文字，念出运镜说明，字幕，人名字幕，Logo，水印，英文对白；\n\n柳莺莺真的冷淡，柳莺莺真的拒绝，柳莺莺逗他时面无表情，柳莺莺生气，韩子墨发怒吼叫，争吵，悲伤，哭泣；\n\n两人站着不动念台词，表情僵硬，蜡像脸，空洞的凝视；\n\n面部变形，五官错位，换脸，肢体变形，多手，多指，身体融合，手臂穿过身体；\n\n背景人物进入近景，背景人物挡住主角的脸，背景人物特写，背景人物面部变形，背景人物融合，背景人物复制，人群拥挤遮挡主角，菜贩离开摊子，路人加入对话；\n\n蔬菜变形，蔬菜变色，蔬菜变成别的东西，菜篮里的菜凭空消失，菜篮消失；\n\n打斗，兵器，亲吻，过度亲密；\n\n体型差消失，柳莺莺比韩子墨高；\n\n夜景，雨天，冬天，现代市场，超市，现代建筑，街市消失，光照突变；\n\n能量光效，数字特效，CGI 质感，现代数字摄影质感，饱和鲜艳的现代调色，手持晃动，快速剪辑，定格帧，结尾静止，低清晰度，卡顿，卡通渲染，动漫风格，3D 渲染。",
+    "omni_references": [],
+    "model": {
+      "family": "MAGI-2",
+      "variant": "flagship",
+      "api_model_id": null
+    },
+    "parameters": {
+      "task_type": "t2v",
+      "duration_sec": 30.3,
+      "fps": 30,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "has_audio": true,
+      "audio_mode": "mixed"
+    },
+    "preview": {
+      "path": "assets/examples/cms-0c9e2e90/preview.jpg",
+      "alt": {
+        "en": "Preview still frame from 古镇早市的婚期笑谈 MAGI-2 clip",
+        "zh-CN": "MAGI-2 案例《古镇早市的婚期笑谈》视频封面帧"
+      }
+    },
+    "video_url": "https://awesome.raphael.app/materials/3bf7b3ae-d38f-4696-afdc-09c08d164658.mp4",
+    "source": {
+      "url": "https://x.com/abulu8/status/2125929153639936164",
+      "author": "@abulu8",
+      "author_url": "https://x.com/abulu8",
+      "platform": "X",
+      "published_at": "2026-11-26"
+    },
+    "verification": {
+      "status": "source-only",
+      "tested_at": null,
+      "tested_on": "",
+      "notes": {
+        "en": "",
+        "zh-CN": ""
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "source-attributed",
+      "video": "link-only",
+      "credit": "@abulu8",
+      "license_url": null
+    },
+    "added_at": "2026-11-27",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "作者在 X 原帖中称使用 MAGI-2，模型未经独立核实。",
+      "zh-CN": "作者在 X 原帖中称使用 MAGI-2，模型未经独立核实。"
+    }
+  },
+  {
+    "id": "cms-de6cd92d",
+    "status": "published",
+    "title": {
+      "en": "ONE HIT 时装换装广告",
+      "zh-CN": "ONE HIT 时装换装广告"
+    },
+    "summary": {
+      "en": "Create a 15-second 16:9 fashion lookbook MV combining rapid outfit changes, magazine editorial graphics, and beat-synced transitio…",
+      "zh-CN": "社区 MAGI-2 视频案例（@joshesye）：ONE HIT 时装换装广告。"
+    },
+    "category": "omni-reference",
+    "tags": [
+      "cms-synced",
+      "t2v"
+    ],
+    "origin": "community",
+    "prompt_status": "public",
+    "prompt_language": "en",
+    "short_prompt": "",
+    "structured_prompt": "Create a 15-second 16:9 fashion lookbook MV combining rapid outfit changes, magazine editorial graphics, and beat-synced transitions.\nThe video is not narrative-driven. Core structure:\nLocked camera → Typography reveal → Close-up → Rapid Look switches → Hero Ending\nKeep the same female character centered in frame throughout the video. Preserve facial identity, body proportions, skin tone, and overall appearance across every outfit.\n0.0–1.5s\nPure white studio, girl standing naturally in the center.\nCamera locked.\nHuge black typography “ONE HIT” rapidly expands behind her.\nMagazine elements appear on the beat:\nbarcode, scan lines, crosshair, numbers, thin borders, grid graphics.\nThe clean studio instantly becomes a bold fashion magazine poster.\n1.5–3.0s\nFast camera push-in to a close-up.\nThe girl gently turns toward camera, hair moving naturally, direct eye contact, calm and confident expression.\nBlack-and-white editorial background with subtle film grain.\n3.0–4.5s\nLook 01.\nInstant outfit change on the beat.\nCharacter stays centered and makes a natural fashion pose.\nBackground switches to a completely new magazine layout with oversized headline, barcode and numbering.\n4.5–6.0s\nLook 02.\nNew outfit.\nMedium shot. Girl takes one confident step forward.\nBackground typography rapidly changes.\nBlack and white remain dominant with stronger red accents.\n6.0–7.5s\nLook 03.\nNew outfit.\nGirl makes a gentle half-turn, hair swinging naturally.\nBackground changes to red-and-white editorial graphics with huge English typography, numbers, coordinates, scan lines and borders.\n7.5–9.0s\nLook 04.\nSporty fashion outfit.\nGirl leans slightly forward with a relaxed confident smile.\nSubtle low-angle camera.\nLarge red magazine typography slides into frame on the beat.\n9.0–10.5s\nLook 05.\nNew outfit.\nGirl moves into a stylish crouching pose.\nQuick camera push-in.\nBackground layout completely rearranges, creating a new visual impact.\n10.5–12.0s\nLook 06.\nGirl stands again.\nCamera pulls back to medium shot.\nBold yellow fashion uniform with long blue hair styling.\nBackground returns to black-and-white editorial design with large headline and barcode elements.\n12.0–13.5s\nLook 07.\nSharp tailored suit.\nGirl walks confidently toward camera.\nBackground switches to red-and-black magazine design.\nNew headline, number codes, scan lines and graphic grids appear rapidly.\nPacing becomes faster.\n13.5–15.0s\nFinal Hero Shot.\nGirl wears a minimal black fashion look.\nArms crossed, standing confidently in the center.\nCamera settles into a clean medium shot.\nBackground gradually simplifies, leaving only a few premium magazine graphics.\nFinal logo or visual mark appears naturally.\nFreeze on the final beat.\nOverall Style\nPremium Korean fashion lookbook, editorial fashion photography, Y2K magazine design, high-end commercial photography.\nBlack and white base with red accents.\nOversized English typography, barcode, scan lines, crosshair, coordinates, numbering, grids, thin borders, subtle film grain.\nSwitch to a new outfit or visual layout every 1–1.5 seconds, synchronized closely with the music beat.\nKeep the camera relatively controlled. Use quick push-ins, subtle pull-backs, pose changes, graphic transitions, and layout swaps.\nCharacter must always remain near the center of frame.\nMaintain realistic hair movement, fabric physics, natural poses, clean studio lighting, and high-contrast premium photography.\nAvoid\nNo face drift, character replacement, body morphing, extra limbs, distorted hands, unstable proportions, messy typography, chaotic camera movement, random backgrounds, cartoon style, low-quality CGI, watermark, or unwanted subtitles.\nFinal result should feel like a high-end Korean fashion campaign mixed with a Y2K magazine cover and beat-synced music video.",
+    "omni_references": [],
+    "model": {
+      "family": "MAGI-2",
+      "variant": "flagship",
+      "api_model_id": null
+    },
+    "parameters": {
+      "task_type": "t2v",
+      "duration_sec": 14.8,
+      "fps": 30,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "has_audio": true,
+      "audio_mode": "music"
+    },
+    "preview": {
+      "path": "assets/examples/cms-de6cd92d/preview.jpg",
+      "alt": {
+        "en": "Preview still frame from ONE HIT 时装换装广告 MAGI-2 clip",
+        "zh-CN": "MAGI-2 案例《ONE HIT 时装换装广告》视频封面帧"
+      }
+    },
+    "video_url": "https://awesome.raphael.app/materials/d2ef3d5b-4cc2-4ec9-8745-cf9097f4b48b.mp4",
+    "source": {
+      "url": "https://x.com/joshesye/status/2125557298135245012",
+      "author": "@joshesye",
+      "author_url": "https://x.com/joshesye",
+      "platform": "X",
+      "published_at": "2026-11-25"
+    },
+    "verification": {
+      "status": "source-only",
+      "tested_at": null,
+      "tested_on": "",
+      "notes": {
+        "en": "",
+        "zh-CN": ""
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "source-attributed",
+      "video": "link-only",
+      "credit": "@joshesye",
+      "license_url": null
+    },
+    "added_at": "2026-11-27",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "作者在 X 原帖中称使用 MAGI-2，模型未经独立核实。完整提示词来自同一作者的回复：https://x.com/joshesye/status/2125557476208570465",
+      "zh-CN": "作者在 X 原帖中称使用 MAGI-2，模型未经独立核实。完整提示词来自同一作者的回复：https://x.com/joshesye/status/2125557476208570465"
+    }
+  },
+  {
+    "id": "cms-5378ef28",
+    "status": "published",
+    "title": {
+      "en": "红帽女孩的冬日录像",
+      "zh-CN": "红帽女孩的冬日录像"
+    },
+    "summary": {
+      "en": "Create a 30-second, 1080p ultra-realistic personal home-video of a naturally pretty young Korean woman in her early 20s, with stra…",
+      "zh-CN": "社区 MAGI-2 视频案例（@Ciri_ai）：红帽女孩的冬日录像。"
+    },
+    "category": "sfx-ambience",
+    "tags": [
+      "cms-synced",
+      "t2v"
+    ],
+    "origin": "community",
+    "prompt_status": "public",
+    "prompt_language": "en",
+    "short_prompt": "",
+    "structured_prompt": "Create a 30-second, 1080p ultra-realistic personal home-video of a naturally pretty young Korean woman in her early 20s, with straight black hair in two loose low pigtails, wearing a thick red knit beanie, a cream puffer jacket, a gray wool scarf, dark jeans, and brown winter boots. She carries a paper cup of hot cocoa.\n\nStart immediately with her stepping out of her front door into fresh snowfall. She pulls her scarf up, turns to the camera, smiles, and says, \"It snowed overnight!\" She walks down a quiet residential street, boots crunching in untouched snow. Partway down, she glances at the person holding the camera, laughs, and says, \"Stop filming me, it's so early!\" She holds her cocoa toward the lens like a toast.\n\nShe stops at a parked car, wipes snow off the side mirror with her glove, and writes a small heart on the frosted window. Then she pauses. For about three seconds she stands still, looking up at the falling snow, breath steaming, a soft smile on her face, with only quiet ambience. The camera lingers on her.\n\nShe scoops a handful of snow, packs it into a ball, and tosses it at a bare tree. It misses, and she pouts at the camera. She tries again and hits the trunk, and a clump of snow drops from a branch onto her head. She shrieks, shakes it off, laughs, and says, \"Okay, I deserved that!\"\n\nAs she turns back toward home, she notices a single small red mitten sitting on a fence post. She picks it up, looks at it, then at the camera, and says, \"Wait... whose is this?\" She sets it back carefully on the post.\n\nFinally, at her gate, she turns to the camera with red cheeks and a runny nose, sniffs, waves, and says, \"Okay, see you! Bye!\" She goes inside, and the recording abruptly cuts to black.\n\n**Visual style:** Raw early-2000s handheld DV camcorder footage, soft overcast winter morning light, slightly overexposed snow, imperfect framing, camera shake, autofocus hunting on falling snowflakes, faded cool-toned colors, mild digital noise, a brief fogged lens when she steps outside, and realistic movements.\n\n**Audio:** Muffled snowy neighborhood ambience, soft wind, crunching footsteps, a distant dog barking, a faint camera-holder chuckle off-screen, and perfectly synchronized casual English dialogue. No background music.\n\nMaintain identical facial features, clothing, hairstyle, and body proportions throughout. Keep every interaction and object physically realistic.",
+    "omni_references": [],
+    "model": {
+      "family": "MAGI-2",
+      "variant": "flagship",
+      "api_model_id": null
+    },
+    "parameters": {
+      "task_type": "t2v",
+      "duration_sec": 30.2,
+      "fps": 60,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "has_audio": true,
+      "audio_mode": "mixed"
+    },
+    "preview": {
+      "path": "assets/examples/cms-5378ef28/preview.jpg",
+      "alt": {
+        "en": "Preview still frame from 红帽女孩的冬日录像 MAGI-2 clip",
+        "zh-CN": "MAGI-2 案例《红帽女孩的冬日录像》视频封面帧"
+      }
+    },
+    "video_url": "https://awesome.raphael.app/materials/494b4521-bbc3-494d-94f6-ac360d8b7c70.mp4",
+    "source": {
+      "url": "https://x.com/Ciri_ai/status/2125844812167569730",
+      "author": "@Ciri_ai",
+      "author_url": "https://x.com/Ciri_ai",
+      "platform": "X",
+      "published_at": "2026-11-26"
+    },
+    "verification": {
+      "status": "source-only",
+      "tested_at": null,
+      "tested_on": "",
+      "notes": {
+        "en": "",
+        "zh-CN": ""
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "source-attributed",
+      "video": "link-only",
+      "credit": "@Ciri_ai",
+      "license_url": null
+    },
+    "added_at": "2026-11-27",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "作者自述使用 MAGI-2，未经独立核实。",
+      "zh-CN": "作者自述使用 MAGI-2，未经独立核实。"
+    }
+  },
+  {
+    "id": "cms-d53ca8bf",
+    "status": "published",
+    "title": {
+      "en": "雨天伦敦的连环闹剧",
+      "zh-CN": "雨天伦敦的连环闹剧"
+    },
+    "summary": {
+      "en": "Create one 30-second ultra-photorealistic live-action British comedy short in 16:9 landscape, 60 fps. a stylish young woman spendi…",
+      "zh-CN": "社区 MAGI-2 视频案例（@AIwithkhan）：雨天伦敦的连环闹剧。"
+    },
+    "category": "product-commercials",
+    "tags": [
+      "cms-synced",
+      "t2v"
+    ],
+    "origin": "community",
+    "prompt_status": "public",
+    "prompt_language": "en",
+    "short_prompt": "",
+    "structured_prompt": "Create one 30-second ultra-photorealistic live-action British comedy short in 16:9 landscape, 60 fps. a stylish young woman spending an ordinary rainy day exploring central London. She is enjoying her coffee, admiring the city and casually going about her day. However, everywhere she goes, a ridiculous chain of unexpected accidents unfolds around her. Sometimes she accidentally causes the chaos; sometimes she becomes its unfortunate victim.\n\nThe comedy should feel like a high-budget British comedy film, featuring perfectly timed visual gags, believable slapstick, realistic physics, natural human reactions and unexpected comedic payoffs.\n\nMake this short, cinematic and entertaining, with seven fast-paced London sequences, each lasting approximately 4 seconds. Maintain perfect character consistency throughout. Use seamless scene continuity within each location and hard cuts between locations. No dialogue, narration, subtitles or background music.",
+    "omni_references": [],
+    "model": {
+      "family": "MAGI-2",
+      "variant": "flagship",
+      "api_model_id": null
+    },
+    "parameters": {
+      "task_type": "t2v",
+      "duration_sec": 30.3,
+      "fps": 30,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "has_audio": true,
+      "audio_mode": "mixed"
+    },
+    "preview": {
+      "path": "assets/examples/cms-d53ca8bf/preview.jpg",
+      "alt": {
+        "en": "Preview still frame from 雨天伦敦的连环闹剧 MAGI-2 clip",
+        "zh-CN": "MAGI-2 案例《雨天伦敦的连环闹剧》视频封面帧"
+      }
+    },
+    "video_url": "https://awesome.raphael.app/materials/546f50eb-d41b-49d0-bbd2-e39f87347641.mp4",
+    "source": {
+      "url": "https://x.com/AIwithkhan/status/2125945816229859418",
+      "author": "@AIwithkhan",
+      "author_url": "https://x.com/AIwithkhan",
+      "platform": "X",
+      "published_at": "2026-11-26"
+    },
+    "verification": {
+      "status": "source-only",
+      "tested_at": null,
+      "tested_on": "",
+      "notes": {
+        "en": "",
+        "zh-CN": ""
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "source-attributed",
+      "video": "link-only",
+      "credit": "@AIwithkhan",
+      "license_url": null
+    },
+    "added_at": "2026-11-27",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "作者自述使用 MAGI-2，未经独立核实。",
+      "zh-CN": "作者自述使用 MAGI-2，未经独立核实。"
+    }
+  },
+  {
+    "id": "cms-fdda6fe4",
+    "status": "published",
+    "title": {
+      "en": "雨中巴黎的冷面喜剧",
+      "zh-CN": "雨中巴黎的冷面喜剧"
+    },
+    "summary": {
+      "en": "THE GENTLEWOMAN 02 — THE ART OF NOT CARING. CLIP 2: THE CITY BOWS DOWN. Create the second 15-second cinematic deadpan physical-com…",
+      "zh-CN": "社区 MAGI-2 视频案例（@Ciri_ai）：雨中巴黎的冷面喜剧。"
+    },
+    "category": "omni-reference",
+    "tags": [
+      "cms-synced",
+      "omni-ref"
+    ],
+    "origin": "community",
+    "prompt_status": "public",
+    "prompt_language": "en",
+    "short_prompt": "",
+    "structured_prompt": "THE GENTLEWOMAN 02 — THE ART OF NOT CARING. CLIP 2: THE CITY BOWS DOWN. Create the second 15-second cinematic deadpan physical-comedy sequence in the same rainy Paris morning, visually continuous with clip 1. Use the character-sheet image as the strict identity, face, hair, wardrobe and prop reference; same woman, same charcoal-black long coat, dark outfit and boots. Coffee cup stays in her LEFT hand; CLOSED matte-black umbrella stays in her RIGHT hand at all times and never opens. In five elegant, fast, readable vignettes: 1) she rescues a street artist's easel from tipping by nudging its support back into place with the closed umbrella; 2) a paper bag of birdseed slips, scattering pigeons; she calmly rights the bag and guides it back to the owner; 3) a waiter struggles with a wobbling silver serving tray; she catches and steadies the edge using the umbrella handle without taking the tray; 4) at a grand Paris hotel entrance, a suitcase wheel is stuck in a cobblestone gap; she uses the umbrella tip to free it with one precise movement; 5) close-up as she continues walking, finally allowing the faintest satisfied smile, then returns to her perfectly neutral expression. Finish with a doorman giving her a small respectful nod as she passes. Understated visual comedy, believable physics, soft overcast light, wet reflective Paris streets, refined European fashion-film cinematography, smooth tracking and clean cuts. No dialogue, no captions, no text, no hand switching, no umbrella opening, no extra props in her hands.",
+    "omni_references": [],
+    "model": {
+      "family": "MAGI-2",
+      "variant": "flagship",
+      "api_model_id": null
+    },
+    "parameters": {
+      "task_type": "omni-ref",
+      "duration_sec": 22.6,
+      "fps": 30,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "has_audio": true,
+      "audio_mode": "mixed"
+    },
+    "preview": {
+      "path": "assets/examples/cms-fdda6fe4/preview.jpg",
+      "alt": {
+        "en": "Preview still frame from 雨中巴黎的冷面喜剧 MAGI-2 clip",
+        "zh-CN": "MAGI-2 案例《雨中巴黎的冷面喜剧》视频封面帧"
+      }
+    },
+    "video_url": "https://awesome.raphael.app/materials/6b1fee73-b1e4-4c82-9a5a-18cdda5c2128.mp4",
+    "source": {
+      "url": "https://x.com/Ciri_ai/status/2125795679201304780",
+      "author": "@Ciri_ai",
+      "author_url": "https://x.com/Ciri_ai",
+      "platform": "X",
+      "published_at": "2026-11-26"
+    },
+    "verification": {
+      "status": "source-only",
+      "tested_at": null,
+      "tested_on": "",
+      "notes": {
+        "en": "",
+        "zh-CN": ""
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "source-attributed",
+      "video": "link-only",
+      "credit": "@Ciri_ai",
+      "license_url": null
+    },
+    "added_at": "2026-11-27",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "作者自述使用 MAGI-2，未经独立核实。",
+      "zh-CN": "作者自述使用 MAGI-2，未经独立核实。"
+    }
+  },
+  {
+    "id": "cms-a1baa303",
+    "status": "published",
+    "title": {
+      "en": "烛光餐厅的三场约会",
+      "zh-CN": "烛光餐厅的三场约会"
+    },
+    "summary": {
+      "en": "📌 PROMPT ( Video Episode 1): STRICT RULE: Absolutely no music, only diegetic sounds. Realism cinematic, real skin with pores and s…",
+      "zh-CN": "社区 MAGI-2 视频案例（@ivanka_humeniuk）：烛光餐厅的三场约会。"
+    },
+    "category": "product-commercials",
+    "tags": [
+      "cms-synced",
+      "t2v"
+    ],
+    "origin": "community",
+    "prompt_status": "public",
+    "prompt_language": "en",
+    "short_prompt": "",
+    "structured_prompt": "📌 PROMPT ( Video Episode 1):\n\nSTRICT RULE: Absolutely no music, only diegetic sounds.\nRealism cinematic, real skin with pores and small marks, natural eyes, people and set lit only by this place's named sources: the tall candle burning on every table, lighting each face softly from below and in front, the far corners of the room and the gaps between the tables left dark; 1990 Kodak 35mm colour-negative film grade with softly faded shadows, soft halation around every flame and clearly visible organic film grain; still air with a faint haze.\nFramed on the rule of thirds, with a light anamorphic lens character: softly oval out-of-focus highlights in the background, and a fine 35mm film grain.\nImage reference 1 (location Restaurant Dining Room): the Restaurant Dining Room 100% as in the reference.\nImage reference 2 (character Stella): Stella, face, hair, body and clothes 100% as in the reference.\nImage reference 3 (character Brad): Brad, face, hair, body and clothes 100% as in the reference.\nImage reference 4 (character Tony): Tony, face, hair, body and clothes 100% as in the reference.\nImage reference 5 (prop Brick Phone): the Brick Phone 100% as in the reference.\nImage reference 6 (prop Newspaper): the Newspaper 100% as in the reference.\nContinuity: Stella is clean and unchanged from the reference, with no stain, mark or damage; Brad is clean and unchanged from the reference, with no stain, mark or damage; Tony is clean and unchanged from the reference, with no stain, mark or damage.\nIn frame only: Stella, Brad, Tony and the background diners. Every other table is taken by elegant diners in 1990 evening wear who eat, talk and raise glasses, the whole room filled with their soft, wordless murmur and the clink of glasses and cutlery, and two waiters in white jackets pass far behind, always soft and out of focus, never near the leads; the grand piano closed. Stella and Brad sit face to face at the small candlelit table for two in the middle of the room, Stella screen left, Brad screen right, an arm's length apart across the table. Tony works the room behind them and comes to the table in S4 and S6. The brick phone stays at Brad's right ear the whole clip. The newspaper, folded and clean with no marks on it, and its gold lipstick stay in the pocket of Stella's long black wool coat, hung on a brass coat stand by the curtained arch, until S10. Eyelines never at the camera.\nOpening: diners moving between the tables; Brad seated, the brick phone at his ear; Stella seated across from him, her chin on her hand, an arm's length away.\nBrad speaks aloud 1 time between 1.3s and 3.5s and never again; silent before 1.3s and from 3.5s to the end.\nTony speaks aloud 1 time between 7.8s and 10.0s and never again; silent before 7.8s and from 10.0s to the end.\nStella speaks aloud 2 times between 10.4s and 17.9s and never again; silent before 10.4s and from 17.9s to the end.\nThe background diners never speak a clear word in this clip.\nPerformance: naturalistic screen acting, as in a serious drama shot on film; small, real reactions in the eyes, brows, mouth and jaw, nothing exaggerated.\nStella is out to leave this date without one awkward word; once Tony brings the fake call she walks out toward her next date, with willpower.\nBrad is out to close his deal on the phone, rocking and turning in his chair, and never once looks at Stella, with persistence.\nTony is out to rescue the lady as he has done before; he brings the fake call with a straight face, with perseverance.\nPace: loud and comic at the start, then sly and quick; every shot opens in motion, a beat only where a line lands.\nS1 0.0-1.2s · wide, high, from the far end of the room, slow push-in · diners at every table lift glasses and lean in to talk, a waiter in a white jacket crosses the aisle; in the middle of the room, small at their candlelit table, Brad leaning back with the phone at his ear, Stella across from him.\nS2 1.2-3.6s · medium, two-shot across the table, eye level, slow push-in · Brad, leaning back in his chair, shouts into the brick phone, his free hand chopping the air, his eyes on the far tables; Stella, screen left, rests her chin on her hand, her eyes on him; soft diners behind; his voice begins at 1.3s and ends at 3.5s.\nS3 3.6-5.0s · close, cut at the collarbones, three-quarter from Brad's side, eye level, slow push-in · Stella's eyes stay on Brad, then slide right, past him, toward the room; her chin on her hand, her gold cuff in the candlelight; her look passing right of the lens, level; Brad's soft shoulder near right.\nS4 5.0-6.4s · insert, at tablecloth height, static · Stella's hand slides a folded banknote under the small silver saucer by the candle; a waiter's hand in a white sleeve comes in from the right and lifts the saucer away with the note under it.\nS5 6.4-7.6s · close, cut at the collarbones, front three-quarter, eye level, slow push-in · Tony, the saucer in his hand, meets Stella's look and gives one very small nod, his face still under the moustache; his look passing left of the lens, level; soft diners behind him.\nS6 7.6-10.2s · medium, three-shot at the table, eye level, handheld · Tony steps up beside the table, screen right behind Brad, and bends toward Stella, one hand behind his back; Brad sits half turned away in his chair, the phone at his ear, grinning; Stella screen left looks up at Tony; his voice begins at 7.8s and ends at 10.0s.\nS7 10.2-12.4s · close, cut at the collarbones, three-quarter from the right, eye level, tilting up with her · Stella presses her hand flat to her chest, her brows lifting, and rises from her chair; her voice begins at 10.4s and ends at 12.2s; her look passing right of the lens toward Brad, then rising; soft diners behind her.\nS8 12.4-13.6s · medium_close on Brad, over Stella's soft standing shoulder, eye level, static · Brad, the phone at his ear, glances at his gold watch and waves her off with the back of his free hand without turning his head; Tony soft behind him, screen right.\nS9 13.6-15.6s · medium, down the centre aisle, camera travelling backward ahead of her, eye level · Stella walks between the full candlelit tables toward the curtained arch and lifts her long black wool coat off the brass coat stand by the arch onto her arm without stopping; soft diners on both sides.\nS10 15.6-17.2s · insert, the newspaper in her hands at the arch, from above, static · the gold lipstick in Stella's hand draws one red line through a personal ad, then a small red cross beside the ad just below it; the coat over her forearm.\nS11 17.2-20.0s · close, cut at the collarbones, three-quarter, slightly low, slow push-in · Stella folds the newspaper against her coat, the corners of her mouth lifting; her voice begins at 17.4s and ends at 17.9s; her look passing left of the lens, low, on the newspaper; the red velvet curtain behind her.\nAll speech is in English. Only the words inside double quotation marks are ever spoken aloud; every voice direction and every other word of this text stays silent.\nS2 (1.3-3.5s) Brad into the phone, to his broker, a man's voice of about 32, a loud, fast tenor with a light American accent, shouting: \"Sell it, Jerry! Sell all of it!\"\nS6 (7.8-10.0s) Tony to Stella, a man's voice of about 50, a dry, gravelly baritone with a light New York accent, low and formal: \"Miss, a call for you. It's urgent.\"\nS7 (10.4-12.2s) Stella to her date across the table, a woman's voice of about 26, a bright, smooth mezzo with a light American accent, light and polite: \"Oh no. Excuse me, Brad.\"\nS11 (17.4-17.9s) Stella to herself, quiet and dry: \"Next.\"\nNo speech in S1, S3, S4, S5, S8, S9, S10.\nRestrictions:\n- No music of any kind: no score, no soundtrack, no background music, no melody, no drone, no pad, no sting, no swell.\n- No added sound effects: no whoosh, no boom, no impact hit, no riser.\n- Only diegetic sound: the characters' voices and the natural sounds of this place.\n- No words but the quoted lines, each only inside its own Audio window; outside them no one on screen speaks, whispers or mouths a word.\n- Background people never copy the face or hair of any image reference; each referenced character appears once, as themselves.\n\n📌 PROMPT ( Video Episode 2):\n\nSTRICT RULE: Absolutely no music, only diegetic sounds. Realism cinematic, real skin with pores and small marks, natural eyes, people and set lit only by this place's named sources: the tall candle burning on every table, lighting each face softly from below and in front, the far corners of the room and the gaps between the tables left dark; 1990 Kodak 35mm colour-negative film grade with softly faded shadows, soft halation around every flame and clearly visible organic film grain; still air with a faint haze. Framed on the rule of thirds, with a light anamorphic lens character: softly oval out-of-focus highlights in the background, and a fine 35mm film grain. Image reference 1 (location Restaurant Dining Room): the Restaurant Dining Room 100% as in the reference. Image reference 2 (character Stella): Stella, face, hair, body and clothes 100% as in the reference. Image reference 3 (character Eugene): Eugene, face, hair, body and clothes 100% as in the reference. Image reference 4 (character Tony): Tony, face, hair, body and clothes 100% as in the reference. Image reference 5 (prop Newspaper): the Newspaper 100% as in the reference. Continuity: Stella is clean and unchanged from the reference, with no stain, mark or damage; Eugene is clean and unchanged from the reference, with no stain, mark or damage; Tony is clean and unchanged from the reference, with no stain, mark or damage. In frame only: Stella, Eugene, Tony, Eugene's mother and the background diners. Every other table is taken by elegant diners in 1990 evening wear, the whole room filled with their soft, wordless murmur and the clink of glasses and cutlery, always soft and out of focus, never near the leads. Eugene's mother, a woman in her sixties with a neat silver bob, a navy suit and a gold brooch, sits alone with a teacup at the neighbouring table across the aisle, behind Eugene. Stella and Eugene sit face to face at the small candlelit table for two in the middle of the room, Stella screen left, Eugene screen right, an arm's length apart. Stella's small gold clutch lies on the table by her hand, the folded newspaper and a gold lipstick tucked under it. A man in a charcoal suit sits alone at a table near the curtained arch, his back to the camera, never showing his face. Eyelines never at the camera. Opening: diners talking and lifting glasses; Eugene leaning across the table, an open brown leather wallet in his hand; Stella seated across from him, her eyes on the wallet. Eugene speaks aloud 3 times between 0.2s and 12.2s and never again; silent before 0.2s and from 12.2s to the end. Tony speaks aloud 1 time between 6.7s and 8.8s and never again; silent before 6.7s and from 8.8s to the end. Stella speaks aloud 2 times between 9.8s and 16.6s and never again; silent before 9.8s and from 16.6s to the end, her lips closed. Eugene's mother, the man in the charcoal suit and the background diners never speak a clear word in this clip. Performance: naturalistic screen acting, as in a serious drama shot on film; small, real reactions in the eyes, brows, mouth and jaw, nothing exaggerated. Stella is out to leave this date without one awkward word; once Tony brings the fake call she walks out to look for a better man, with willpower. Eugene is out to win Stella over by sharing his mother with her; once she rises he still hopes to keep her, with zeal. Tony is out to rescue the lady once more; he brings the fake call with a straight face, with perseverance. Pace: sweet and awkward at the start, then sly and quick; every shot opens in motion, a beat only where a line lands. S1 0.0-2.9s · medium, two-shot across the table, eye level, slow push-in · Eugene leans in and holds the open wallet up, a photo of an older woman inside; Stella, screen left, looks at the photo, then at him; his mother soft behind him; his voice begins at 0.2s and ends at 2.8s. S2 2.9-3.6s · close, cut at the collarbones, three-quarter from Eugene's side, eye level, slow push-in · Stella's fingers touch the gold collar at her throat, then drop back to the tablecloth; her look passing right of the lens, level; soft diners behind her. S3 3.6-5.8s · medium_close, cut at mid-chest, three-quarter from Stella's side, eye level, slow push-in · Eugene twists in his chair and points across the aisle; behind him his mother lifts her teacup and waves; his voice begins at 3.7s and ends at 5.7s; his look passing left of the lens, level. S4 5.8-6.6s · medium, cut at the waist, three-quarter from the left, eye level, slow push-in · Stella's eyes slide right across the room as her left fingertip taps twice on the wide gold link bracelet on her right wrist on the tablecloth; her look passing right of the lens, level; soft diners behind her. S5 6.6-9.0s · close, cut at the collarbones, three-quarter from Stella's side, slightly low, handheld · Tony bends in beside the table toward Stella, his eyes open on her; Eugene soft in the right background; his voice begins at 6.7s and ends at 8.8s; his look passing left of the lens, low. S6 9.0-10.9s · close, cut at the collarbones, three-quarter from the right, eye level, tilting up with her · Stella rises from her chair, lifting her clutch and the folded newspaper from the table; her voice begins at 9.8s and ends at 10.7s; her look passing right of the lens, low; soft diners behind her. S7 10.9-12.3s · close, cut at the collarbones, front three-quarter, slightly high, slow push-in · Eugene, still holding the open wallet, follows her with his eyes as she rises; his voice begins at 11.0s and ends at 12.2s; his look passing left of the lens, rising; soft diners behind him. S8 12.3-13.4s · medium, down the centre aisle, camera travelling backward ahead of her, eye level · Stella walks away from the table between the full candlelit tables toward the curtained arch, the clutch and the folded newspaper in her hand, her ponytail swinging; soft diners on both sides. S9 13.4-14.2s · insert, the newspaper in Stella's hands by the curtained arch, from above, static · the personal ads page, one ad already marked with a small red cross; the gold lipstick in her hand draws a red line through the ad just below it. S10 14.2-16.6s · close, cut at the collarbones, three-quarter, slightly low, slow push-in · Stella, by the arch, reads the ad over the newspaper, one brow lifting; her voice begins at 14.3s and ends at 16.6s; her look passing left of the lens, low, on the newspaper; the red velvet curtain behind her. S11 16.6-17.4s · medium, over Stella's soft near shoulder, eye level, slow push-in · beyond her, the man in the charcoal suit, alone at his table with his back to the camera, turns his head after her; soft diners around him; Stella's lips closed. S12 17.4-20.0s · close, cut at the collarbones, profile, eye level, slow push-in · Stella tucks the newspaper into her clutch, then her eyes rise toward the room, her lips closed in a small smile; her look passing right of the lens, level; the red velvet curtain of the arch behind her. All speech is in English. Only the words inside double quotation marks are ever spoken aloud; every voice direction and every other word of this text stays silent. S1 (0.2-2.8s) Eugene to Stella, a man's voice of about 34, a soft, slightly nasal tenor with a light American accent, earnest and proud: \"Mother says a lady never wears gold after six.\" S3 (3.7-5.7s) Eugene to Stella, cheerful and helpful: \"She picked this table. She's right there.\" S5 (6.7-8.8s) Tony to Stella, a man's voice of about 50, a dry, gravelly baritone with a light New York accent, low and formal: \"Miss, a call for you. It's urgent.\" S6 (9.8-10.7s) Stella to Eugene, a woman's voice of about 26, a bright, smooth mezzo with a light American accent, sweet and quick: \"Excuse me, Eugene.\" S7 (11.0-12.2s) Eugene to Stella, anxious and small: \"Should I tell Mother?\" S10 (14.3-16.6s) Stella to herself, low and amused: \"Hmm. Independent athlete. His mother wrote this. Next.\" No speech in S2, S4, S8, S9, S11, S12. Restrictions: - No music of any kind: no score, no soundtrack, no background music, no melody, no drone, no pad, no sting, no swell. - No added sound effects: no whoosh, no boom, no impact hit, no riser. - Only diegetic sound: the characters' voices and the natural sounds of this place. - No words but the quoted lines, each only inside its own Audio window; outside them no one on screen speaks, whispers or mouths a word. - Background people never copy the face or hair of any image reference; each referenced character appears once, as themselves.\n\n📌 PROMPT ( Video Episode 3):\n\nSTRICT RULE: Absolutely no music, only diegetic sounds.\nRealism cinematic, real skin with pores and small marks, natural eyes, people and set lit only by this place's named sources: the tall candle burning on every table, lighting each face softly from below and in front, the far corners of the room and the gaps between the tables left dark; 1990 Kodak 35mm colour-negative film grade with softly faded shadows, soft halation around every flame and clearly visible organic film grain; still air with a faint haze.\nFramed on the rule of thirds, with a light anamorphic lens character: softly oval out-of-focus highlights in the background, and a fine 35mm film grain.\nImage reference 1 (location Restaurant Dining Room): the Restaurant Dining Room 100% as in the reference.\nImage reference 2 (character Stella): Stella, face, hair, body and clothes 100% as in the reference.\nImage reference 3 (character Jack): Jack, face, hair, body and clothes 100% as in the reference.\nImage reference 4 (character Tony): Tony, face, hair, body and clothes 100% as in the reference.\nContinuity: Stella is clean and unchanged from the reference, with no stain, mark or damage; Jack is clean and unchanged from the reference, with no stain, mark or damage; Tony is clean and unchanged from the reference, with no stain, mark or damage.\nIn frame only: Stella, Jack, Tony and the background diners. Every other table is taken by elegant diners in 1990 evening wear who eat, talk and raise glasses, the whole room filled with their soft, wordless murmur and the clink of glasses and cutlery, and two waiters in white jackets pass far behind, always soft and out of focus, never near the leads; the grand piano closed. Stella and Jack sit face to face at the small candlelit table for two in the middle of the room, Stella screen left, Jack screen right, an arm's length apart across the table. On the table: the candle, two crystal champagne flutes and a green champagne bottle; no telephone anywhere. Tony works the room behind them, comes to the table in S6 and then stands at a side table, screen right, in S8. Eyelines never at the camera.\nOpening: diners moving between the tables; Jack seated, tilting the champagne bottle over Stella's flute; Stella seated across from him, leaning in on her forearms, an arm's length away.\nJack speaks aloud 2 times between 0.4s and 16.0s and never again; silent before 0.4s and from 16.0s to the end.\nStella speaks aloud 1 time between 6.3s and 8.7s and never again; silent before 6.3s and from 8.7s to the end.\nTony speaks aloud 1 time between 10.8s and 13.1s and never again; silent before 10.8s and from 13.1s to the end.\nThe background diners never speak a clear word in this clip.\nPerformance: naturalistic screen acting, as in a serious drama shot on film; small, real reactions in the eyes, brows, mouth and jaw, nothing exaggerated.\nStella is out to win this man for real tonight; once he walks away mid-date she meets her own trick, with resilience.\nJack is out to give Stella a taste of her own trick; he charms her, then rises and leaves her at the table, with persistence.\nTony is out to play his part for the gentleman this time; he brings the call, then keeps his eyes off the lady, with perseverance.\nPace: warm and easy for the first ten seconds, then a sudden turn and a cold, quiet close; every shot opens in motion, a beat only where a line lands.\nS1 0.0-3.0s · medium, two-shot across the table, eye level, slow push-in · Jack fills Stella's flute from the champagne bottle, his eyes on her; Stella, screen left, leans in on her forearms, her eyes on him; soft diners behind; his voice begins at 0.4s and ends at 2.8s.\nS2 3.0-4.8s · close, cut at the collarbones, three-quarter from Jack's side, eye level, handheld · Stella laughs and tosses her hair back over her shoulder, her diamond earrings swinging; her look passing right of the lens, level; Jack's soft shoulder near right.\nS3 4.8-6.0s · insert, at table height over the candle, static · two crystal flutes rise into frame and touch with a bright clink at 5.2s, bubbles running up through the champagne; the candle flame between them.\nS4 6.0-8.8s · medium_close, over Jack's soft shoulder onto Stella, slightly low, slow push-in · Stella leans toward him across the table, her flute in her hand; her voice begins at 6.3s and ends at 8.7s; her look passing right of the lens, level; soft diners behind her.\nS5 8.8-10.6s · close, cut at the collarbones, three-quarter from Stella's side, eye level, slow push-in · Jack's eyes stay on her, the corner of his mouth lifting; then his eyes move up and right to someone coming; his look passing left of the lens, rising; soft diners behind him.\nS6 10.6-13.6s · medium, three-shot at the table, eye level, handheld · Tony steps up beside the table, screen right behind Jack, and bends toward him, one hand behind his back; Jack looks up at Tony; Stella, screen left, her flute still raised, the corners of her mouth still lifted; Tony's voice begins at 10.8s and ends at 13.1s.\nS7 13.6-16.2s · close, cut at the collarbones, three-quarter from Stella's side, slightly low, tilting up with him · Jack lays his napkin on the table and rises from his chair; his voice begins at 14.8s and ends at 16.0s; his look passing left of the lens, down toward her; soft diners behind him.\nS8 16.2-17.2s · medium, over Stella's soft near shoulder, eye level, static · Jack walks away down the centre aisle between the full tables toward the curtained arch; Tony, at a side table screen right, turns his eyes away from her and wipes an already clean glass with a white cloth.\nS9 17.2-20.0s · close, cut at the collarbones, front three-quarter, eye level, slow push-in · the smile slowly leaves Stella's face as her eyes settle on the empty chair across from her; Jack's flute still fizzing by the candle, soft in the near right foreground; her look passing right of the lens, low.\nAll speech is in English. Only the words inside double quotation marks are ever spoken aloud; every voice direction and every other word of this text stays silent.\nS1 (0.4-2.8s) Jack to Stella, a man's voice of about 30, a calm, low baritone with a light American accent, warm and teasing: \"I have a confession. I hate telephones.\"\nS4 (6.3-8.7s) Stella to Jack, a woman's voice of about 26, a bright, smooth mezzo with a light American accent, soft and warm: \"Where have you been all my life?\"\nS6 (10.8-13.1s) Tony to Jack, a man's voice of about 50, a dry, gravelly baritone with a light New York accent, low and formal: \"Sir, a call for you. It's urgent.\"\nS7 (14.8-16.0s) Jack to his date, light and easy: \"Excuse me, Stella.\"\nNo speech in S2, S3, S5, S8, S9.\nRestrictions:\n- No music of any kind: no score, no soundtrack, no background music, no melody, no drone, no pad, no sting, no swell.\n- No added sound effects: no whoosh, no boom, no impact hit, no riser.\n- Only diegetic sound: the characters' voices and the natural sounds of this place.\n- No words but the quoted lines, each only inside its own Audio window; outside them no one on screen speaks, whispers or mouths a word.\n- Background people never copy the face or hair of any image reference; each referenced character appears once, as themselves.\n\n📌 PROMPT ( Video Episode 4):\n\nSTRICT RULE: Absolutely no music, only diegetic sounds.\nRealism cinematic, real skin with pores and small marks, natural eyes, people and set lit only by this place's named sources: the brass wall sconces with pleated cream shades along both walls, lighting the faces softly from the side, the coat alcove and the far corners left dark; 1990 Kodak 35mm colour-negative film grade with softly faded shadows, soft halation around every lamp and clearly visible organic film grain; still air with a faint haze.\nFramed on the rule of thirds, with a light anamorphic lens character: softly oval out-of-focus highlights in the background, and a fine 35mm film grain.\nImage reference 1 (location Restaurant Lobby): the Restaurant Lobby 100% as in the reference.\nImage reference 2 (character Stella): Stella, face, hair, body and clothes 100% as in the reference.\nImage reference 3 (character Jack): Jack, face, hair, body and clothes 100% as in the reference.\nContinuity: Stella is clean and unchanged from the reference, with no stain, mark or damage; Jack is clean and unchanged from the reference, with no stain, mark or damage.\nIn frame only: Stella, Jack, the coat-check girl and a few passing guests. The coat-check girl, a young woman in a plain black dress, stands behind the mahogany counter by the glass entrance doors, far back right, soft; two or three guests in evening coats pass far behind toward the doors, soft, never near the leads; the soft murmur of the dining room drifts in through the curtained arch, near right. The brass wall telephone hangs on the left wall and never rings in this clip. Stella stands at the telephone, near left; Jack stands at the counter by the doors, far back right, five steps from her, taking his long charcoal wool overcoat from the coat-check girl. Eyelines never at the camera.\nOpening: guests passing toward the doors; Stella stepping in toward the brass telephone on the left wall; Jack at the counter by the doors, five steps behind her, his back to her.\nStella speaks aloud 2 times between 4.4s and 12.1s and never again; silent before 4.4s and from 12.1s to the end, her lips closed.\nJack speaks aloud 3 times between 5.9s and 21.0s and never again; silent before 5.9s and from 21.0s to the end, his lips closed.\nThe coat-check girl and the passing guests never speak a clear word in this clip.\nPerformance: naturalistic screen acting, as in a serious drama shot on film; small, real reactions in the eyes, brows, mouth and jaw, nothing exaggerated.\nStella is out to keep Jack from walking out on her; once she hears why he did it, she owns her fault and walks away hurt, with resilience.\nJack is out to make Stella feel what she did to her dates; once she walks away hurt he goes after her, with willpower.\nPace: quiet and hurt, then warm; every shot opens in motion, a beat only where a line lands.\nS1 0.0-1.4s · medium_wide, from the curtained arch, eye level, slow push-in · Stella steps in from the right toward the brass telephone on the left wall; guests in coats pass soft toward the glass doors far behind.\nS2 1.4-3.0s · close, cut at the collarbones, profile from the wall side, eye level, slow push-in · Stella lays her hand on the brass telephone and slowly runs her fingertips down over it, her eyes dropping; her look passing right of the lens, low; the red damask wall behind her.\nS3 3.0-4.2s · medium, over Stella's soft near shoulder, eye level, slow push-in · Stella's hand slides off the telephone; far back right by the glass doors, Jack takes his overcoat from the coat-check girl and slips one arm into it, his back to her.\nS4 4.2-5.4s · close, cut at the collarbones, front three-quarter, slightly high, handheld · Stella's brows drawing together, her lips pressed, her face turned toward the doors; her voice begins at 4.4s and ends at 5.2s; her look passing right of the lens, level; the sconce soft behind her.\nS5 5.4-9.3s · close, cut at the collarbones, three-quarter from the doors side, slightly low, slow push-in · Jack turns to her, his overcoat half on; his voice begins at 5.9s and ends at 9.2s; his look passing left of the lens, level; the glass doors soft behind him.\nS6 9.3-12.2s · extreme_close, brows to lips, front three-quarter, slightly high, slow push-in · Stella's eyes lower, her chin dropping; her voice begins at 9.4s and ends at 12.1s; her look passing right of the lens, low.\nS7 12.2-14.2s · medium, from behind her, eye level, camera travelling behind her · Stella turns away and walks toward the curtained arch, near right, her head down; Jack soft far back by the doors, watching her go.\nS8 14.2-15.8s · medium, two-shot by the curtained arch, eye level, handheld · Jack crosses the lobby, the overcoat hanging off one shoulder, and catches up with Stella at the arch, his hand on her elbow, an arm's length apart; she turns to him, screen left.\nS9 15.8-17.5s · close, cut at the collarbones, three-quarter from Stella's side, eye level, slow push-in · Jack, his eyes on hers, the corners of his mouth lifting; his voice begins at 16.3s and ends at 17.3s; his look passing left of the lens, level; the red velvet curtain soft behind him.\nS10 17.5-18.9s · medium, two-shot at the curtained arch, eye level, slow push-in · Stella steps in and wraps her arms around Jack's neck; he holds her close, the overcoat sliding off his shoulder; the red velvet curtain behind them.\nS11 18.9-21.0s · close, cut at the collarbones, three-quarter over Stella's soft near shoulder, eye level, slow push-in · Jack, holding her, his chin by her hair, the corners of his mouth lifting; his voice begins at 18.9s and ends at 21.0s; his look passing left of the lens, low; the curtain soft behind him.\nS12 21.0-22.0s · close, cut at the collarbones, profile, eye level, slow push-in · Stella's cheek on Jack's shoulder, her eyes closing, a small closed-lip smile; the curtain soft behind her.\nS13 22.0-23.0s · close, cut at the collarbones, front three-quarter, eye level, static · Jack's face over her shoulder, his eyes on the room beyond the arch, his lips closed in a smile; his look passing right of the lens, level; the curtain soft behind him.\nAll speech is in English. Only the words inside double quotation marks are ever spoken aloud; every voice direction and every other word of this text stays silent.\nS4 (4.4-5.2s) Stella to Jack, a woman's voice of about 26, a bright, smooth mezzo with a light American accent, calling across the room, hurt: \"Jack! Wait.\"\nS5 (5.9-9.2s) Jack to Stella, a man's voice of about 30, a calm, low baritone with a light American accent, quiet and dry: \"I watched you run from your dates. You needed a lesson.\"\nS6 (9.4-12.1s) Stella to Jack, soft and sad: \"Oh... I get it. That wasn't very nice.\"\nS9 (16.3-17.3s) Jack to Stella, warm and gentle: \"Okay. Lesson learned.\"\nS11 (18.9-21.0s) Jack to Stella, low and tender: \"You're my best newspaper find too.\"\nNo speech in S1, S2, S3, S7, S8, S10, S12, S13.\nRestrictions:\n- No music of any kind: no score, no soundtrack, no background music, no melody, no drone, no pad, no sting, no swell.\n- No added sound effects: no whoosh, no boom, no impact hit, no riser.\n- Only diegetic sound: the characters' voices and the natural sounds of this place.\n- No words but the quoted lines, each only inside its own Audio window; outside them no one on screen speaks, whispers or mouths a word.\n- Background people never copy the face or hair of any image reference; each referenced character appears once, as themselves.",
+    "omni_references": [],
+    "model": {
+      "family": "MAGI-2",
+      "variant": "flagship",
+      "api_model_id": null
+    },
+    "parameters": {
+      "task_type": "t2v",
+      "duration_sec": 83.9,
+      "fps": 30,
+      "resolution": "1080p",
+      "aspect_ratio": "32:27",
+      "has_audio": true,
+      "audio_mode": "music"
+    },
+    "preview": {
+      "path": "assets/examples/cms-a1baa303/preview.jpg",
+      "alt": {
+        "en": "Preview still frame from 烛光餐厅的三场约会 MAGI-2 clip",
+        "zh-CN": "MAGI-2 案例《烛光餐厅的三场约会》视频封面帧"
+      }
+    },
+    "video_url": "https://awesome.raphael.app/materials/db161e86-3512-492a-a5d9-e53e49e012dc.mp4",
+    "source": {
+      "url": "https://x.com/ivanka_humeniuk/status/2125805598239269190",
+      "author": "@ivanka_humeniuk",
+      "author_url": "https://x.com/ivanka_humeniuk",
+      "platform": "X",
+      "published_at": "2026-11-26"
+    },
+    "verification": {
+      "status": "source-only",
+      "tested_at": null,
+      "tested_on": "",
+      "notes": {
+        "en": "",
+        "zh-CN": ""
+      }
+    },
+    "rights": {
+      "prompt": "source-attributed",
+      "preview": "source-attributed",
+      "video": "link-only",
+      "credit": "@ivanka_humeniuk",
+      "license_url": null
+    },
+    "added_at": "2026-11-27",
+    "featured": false,
+    "links": {
+      "case_detail_url": null,
+      "generate_url": null,
+      "generate_url_verified_at": null
+    },
+    "notes": {
+      "en": "作者自述使用 MAGI-2，未经独立核实。原帖视频为四段合辑。第一段提示词见原帖，第二至四段提示词见同一作者回复 https://x.com/ivanka_humeniuk/status/2125805606736953683。",
+      "zh-CN": "作者自述使用 MAGI-2，未经独立核实。原帖视频为四段合辑。第一段提示词见原帖，第二至四段提示词见同一作者回复 https://x.com/ivanka_humeniuk/status/2125805606736953683。"
+    }
   }
 ]

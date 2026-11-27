@@ -54,7 +54,8 @@
     "utm_campaign": "magi_2_launch"
   },
   "cms": {
-    "collection": "magi2_materials"
+    "collection": "magi2_materials",
+    "media_base_url": "https://awesome.raphael.app/materials/"
   },
   "presentation": {
     "updated_at": "2026-11-26T08:00:00Z",

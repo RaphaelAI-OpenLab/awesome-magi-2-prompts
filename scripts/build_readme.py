@@ -137,12 +137,28 @@ def render_case_card(
             if standalone:
                 lines.extend([f"**{c('Full Prompt', '完整原始提示词')}**", "", code_block(structured, lang), ""])
             else:
-                lines.extend([
-                    f"<details><summary><strong>{summary_label}</strong></summary>\n",
-                    code_block(structured, lang),
-                    "\n</details>",
-                    "",
-                ])
+                preview_limit = 4000
+                if len(structured) > preview_limit and config["presentation"]["generate_case_pages"]:
+                    excerpt = structured[:2200].rstrip() + "\n\n... [truncated in root README; open standalone case page for full prompt]"
+                    more_link = md_link(
+                        c(f"Read complete {len(structured)}-char prompt →", f"前往独立案例页查看完整 {len(structured)} 字提示词 →"),
+                        case_page_path(item, language),
+                    )
+                    lines.extend([
+                        f"<details><summary><strong>{summary_label}</strong></summary>\n",
+                        code_block(excerpt, lang),
+                        "",
+                        more_link,
+                        "\n</details>",
+                        "",
+                    ])
+                else:
+                    lines.extend([
+                        f"<details><summary><strong>{summary_label}</strong></summary>\n",
+                        code_block(structured, lang),
+                        "\n</details>",
+                        "",
+                    ])
     else:
         lines.extend([f"> *{c('Prompt status', '提示词状态')}: `{item['prompt_status']}` — {c('original prompt not published by source.', '原作者未公开原始提示词，不作臆造补充。')}*", ""])
 

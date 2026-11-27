@@ -33,7 +33,17 @@ def stats_marker(stats: CmsStats | None) -> str:
 
 
 def read_cms_stats() -> CmsStats | None:
-    """Preserve existing CMS statistics from README.md across README rebuilds."""
+    """Preserve existing CMS statistics from sync state or README.md across rebuilds."""
+    state_file = ROOT / "content" / "cms-sync-state.json"
+    if state_file.is_file():
+        try:
+            state = json.loads(state_file.read_text(encoding="utf-8"))
+            total = state.get("total_cms_records")
+            synced_at = state.get("synced_at")
+            if isinstance(total, int) and not isinstance(total, bool) and isinstance(synced_at, str) and synced_at:
+                return CmsStats(total, datetime.fromisoformat(synced_at))
+        except (OSError, ValueError, TypeError):
+            pass
     readme = ROOT / filename("en")
     match = MARKER.search(readme.read_text(encoding="utf-8")) if readme.exists() else None
     if match is None or match[1] == "pending":

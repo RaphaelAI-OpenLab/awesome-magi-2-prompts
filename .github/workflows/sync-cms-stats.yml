@@ -1,9 +1,15 @@
-name: Sync CMS statistics
+name: Sync CMS materials & stats
 
 on:
   schedule:
     - cron: '23 */4 * * *'
   workflow_dispatch:
+    inputs:
+      force_timestamp:
+        description: 'Force refresh synced_at even when CMS items are unchanged'
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -16,7 +22,7 @@ jobs:
   sync:
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
@@ -24,22 +30,38 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Sync MAGI-2 CMS total and timestamp
+      - name: Ensure ffmpeg is available for lightweight poster extraction
+        run: |
+          if ! command -v ffmpeg >/dev/null 2>&1 || ! command -v ffprobe >/dev/null 2>&1; then
+            sudo apt-get update && sudo apt-get install -y ffmpeg
+          fi
+      - name: Pull MAGI-2 Directus CMS materials and lightweight posters
         env:
           CMS_BASE_URL: ${{ vars.CMS_BASE_URL }}
           CMS_READ_TOKEN: ${{ secrets.CMS_READ_TOKEN }}
-        run: python3 scripts/sync_cms_stats.py
-      - name: Check generated pages
-        run: python3 scripts/build_readme.py --check
-      - name: Commit statistics
         run: |
-          git add -- README.md README.zh-CN.md
+          if [ "${{ inputs.force_timestamp }}" = "true" ]; then
+            python3 scripts/sync_cms_materials.py --force-timestamp
+          else
+            python3 scripts/sync_cms_materials.py
+          fi
+      - name: Rebuild bilingual READMEs and standalone case pages
+        run: python3 scripts/build_readme.py
+      - name: Validate schema, media limits, and regression tests
+        run: |
+          python3 scripts/validate.py --release
+          python3 scripts/build_readme.py --check
+          python3 -m unittest discover -s tests -v
+      - name: Commit synced MAGI-2 materials and READMEs
+        run: |
+          git add -- content/prompts.json content/cms-sync-state.json assets/examples/ cases/ README.md README.zh-CN.md
           if git diff --cached --quiet; then
+            echo "No MAGI-2 CMS material changes to commit."
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'docs: sync CMS statistics'
+          git commit -m 'chore(cms): sync MAGI-2 Directus materials and rebuild README'
           for attempt in 1 2 3; do
             if git push origin HEAD:refs/heads/main; then
               exit 0

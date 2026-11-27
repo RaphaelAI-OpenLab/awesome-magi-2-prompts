@@ -38,7 +38,7 @@
 
 ## 🏷️ 按分类浏览
 
-[全部 (17)](#all-cases) · [对白与口型同步 (3)](#category-dialogue-lip-sync) · [多镜头时间轴叙事 (2)](#category-multi-shot-storytelling) · [全能多素材一致性 (4)](#category-omni-reference) · [产品与商业广告 (3)](#category-product-commercials) · [音效、配乐与环境音 (3)](#category-sfx-ambience) · [电影感与动画风格 (2)](#category-cinematic-animation)
+[全部 (30)](#all-cases) · [对白与口型同步 (4)](#category-dialogue-lip-sync) · [多镜头时间轴叙事 (3)](#category-multi-shot-storytelling) · [全能多素材一致性 (5)](#category-omni-reference) · [产品与商业广告 (13)](#category-product-commercials) · [音效、配乐与环境音 (3)](#category-sfx-ambience) · [电影感与动画风格 (2)](#category-cinematic-animation)
 
 <a id="contents"></a>
 
@@ -128,11 +128,11 @@ SAMPLES=my_samples.json bash scripts/run_demo.sh
 
 | **指标** | **数量** |
 | --- | --- |
-| 🎬 素材总数 | **17** |
+| 🎬 素材总数 | **30** |
 | ⭐ 精选案例 | **6** |
-| 🔄 最后更新 | **2026年11月27日星期五 UTC 08:36:16** |
+| 🔄 最后更新 | **2026年11月27日星期五 UTC 21:29:45** |
 
-<!-- cms-stats 17 2026-11-27T08:36:16Z -->
+<!-- cms-stats 30 2026-11-27T21:29:45Z -->
 
 <a id="featured"></a>
 
@@ -532,9 +532,56 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 
 ### 对白与口型同步
 
+<a id="case-cms-fbd168f7"></a>
+
+#### 1. 两位宋代女子闲游汴河
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@PixelAigc）：两位宋代女子闲游汴河。
+
+<a href="https://awesome.raphael.app/materials/bbab4e06-f997-4900-bb25-efedca0abb18.mp4"><img src="assets/examples/cms-fbd168f7/preview.jpg" alt="MAGI-2 案例《两位宋代女子闲游汴河》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/bbab4e06-f997-4900-bb25-efedca0abb18.mp4)**
+
+<details><summary><strong>展开完整原始提示词（1076 字）</strong></summary>
+
+```text
+总基调：宋式美学，低饱和青灰、月白、浅赭、茶褐、荷青、柳绿，大量留白构图，温润含蓄。场景连贯：荷塘柳岸、汴河画舫、清明上河图风格汴河市井，连片荷叶荷花、垂柳垂拂，拱桥、酒肆、茶幡、摊贩、行舟、往来行人，繁华但不喧嚣。两位宋代女子形象全程统一，服饰素雅、淡妆，气质松弛从容，对话简短克制，是好友随性闲游。镜头包含航拍、俯拍、环绕、快速横移、镜头对切，快慢节奏搭配，意境清雅，无字幕无水印，口型对齐。 人物： 女子 A：月白襦裙，低梳垂鬟，素玉簪，沉静温婉 女子 B：浅青褙子，素雅发髻，细银钗，灵动松弛
+00:00-00:04｜镜头 1｜航拍大场景｜慢推 航拍俯瞰汴河水岸，满池荷花荷叶，垂柳依依，远处拱桥隐约，二人沿着柳荫缓步走向荷塘木桥。镜头缓慢推进。 B：荷开得正好。 音效：微风拂柳、水波轻响、远处橹声
+00:04-00:07｜镜头 2｜双人中景｜快速横移 木桥上，A 扶栏杆望湖面，B 把素面团扇递给 A。镜头从荷叶快速横移至二人面部。 A：风很舒服。 音效：扇面轻响、衣料摩擦声
+00:07-00:10｜镜头 3｜俯拍｜缓慢下移 俯拍桥面与荷塘，二人并肩凭栏，B 抬手指向汴河方向。镜头缓缓向下。 （无台词，安静观景） 音效：水波汩汩声
+
+00:10-00:13｜镜头 4｜特写｜快速跟随 镜头低贴水面，跟着摇曳的荷花快速划过，A 浅浅含笑。 （无台词） 音效：花叶轻擦水面声
+00:13-00:17｜镜头 5｜全景｜环绕 二人坐入画舫，A 在案前备茶，B 撩开竹帘，窗外荷塘垂柳缓缓后退，镜头围绕画舫平稳环绕。 B：前面便是街市了。 音效：船桨划水声、茶盏轻碰
+00:17-00:21｜镜头 6｜大场景｜较快前推 画舫驶入汴河主河道，铺开清明上河图式河岸街景，酒旗招展、摊贩林立、行人舟船穿梭。二人探身望向岸边。 （无台词，静静观赏烟火） 音效：轻柔市井人声、叫卖底音
+00:21-00:25｜镜头 7｜中近景｜双人对切 二人登岸慢行于街市，B 抬眼看向 A，镜头在两人之间对切。 A：我们去桥上看看。 音效：布幌飘动、行人脚步声
+
+00:25-00:30｜镜头 8｜远景航拍｜慢镜拉高后拉 二人立于拱桥顶端，脚下汴河街市，一侧垂柳荷塘绵延远方，二人相视浅笑。航拍慢慢拉高后拉，宋画全景收尾。 （无台词） 音效：古琴箫声缓缓升起，市井声慢慢淡去
+硬性约束：低饱和色调，拒绝浓艳花哨；街景还原北宋质感，繁而不乱；人物脸型、服饰全程稳定统一；镜头快慢交错，兼顾宏大航拍场景与细腻情绪，整体氛围松弛随性，是自在优雅的宋人闲游，台词少而淡，留白多。
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 30.2s · 25 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/PixelAigc/status/2125940739293216834) · 作者: [@PixelAigc](https://x.com/PixelAigc) · 2026-11-26
+
+> 模型 MAGI-2 为作者自述，未经独立核实。 提示词来自同一作者的原帖回复 https://x.com/PixelAigc/status/2125940742518681943
+
+[案例详情页](cases/cms-fbd168f7/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-fbd168f7&utm_term=zh-CN)**
+
+---
+
 <a id="case-cms-0c9e2e90"></a>
 
-#### 1. 古镇早市的婚期笑谈
+#### 2. 古镇早市的婚期笑谈
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -668,7 +715,7 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 
 <a id="case-rainy-cafe-boarding-pass"></a>
 
-#### 2. 雨夜咖啡馆的登机牌
+#### 3. 雨夜咖啡馆的登机牌
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -760,7 +807,7 @@ Negative:
 
 <a id="case-hedgehog-pip-3d-comedy"></a>
 
-#### 3. 刺猬 Pip 的 3D 萌宠短剧
+#### 4. 刺猬 Pip 的 3D 萌宠短剧
 
 **来源类型**: `community` · **任务**: `OMNI-REF` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -823,9 +870,89 @@ STORY: Maya keeps dodging Pip's pointy cuddles, until an unreachable sweater itc
 
 ### 多镜头时间轴叙事
 
+<a id="case-cms-17ddf808"></a>
+
+#### 5. 在森林里煮杯面
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@studio_oneroom）：在森林里煮杯面。
+
+<a href="https://awesome.raphael.app/materials/f636be3f-1c51-4b36-b745-c79d2ac35345.mp4"><img src="assets/examples/cms-17ddf808/preview.jpg" alt="MAGI-2 案例《在森林里煮杯面》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/f636be3f-1c51-4b36-b745-c79d2ac35345.mp4)**
+
+<details><summary><strong>展开完整原始提示词（1429 字）</strong></summary>
+
+```text
+添付の画像の人物がカップラーメンを作る動画 ファーストフレームに添付の画像を使わない
+
+セリフは全て日本語、環境音あり。
+
+# スタイル 日本のフルカラーアニメ、映画のような重厚なカラーグレーディング
+
+# 制約 すべてのカットで画角やアングルを変えて単調にしない。
+
+# 情景 場所：深い針葉樹の森の中。日中。木漏れ日が地面に斑に差し込む。 太い切り株の上に腰を下ろしている。 足元に小型ガスバーナーと金属製マグカップ。 カップ麺は赤いカップに白い文字で「NIPPON」のロゴ。
+
+# シーン ひとり森の中でNIPPONのカップ麺を作って食べるまでの一連の所作。 細かい手元の動きをテンポよく見せる。
+
+cut1: マクロショット、真横から。 地面にNIPPONカップだけが置かれている。 木漏れ日が斑にカップを照らす。 環境音：風、鳥の声。
+
+cut2: エクストリームクローズアップ。 親指の爪がカップの蓋の端に引っかかり、ペリペリと剥がし始める。 環境音：蓋を剥がす音。
+
+cut3: マクロショット。 手が小型ガスバーナーを地面に展開する。 環境音：金属の展開音。
+
+cut4: エクストリームクローズアップ。 親指がライターを擦る。一度空振り。 環境音：シャッという空振り音。
+
+cut5: エクストリームクローズアップ。 二度目で青い炎が点く。 【スピードランプ：スロー→着火で加速】 環境音：着火音、炎のボッという音。
+
+cut6: エクストリームクローズアップ。 青い炎がゆっくりゆらめく。 環境音：炎の音。
+
+cut7: マクロショット。 金属マグカップをバーナーの上に乗せる。 環境音：金属が置かれる音。
+
+cut8: エクストリームクローズアップ、真上から俯瞰。 水面に最初の気泡が現れ、ゆっくりと沸騰が始まる。 環境音：水が沸騰していく音。
+
+cut9: エクストリームクローズアップ。 指先がマグカップの縁に一瞬触れ、熱さで素早く引っ込む。 環境音：指が触れる微かな音。
+
+cut10: ワイドショット。 木漏れ日が地面をゆっくり動いている。誰もいない静かな森。 環境音：風が木の葉を揺らす音、鳥の声。長い間。
+
+cut11: マクロショット、斜め横から。 両手がマグカップからNIPPONカップへ湯をゆっくり注ぐ。 白い湯気が木漏れ日をキラキラと照らしながら立ち上る。 環境音：注ぐ音、湯気が立つ音。
+
+cut12: マクロショット。 手が蓋を折り曲げて閉じ、マグカップを蓋の上に重りとして置く。 環境音：蓋を折る音。
+
+cut13: マクロショット。 湯気がNIPPONカップの隙間から立ち上り、風でふわっと消える。 環境音：風。静寂。
+
+cut14: マクロショット。 両手が割り箸を袋から取り出し、パキッと割る。 環境音：パキッという音。
+
+cut15: マクロショット、真上から俯瞰。 手がNIPPONカップの蓋を開け、箸でかき混ぜる。 湯気が一気に広がる。 環境音：箸がカップに当たる音、湯気の音。
+
+cut16: マクロショット、斜め横から。 横顔。箸でラーメンを一口すする。 環境音：すする音。
+
+cut17: バストショット、斜め横から。 ふうっと息を吐いて遠くの木立をぼんやり見る。 目が細くなる。カメラがゆっくり横顔に寄っていく。 環境音：息を吐く音、風。シーン終わりへ向けて環境音がゆっくりフェードアウト。
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 17.1s · 25 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/studio_oneroom/status/2125917531743695064) · 作者: [@studio_oneroom](https://x.com/studio_oneroom) · 2026-11-26
+
+> 模型 MAGI-2 为作者自述，未经独立核实。
+
+[案例详情页](cases/cms-17ddf808/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-17ddf808&utm_term=zh-CN)**
+
+---
+
 <a id="case-red-paper-kite-five-styles"></a>
 
-#### 4. 红纸风筝穿过五种画风
+#### 6. 红纸风筝穿过五种画风
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -872,7 +999,7 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 <a id="case-library-note-youth-short"></a>
 
-#### 5. 图书馆纸条里的青春暗号
+#### 7. 图书馆纸条里的青春暗号
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -921,7 +1048,7 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 <a id="case-cms-fdda6fe4"></a>
 
-#### 6. 雨中巴黎的冷面喜剧
+#### 8. 雨中巴黎的冷面喜剧
 
 **来源类型**: `community` · **任务**: `OMNI-REF` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -957,7 +1084,7 @@ THE GENTLEWOMAN 02 — THE ART OF NOT CARING. CLIP 2: THE CITY BOWS DOWN. Create
 
 <a id="case-cms-de6cd92d"></a>
 
-#### 7. ONE HIT 时装换装广告
+#### 9. ONE HIT 时装换装广告
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1065,9 +1192,99 @@ Final result should feel like a high-end Korean fashion campaign mixed with a Y2
 
 ---
 
+<a id="case-cms-bd4ae1e1"></a>
+
+#### 10. 无底洞里走回来的鞋
+
+**来源类型**: `community` · **任务**: `OMNI-REF` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@john87445528）：无底洞里走回来的鞋。
+
+<a href="https://awesome.raphael.app/materials/3cb8ab95-e891-4b12-9f62-afb844947ae3.mp4"><img src="assets/examples/cms-bd4ae1e1/preview.jpg" alt="MAGI-2 案例《无底洞里走回来的鞋》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/3cb8ab95-e891-4b12-9f62-afb844947ae3.mp4)**
+
+<details><summary><strong>展开完整原始提示词（2105 字）</strong></summary>
+
+```text
+【参考图】
+
+@图1@3c698b39-7c86-468b-8c6a-7d02f34cac25锁定女子的面容、眉眼和栗黑色高盘发。她约28岁，鬓边有两缕碎发，戴短铜坠耳环。
+
+本次上传的服装图@3b12acd3-8eab-4e6e-9212-9ea460dd7c73锁定黑金豹纹挂颈短裙。古铜金底、黑色斑纹、细碎亮片、挂颈深V、前襟窄横带、收腰，裙摆落在大腿上段。油灯移动时，转到光里的几片亮片依次亮起来。
+
+@图3@@7a831d83-2028-49b7-9804-ac0d89e6f27c锁定淡藕粉色薄丝袜，细密袜面有柔和珠光，大腿处可见浅粉花纹袜口。@图6锁定女子在正片中的完整造型和比例，鞋为黑漆皮尖头细高跟，鞋底朱红。右鞋前掌外缘磨掉一弯红漆，露出浅色月牙，左鞋底完整。
+
+@图4@c5333246-e095-45e6-a8d9-e7f467768b4d仅供唐三藏、孙悟空、猪八戒、沙僧的面容、体格、衣物与道具参考。@图5锁定洞内地形。女子开场时左脚穿鞋，空的右鞋斜搁在井沿。定装照里的双脚着鞋状态只在右脚归位后出现。
+
+【摄影、布景与站位】
+
+1974年意大利电影的35毫米Techniscope胶片质感，按竖幅构图。褪色Eastmancolor、粗颗粒、柔和老镜头、零星尘点与细划痕。唐代志怪电影的实体洞窟布景，湿石暗灰偏青。左后方洞口漏进一线阴天散光。沙僧右手提油灯，暖光只照到近处人脸、井沿和井口以下约一米。沙僧一收手，照在井壁上的光就跟着退回来。
+
+我站在石台中央，左侧是悟空、八戒，沙僧紧跟在我左后肩。女子侧坐在我右前方的矮石上，左脚着地，右膝在坐石背面，右小腿被石头和井沿挡住。她右手撑在石沿上，空鞋就在她手边。开场同一眼能看清她的脸、落地的左鞋、井沿上空着的右鞋。实拍视野约28毫米。风吹动我的袈裟，只有我挪脚、低头、失去平衡时，视线才跟着晃。
+
+【00—06秒｜她手边有一只空鞋】
+
+我进洞停步。女子坐在矮石上，左脚往回收了一点，细鞋跟在石上轻轻一响。沙僧的灯从我肩后送过来。我顺着声音看过去，先看见黑鞋口里淡粉色的袜踝，再看见旁边那只斜躺的右鞋。鞋口朝我，里面空着。鞋底翘起的一边露出朱红色，前掌那弯磨白的月牙正好迎光。
+
+女子向我伸出左手。等我从鞋上移开目光，她才轻声说：“长老，扶我一下。”
+
+【06—11秒｜她刚站起来，鞋就掉了】
+
+我递出右手。她握住我的手腕，左脚踩实，右手撑石起身。石面潮湿，她撑着的手掌往外滑了一寸，手背碰上空鞋的细跟。鞋在井沿上晃了半圈。
+
+我怕她跟着跌下去，赶紧托住她腰侧。她的重量落进我掌心，左手顺势覆在我的手背上。她抬脸看我，右耳的铜坠轻碰我胸前的袈裟搭扣。就在这声轻响后面，空鞋终于翻下去。红底朝上闪了一下，消失。 她仍靠着我，目光却已经落在井口，像在等人上来。
+
+【11—18秒｜等来的是一个人的脚步】
+
+八戒弯腰想捞。悟空横过金箍棒，轻轻拦住他胸口。几个人一起听。先留半拍风声和滴水。
+
+井下响起一声清脆的“嗒”。我以为是鞋跟撞了石头。紧接着，黑暗里传来前掌把水压开的湿响。隔一拍，又是鞋跟落下、前掌踩实，这一步离我们近多了。
+
+沙僧把灯往井口探。我低头，一只黑色尖头鞋正沿竖壁向上迈步。它抬脚时，朱红鞋底翻进灯光，外缘是刚才那道浅色月牙。脚再落下，这次我看清了鞋口：刚才看得见鞋垫的地方，现在紧紧裹着一只淡粉袜脚。 石壁上的水还在往下淌。它踩住水痕，一步一步往上走。
+
+【18—24秒｜她终于把重量从我手上移开】
+
+我沿着井沿俯低一点。左边，女子的左鞋还在原处，那只细跟牢牢抵着石面；右边，井里的右鞋已经翻过井唇。两只鞋第一次同时出现在我眼前。
+
+右鞋落在她身边，本该穿鞋的人却还没站到它上面。灯光擦过它后方：连着脚踝的淡粉袜腿仍有长长一截垂在井壁外，越过石唇，在坐石背后连回她屈着的右膝。她把右膝慢慢伸直。那一截过长的小腿贴着湿石往回收，水珠被袜面一路带上井沿。最后，膝盖、脚踝、鞋跟落到同一条承重线上。右鞋跟轻响一下。
+
+我掌心里忽然轻了。 她已经能用双脚站稳，我便想把手抽回来。她却在这一刻收拢手指，扣住了我的右腕。
+
+【24—30秒｜原来她要我扶她下去】
+
+“长老，扶稳。”她靠近我耳边，语气和刚才一样，“底下的路长着呢。”
+
+话说到一半，她已经侧过身。右脚踩上竖直的内壁，细跟先点石，前掌随后压实。左脚离开石台，跟着走下去。她与我错身时，铜坠第二次碰响袈裟搭扣，这次声音由胸前往下掠过。我的布鞋尖擦到井沿，视线被她牵得向黑处一沉。
+
+背后袈裟猛地绷紧。沙僧用空着的左手攥住我，提灯的右手也随身体后撤。暖光滑回石台。女子的手指这才从我腕上松开。
+
+最后一眼，我的僧袖悬在井沿外。人已经走出灯光，下面却听得清清楚楚：右跟一声，左跟一声，她穿齐了那双鞋，正从容地往下走。 第二声的回音刚起，画面截断。
+
+【声音】 全片只用洞风、滴水、衣料、两次铜坠碰扣、细鞋跟点石与湿鞋底受力的声音。女子只说两句。第一次井下鞋跟响起时，把它拍成空鞋撞石也能发出的寻常动静；直到紧随其后的前掌踩实声，观众才意识到底下有一只脚。无旁白、无字幕、无配乐。
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | omni-ref |
+| 时长 / 帧率 | 60.1s · 30 fps |
+| 分辨率 / 比例 | 720p · 3:4 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/john87445528/status/2125760471340839051) · 作者: [@john87445528](https://x.com/john87445528) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[案例详情页](cases/cms-bd4ae1e1/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-bd4ae1e1&utm_term=zh-CN)**
+
+---
+
 <a id="case-rococo-garden-three-room-oner"></a>
 
-#### 8. 洛可可花园三场景一镜到底
+#### 11. 洛可可花园三场景一镜到底
 
 **来源类型**: `community` · **任务**: `OMNI-REF` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1131,7 +1348,7 @@ Final result should feel like a high-end Korean fashion campaign mixed with a Y2
 
 <a id="case-bangkok-night-market-cel-anime"></a>
 
-#### 9. 曼谷夜市摊档的手绘动画（13 镜头）
+#### 12. 曼谷夜市摊档的手绘动画（13 镜头）
 
 **来源类型**: `community` · **任务**: `OMNI-REF` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1231,9 +1448,153 @@ cut13:
 
 ### 产品与商业广告
 
+<a id="case-cms-f7ba0d44"></a>
+
+#### 13. 感恩节晚餐体育直播
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@airina_xyz）：感恩节晚餐体育直播。
+
+<a href="https://awesome.raphael.app/materials/da51272a-4353-45c9-a5f7-847568fb7575.mp4"><img src="assets/examples/cms-f7ba0d44/preview.jpg" alt="MAGI-2 案例《感恩节晚餐体育直播》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/da51272a-4353-45c9-a5f7-847568fb7575.mp4)**
+
+<details><summary><strong>展开完整原始提示词（1473 字）</strong></summary>
+
+```text
+20-second absurdist Thanksgiving comedy filmed like a professional live sports broadcast. An original enthusiastic sports commentator wearing a navy blazer and a large headset provides dramatic commentary on an ordinary family passing dishes around the Thanksgiving dinner table. The family remains completely oblivious to the seriousness of the coverage.
+- 00:00–00:02: Extreme close-up of the commentator shouting, "Here comes the opening pass!"
+- 00:02–00:04: Slow-motion tracking shot of a grandmother passing a bowl of mashed potatoes across the table.
+- 00:04–00:06: Overhead shot following the bowl's trajectory between two relatives.
+- 00:06–00:08: The commentator excitedly announces, "Beautiful technique!"
+- 00:08–00:10: Macro shot of a guest catching a sliding breadbasket.
+- 00:10–00:12: A young adult reaches dramatically across the table for the gravy.
+- 00:12–00:14: Slow-motion replay of the gravy boat being intercepted by another relative.
+- 00:14–00:17: Close-up of the commentator shouting, "An incredible interception!"
+- 00:17–00:20: Wide reveal of the commentator sitting at the dinner table, talking into a spoon. His wife quietly says, "Please stop."
+Maintain consistent family members, table geography, dish trajectories and natural reactions. Authentic sports-broadcast framing, dramatic slow-motion replay and accurate lip-sync. No broadcaster logos or graphics. SFX: cutlery, dishes sliding, energetic commentary and awkward silence. No music.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 20.3s · 30 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/airina_xyz/status/2125907956541849634) · 作者: [@airina_xyz](https://x.com/airina_xyz) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[案例详情页](cases/cms-f7ba0d44/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-f7ba0d44&utm_term=zh-CN)**
+
+---
+
+<a id="case-cms-eeb1c07c"></a>
+
+#### 14. 摩天楼玻璃上的圣诞雪花
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@airina_xyz）：摩天楼玻璃上的圣诞雪花。
+
+<a href="https://awesome.raphael.app/materials/85f58f1e-57d9-4c58-b70c-23419b78e0db.mp4"><img src="assets/examples/cms-eeb1c07c/preview.jpg" alt="MAGI-2 案例《摩天楼玻璃上的圣诞雪花》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/85f58f1e-57d9-4c58-b70c-23419b78e0db.mp4)**
+
+<details><summary><strong>展开完整原始提示词（1596 字）</strong></summary>
+
+```text
+No music. 20-second spectacular urban Christmas film following two professional window cleaners on a securely suspended maintenance platform outside a modern skyscraper. One wears a navy waterproof jacket and the other a red jacket. They decide to surprise the office employees by drawing a gigantic festive snowflake using removable white window-cleaning foam. Beautiful winter cityscape, dramatic perspective and realistic glass architecture.
+00:00–00:02: Extreme downward-looking shot revealing the dizzying height above a snowy city street.
+00:02–00:04: Wide aerial shot of the maintenance platform suspended outside the skyscraper.
+00:04–00:06: Close-up of a gloved hand drawing a long white foam line on the glass.
+00:06–00:08: Interior office shot of curious employees looking toward the window.
+00:08–00:10: Exterior side shot as both window cleaners rapidly add symmetrical branches to their design.
+00:10–00:12: Macro shot of delicate foam bubbles against the reflective glass.
+00:12–00:14: Interior reaction shot as the employees realize what the workers are drawing.
+00:14–00:17: Sweeping aerial pullback revealing the enormous completed snowflake covering several window panels.
+00:17–00:20: The two workers wave from their platform as the employees applaud through the glass.
+Maintain consistent skyscraper geometry, platform construction, safety equipment and snowflake design. Realistic glass reflections, foam texture, atmospheric perspective and coherent interior-exterior spatial relationships. SFX: wind, squeaking squeegees, platform machinery and muffled applause. No music.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 20.3s · 30 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | music (audio=True) |
+
+[原始来源](https://x.com/airina_xyz/status/2125953505529823573) · 作者: [@airina_xyz](https://x.com/airina_xyz) · 2026-11-26
+
+> 模型 MAGI-2 为作者自述，未经独立核实。
+
+[案例详情页](cases/cms-eeb1c07c/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-eeb1c07c&utm_term=zh-CN)**
+
+---
+
+<a id="case-cms-eaba3dd3"></a>
+
+#### 15. 迷你厨师做巨型早餐
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@RuzainaMeer）：迷你厨师做巨型早餐。
+
+<a href="https://awesome.raphael.app/materials/6984e195-375f-4798-9164-3b90a112edbf.mp4"><img src="assets/examples/cms-eaba3dd3/preview.jpg" alt="MAGI-2 案例《迷你厨师做巨型早餐》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/6984e195-375f-4798-9164-3b90a112edbf.mp4)**
+
+<details><summary><strong>展开完整原始提示词（2624 字）</strong></summary>
+
+```text
+Create a 30-second ultra-realistic cinematic video in 16:9 widescreen, 4K, 24fps, featuring 8–10 tiny human chefs cooking a giant breakfast in a modern real-life kitchen. The tiny chefs should look like realistic miniature humans, not cartoons or toys. Maintain consistent faces, clothing, body proportions, and kitchen layout throughout the video.
+
+SCENE 1 (0–6 seconds): Start with a cinematic macro wide shot of a kitchen countertop. Tiny chefs arrive carrying miniature cooking equipment. In front of them are a gigantic egg, a huge tomato, a massive slice of bread, and a large block of butter. The head chef points toward the ingredients, directing the team.
+
+SCENE 2 (6–12 seconds): Two chefs climb a small ladder to crack the giant egg into a frying pan. Other chefs carefully slice a tomato using tiny knives. Another chef struggles to push a huge piece of butter across the countertop. Show realistic teamwork and physical effort.
+
+SCENE 3 (12–18 seconds): The chefs begin cooking on a miniature stove. The egg mixture sizzles naturally in the frying pan. One chef uses a tiny spatula to flip the enormous omelette while another carefully sprinkles seasoning. Realistic steam rises from the pan.
+
+SCENE 4 (18–24 seconds): The team works together to lift a gigantic cheese slice onto the omelette. One chef briefly slips on a tiny drop of oil, but another quickly catches him. The other chefs continue working. Keep every action physically believable.
+
+SCENE 5 (24–30 seconds): Reveal the finished giant golden omelette with melted cheese and tomato slices, served beside toasted bread. The tiny chefs proudly gather around the plate. One chef climbs onto the edge of the plate, raises both arms in celebration, and the camera smoothly pulls back to reveal the entire miniature cooking operation.
+
+VISUAL STYLE: Photorealistic macro cinematography, realistic miniature human anatomy, detailed skin and facial expressions, natural food textures, accurate cooking physics, realistic steam and oil, cinematic lighting, shallow depth of field, smooth connected camera movements, consistent character appearances, and believable scale.
+
+AUDIO: Realistic chopping, sizzling eggs, footsteps, utensils clinking, subtle kitchen ambience, and cheerful reactions from the tiny chefs. No narration, no subtitles, no background music.
+
+IMPORTANT: Every scene must connect naturally to the next. Avoid sudden cuts, inconsistent characters, floating objects, exaggerated movements, cartoon visuals, distorted hands, or artificial-looking food. The final result must look like a professionally filmed miniature cooking documentary.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 30.2s · 30 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/RuzainaMeer/status/2125832298574590127) · 作者: [@RuzainaMeer](https://x.com/RuzainaMeer) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[案例详情页](cases/cms-eaba3dd3/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-eaba3dd3&utm_term=zh-CN)**
+
+---
+
 <a id="case-cms-d53ca8bf"></a>
 
-#### 10. 雨天伦敦的连环闹剧
+#### 16. 雨天伦敦的连环闹剧
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1271,9 +1632,213 @@ Make this short, cinematic and entertaining, with seven fast-paced London sequen
 
 ---
 
+<a id="case-cms-ca066ab7"></a>
+
+#### 17. 海滨小城的意外英雄
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@AIwithkhan）：海滨小城的意外英雄。
+
+<a href="https://awesome.raphael.app/materials/ea40562e-5864-491b-ac79-b8dd61105de8.mp4"><img src="assets/examples/cms-ca066ab7/preview.jpg" alt="MAGI-2 案例《海滨小城的意外英雄》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/ea40562e-5864-491b-ac79-b8dd61105de8.mp4)**
+
+<details><summary><strong>展开完整原始提示词（2189 字）</strong></summary>
+
+```text
+Create a Pixar-inspired 3D animated comedy short set in a colorful seaside city on a beautiful sunny morning.
+
+A clumsy young delivery boy riding a small bicycle accidentally crashes into a street magician's performance. His delivery bag flies into the air, scattering dozens of colorful balloons. One balloon gets tangled around a wealthy man's wrist, pulling him away just as a giant runaway wedding cake rolls down the street.
+
+The delivery boy panics and jumps onto his bicycle, chasing the runaway cake. In the chaos, he accidentally saves a little girl standing in its path. The crowd gasps, then cheers.
+
+But the adventure is far from over.
+
+The runaway cake crashes into a fruit stall, sending hundreds of watermelons bouncing across the street. The delivery boy slips on one, flies into the air, and lands perfectly inside a passing parade float shaped like a giant golden eagle.
+
+The float suddenly takes off down the main street. The boy grabs its wings, accidentally steering it through a spectacular parade. The audience believes he is performing an incredible stunt. Cameras flash, people cheer, and the crowd starts chanting his name.
+
+Finally, the float stops directly in front of the city's mayor. The mayor, completely impressed, presents the terrified delivery boy with a giant golden medal for bravery.
+
+Just as everyone celebrates, the little girl he saved runs forward and gives him a warm hug. His worried mother arrives, sees the medal, and bursts into tears of happiness.
+
+Final scene: The boy rides his tiny bicycle home proudly, wearing his oversized golden medal. His delivery bag is still empty, but his face is glowing with happiness. A little puppy runs alongside him as golden sunlight fills the street.
+
+On-screen text appears:
+
+"Sometimes, you don't need a plan to become someone's hero." ❤️
+
+Visual style: High-end Pixar-inspired 3D animation, expressive facial expressions, hilarious slapstick comedy, exaggerated physics, colorful environments, cinematic tracking shots, dynamic camera movements, seamless scene transitions, emotional storytelling, playful orchestral music, beautiful lighting, polished animated short-film quality, 16: 9 aspect ratio.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 30.1s · 30 fps |
+| 分辨率 / 比例 | 720p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/AIwithkhan/status/2125811678889791810) · 作者: [@AIwithkhan](https://x.com/AIwithkhan) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[案例详情页](cases/cms-ca066ab7/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-ca066ab7&utm_term=zh-CN)**
+
+---
+
+<a id="case-cms-be9dc2dd"></a>
+
+#### 18. 奶奶的感恩节秘方
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@airina_xyz）：奶奶的感恩节秘方。
+
+<a href="https://awesome.raphael.app/materials/f3fa8da0-42b8-4857-aca7-75d7a9565f67.mp4"><img src="assets/examples/cms-be9dc2dd/preview.jpg" alt="MAGI-2 案例《奶奶的感恩节秘方》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/f3fa8da0-42b8-4857-aca7-75d7a9565f67.mp4)**
+
+<details><summary><strong>展开完整原始提示词（1256 字）</strong></summary>
+
+```text
+20-second cinematic espionage comedy. An original elderly grandmother with silver hair, oversized spectacles and a burgundy cardigan treats her secret Thanksgiving stuffing recipe as a highly classified document. Cozy vintage kitchen, dramatic shadows, warm autumn colors and intensely serious acting.
+00:00–00:02: Extreme close-up of a small brass key turning inside a locked kitchen drawer.
+00:02–00:04: Grandma cautiously examines the hallway before opening the drawer.
+00:04–00:06: Macro shot of her removing a weathered handwritten recipe card.
+00:06–00:08: Low-angle shot of her suspiciously closing the kitchen curtains.
+00:08–00:10: Overhead shot of her measuring a secret combination of herbs.
+00:10–00:12: Close-up of her granddaughter quietly approaching the kitchen doorway.
+00:12–00:14: Grandma immediately hides the recipe card beneath her apron.
+00:14–00:17: The granddaughter asks, "Can I have the recipe?"
+00:17–00:20: Grandma leans closer and whispers, "Nice try."
+Maintain consistent characters, recipe-card appearance and kitchen layout. Dramatic spy-thriller lighting, subtle facial acting, precise hand movements and sharp reaction cuts. SFX: key turning, drawer opening, footsteps, rustling paper and synchronized dialogue. No music.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 20.3s · 30 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/airina_xyz/status/2125756210079318458) · 作者: [@airina_xyz](https://x.com/airina_xyz) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[案例详情页](cases/cms-be9dc2dd/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-be9dc2dd&utm_term=zh-CN)**
+
+---
+
+<a id="case-cms-ba7672e8"></a>
+
+#### 19. 日式精致料理广告
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@ChillaiKalan__）：日式精致料理广告。
+
+<a href="https://awesome.raphael.app/materials/93c720b4-adec-485f-bcd5-0f5ec06d7df9.mp4"><img src="assets/examples/cms-ba7672e8/preview.jpg" alt="MAGI-2 案例《日式精致料理广告》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/93c720b4-adec-485f-bcd5-0f5ec06d7df9.mp4)**
+
+<details><summary><strong>展开完整原始提示词（974 字）</strong></summary>
+
+```text
+Create a 15-second premium cinematic food commercial featuring an experienced Japanese master chef preparing an extraordinary fine-dining dish. The chef wears a perfectly clean white uniform and a dark apron.
+SHOT 01 | 0–3s: Extreme macro shot of a razor-sharp Japanese knife slicing a fresh red tomato. Juice droplets hang in the air.
+SHOT 02 | 3–6s: Rapid close-ups of vegetables being chopped, flames rising from a pan and ingredients falling in slow motion.
+SHOT 03 | 6–9s: The chef tosses ingredients into a pan. A beautiful flame briefly illuminates his focused face.
+SHOT 04 | 9–12s: Delicate sauce is poured onto a handmade ceramic plate. Every ingredient is positioned with surgical precision.
+SHOT 05 | 12–15s: The completed dish rotates slowly under dramatic restaurant lighting. Steam rises as the camera pushes into the final presentation.
+BGM: Sophisticated jazz mixed with rhythmic kitchen sounds, knife impacts, sizzling butter and subtle orchestral accents.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 15.2s · 60 fps |
+| 分辨率 / 比例 | 720p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/ChillaiKalan__/status/2125853960187888050) · 作者: [@ChillaiKalan__](https://x.com/ChillaiKalan__) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[案例详情页](cases/cms-ba7672e8/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-ba7672e8&utm_term=zh-CN)**
+
+---
+
+<a id="case-cms-b52d2b0b"></a>
+
+#### 20. 电梯里的第十三层
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@Hope_Ai01）：电梯里的第十三层。
+
+<a href="https://awesome.raphael.app/materials/9f405e26-08c6-4cff-8412-826fef20f0f7.mp4"><img src="assets/examples/cms-b52d2b0b/preview.jpg" alt="MAGI-2 案例《电梯里的第十三层》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/9f405e26-08c6-4cff-8412-826fef20f0f7.mp4)**
+
+<details><summary><strong>展开完整原始提示词（2257 字）</strong></summary>
+
+```text
+GENRE: Cinematic mystery thriller
+DURATION: Exactly 30 seconds, 16:9, photorealistic live-action film look
+
+STYLE: Shot like a real feature film. Natural real-time motion at normal speed, NO slow motion, NO time-lapse. Handheld-steady cinematography, shallow depth of field, realistic skin texture, cold fluorescent lighting, subtle film grain. Moody teal and green color grade.
+
+CHARACTER (keep identical in every shot):
+Emma, 30-year-old woman, shoulder-length brown hair, beige trench coat, black work bag on her shoulder, tired but alert expression.
+
+SETTING: A modern 12-floor office building, late at night, empty and quiet.
+
+SHOT 1 (0-6s): Medium tracking shot. Emma walks quickly across the empty lobby, heels clicking on marble. She presses the elevator button, the doors open, she steps in and checks her phone. Natural walking speed.
+
+SHOT 2 (6-13s): Inside the elevator, close-up on the button panel: floors 1 to 12, and above them an extra glowing button labeled "13". Emma notices it, frowns, and says quietly: "This building only has twelve floors." She presses "Lobby". The elevator starts moving UP instead, the floor display counting 10... 11... 12... 13.
+
+SHOT 3 (13-20s): The elevator dings and stops. Doors open slowly at normal speed to a dim corridor with flickering lights. Emma hesitates, then steps out. Camera follows from behind as she walks down the hallway. Her footsteps echo. The elevator doors close behind her.
+
+SHOT 4 (20-26s): The corridor opens into an office floor that is an exact copy of her own workplace: same desks, same posters, same coffee mug. On the last desk, her own desk, a phone starts ringing. Emma approaches, looks at the phone screen. Close-up of her face reflecting the glow of the screen.
+
+SHOT 5 (26-30s): Close-up on the phone screen: caller ID reads "EMMA". Emma whispers: "That's... my number." Sudden cut to black. White text on screen: "THE 13TH FLOOR".
+
+AUDIO: Empty building ambience, fluorescent light hum, elevator ding, echoing footsteps, ringing phone, low tense cinematic score building slowly. English dialogue with natural voice, no music lyrics.
+
+AVOID: Slow motion, horror, ghosts, monsters, blood, cartoon look, slideshow effect, static images, face or outfit changes between shots.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 30.2s · 60 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/Hope_Ai01/status/2125920173903184107) · 作者: [@Hope_Ai01](https://x.com/Hope_Ai01) · 2026-11-26
+
+> 模型 MAGI-2 为作者自述，未经独立核实。
+
+[案例详情页](cases/cms-b52d2b0b/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-b52d2b0b&utm_term=zh-CN)**
+
+---
+
 <a id="case-cms-a1baa303"></a>
 
-#### 11. 烛光餐厅的三场约会
+#### 21. 烛光餐厅的三场约会
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1323,9 +1888,207 @@ In frame only: Stella, Brad, Tony and the background diners. Every other table i
 
 ---
 
+<a id="case-cms-9f948804"></a>
+
+#### 22. 迷你工人的可口可乐工厂
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@AIwithSynthia）：迷你工人的可口可乐工厂。
+
+<a href="https://awesome.raphael.app/materials/9535425e-b48d-49fa-83b6-ca268cda5787.mp4"><img src="assets/examples/cms-9f948804/preview.jpg" alt="MAGI-2 案例《迷你工人的可口可乐工厂》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/9535425e-b48d-49fa-83b6-ca268cda5787.mp4)**
+
+<details><summary><strong>展开完整原始提示词（3504 字）</strong></summary>
+
+```text
+Create a heartwarming, ultra-cute 3D chibi animated commercial inside a massive, magical soft drink factory operated entirely by tiny chibi workers. The factory is bright, spotless, colorful, and beautifully organized, featuring enormous stainless-steel machines, sparkling glass bottles, glowing red conveyor belts, and warm cinematic lighting. Every worker has oversized sparkling eyes, rosy cheeks, tiny proportions, expressive faces, and adorable waddling movements. All workers wear miniature red uniforms, little white gloves, and matching caps.
+
+SCENE 1 – THE GRAND FACTORY ENTRANCE
+
+The video opens with a spectacular cinematic fly-through entering the enormous beverage factory. Hundreds of adorable miniature workers enthusiastically run around, waving to each other and preparing for the day's production. Giant empty glass bottles travel along conveyor belts while tiny workers guide them into position. Some workers operate miniature forklifts carrying stacks of bottles, while others proudly inspect the production lines.
+
+SCENE 2 – THE MAGICAL BEVERAGE PRODUCTION
+
+The camera glides alongside enormous industrial mixing tanks filled with a rich, dark fizzy beverage. Tiny workers in protective uniforms carefully monitor the machines, turn miniature control wheels, and inspect the flowing liquid. One adorable worker stands on a tiny ladder, checking a pressure gauge while another gives an enthusiastic thumbs-up. Bubbles rise through transparent pipes, creating a mesmerizing visual spectacle.
+
+SCENE 3 – BOTTLE FILLING STATION
+
+Transition into a spectacular automated bottling station. Rows of sparkling glass bottles move beneath giant filling machines as the dark fizzy drink pours into each bottle with perfect precision. Tiny workers carefully supervise the process, enthusiastically cheering whenever a bottle gets filled. One little worker proudly holds up a perfectly filled bottle while his colleagues celebrate with tiny high-fives.
+
+SCENE 4 – THE BUBBLE MAGIC
+
+Capture beautiful macro close-ups of sparkling carbonation, tiny bubbles rising inside freshly filled bottles, condensation forming on chilled glass surfaces, and refreshing droplets sliding down the bottles. Miniature workers admire the finished drinks. One worker playfully tries to catch a floating bubble while another carefully polishes a bottle with an oversized cleaning cloth.
+
+SCENE 5 – THE PACKAGING DEPARTMENT
+
+The camera moves through a lively packaging section where hundreds of bottles are automatically capped, labeled, and packed into colorful red cartons. Tiny workers coordinate everything with incredible enthusiasm. Some carefully arrange bottles inside cartons, others seal the packages, while miniature forklifts transport finished products toward the warehouse. One tiny worker proudly stands on top of a carton, directing traffic like a factory supervisor.
+
+SCENE 6 – THE GRAND FINALE
+
+The entire factory becomes a celebration. Hundreds of adorable workers gather around a giant beautifully presented chilled bottle surrounded by sparkling droplets and refreshing ice cubes. They cheer, clap, wave their tiny hands, and perform adorable victory dances. One little worker proudly raises a miniature bottle toward the camera as everyone celebrates another successful production day.
+
+The camera slowly pulls backward and rises above the factory floor, revealing the enormous, beautifully illuminated production facility filled with busy miniature workers and endless rows of finished bottles.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 30.3s · 30 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/AIwithSynthia/status/2125821453266546701) · 作者: [@AIwithSynthia](https://x.com/AIwithSynthia) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[案例详情页](cases/cms-9f948804/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-9f948804&utm_term=zh-CN)**
+
+---
+
+<a id="case-cms-8868357e"></a>
+
+#### 23. 迷你女孩闯进体育用品店
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@john_my07）：迷你女孩闯进体育用品店。
+
+<a href="https://awesome.raphael.app/materials/43165285-b728-4af8-aaf4-76e2513e275d.mp4"><img src="assets/examples/cms-8868357e/preview.jpg" alt="MAGI-2 案例《迷你女孩闯进体育用品店》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/43165285-b728-4af8-aaf4-76e2513e275d.mp4)**
+
+<details><summary><strong>展开完整原始提示词（3462 字）</strong></summary>
+
+```text
+High-quality 2D animated adventure film, expressive hand-drawn characters, beautifully illustrated environments, rich colors, detailed backgrounds, fluid character animation, cinematic lighting, layered parallax, dynamic camera movements, polished animation with a premium feature-film aesthetic. Playful, energetic and full of visual surprises. 16:9 widescreen, 4K.
+
+CHARACTER CONSISTENCY
+
+One athletic young miniature woman, approximately 1:5 scale, with consistent facial features, hairstyle, outfit, sneakers, backpack and body proportions throughout the entire sequence. She must remain visibly tiny compared to the enormous sports equipment.
+
+STORY – THE MINIATURE SPORTS CHALLENGE
+
+Create a 30-second fast-paced animated adventure inside a gigantic sports equipment store.
+
+The adventure begins when the miniature woman runs across a massive football display. She jumps onto a basketball rolling off a shelf and rides it like a moving platform, balancing with her arms stretched out. The ball suddenly bounces, launching her onto a towering pile of colorful volleyballs.
+
+She spots an enormous cricket bat leaning against a display. Using its handle as a climbing rope, she reaches the top, slides down its curved body and lands inside a basket of oversized tennis balls. One ball suddenly launches from a nearby tennis machine, sending her flying onto a giant racket.
+
+Next, she discovers a row of enormous running shoes. She jumps between their laces, climbs over a sneaker tongue and slides down the side of a shoe. A giant football rolls toward her, forcing her to dive through the opening of a nearby sports bag.
+
+Emerging from the other side, she encounters a gigantic gym section. She climbs a vertical rack of dumbbells, swings from a resistance band and leaps onto a giant boxing glove. The glove compresses under her weight and springs her into the air.
+
+She lands on a skateboard moving across the shop floor. Racing along its surface, she dodges oversized water bottles before grabbing a dangling basketball net. She swings through the air and lands on the edge of a giant basketball hoop.
+
+FINAL SEQUENCE
+
+She makes one final daring jump onto a towering display of colorful sports balls. After climbing to the very top, she stands triumphantly with her hands on her hips.
+
+The camera gradually pulls back, revealing the enormous sports store, towering equipment displays, bright aisles and ordinary-sized shoppers moving around in the background. Her tiny size becomes the final visual surprise.
+
+ENDING TITLE
+
+"BIG DREAMS. LITTLE ADVENTURER."
+
+Followed by:
+
+"EVERY GAME IS A GIANT ADVENTURE."
+
+CAMERA & ANIMATION
+
+Dynamic 2D tracking shots, dramatic perspective shifts, expressive poses, exaggerated but believable cartoon physics, smooth squash-and-stretch, layered background movement, cinematic transitions, energetic close-ups, wide establishing shots and strong foreground parallax. Maintain consistent character design and scale in every shot.
+
+SOUND DESIGN
+
+Energetic adventure music, bouncing balls, squeaking sneakers, skateboard wheels, fabric movement, springy impacts, equipment clattering, rushing air and playful environmental sound effects.
+
+NEGATIVE PROMPT
+
+No 3D rendering, photorealism, live-action, CGI, anime styling, character duplication, inconsistent character design, outfit changes, distorted anatomy, random scene changes, floating objects, inconsistent miniature scale, static compositions, narration or subtitles.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 30.3s · 30 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | mixed (audio=True) |
+
+[原始来源](https://x.com/john_my07/status/2125940546598293935) · 作者: [@john_my07](https://x.com/john_my07) · 2026-11-26
+
+> 模型 MAGI-2 为作者自述，未经独立核实。
+
+[案例详情页](cases/cms-8868357e/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-8868357e&utm_term=zh-CN)**
+
+---
+
+<a id="case-cms-31031581"></a>
+
+#### 24. 给爸爸做松饼
+
+**来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
+
+社区 MAGI-2 视频案例（@AIwithkhan）：给爸爸做松饼。
+
+<a href="https://awesome.raphael.app/materials/c42d1bde-2c1d-4e9a-87b9-d3b5cfe6cb7e.mp4"><img src="assets/examples/cms-31031581/preview.jpg" alt="MAGI-2 案例《给爸爸做松饼》视频封面帧" width="640" /></a>
+
+▶ **[播放有声视频原片](https://awesome.raphael.app/materials/c42d1bde-2c1d-4e9a-87b9-d3b5cfe6cb7e.mp4)**
+
+<details><summary><strong>展开完整原始提示词（1365 字）</strong></summary>
+
+```text
+Create a heartwarming, hilarious, ultra-realistic Japanese-style 3D animated family comedy in vertical 16:9 format.
+
+A cute 3-year-old Japanese girl with short black bobbed hair, chubby cheeks, sparkling eyes, and pink pajamas decides to surprise her father with breakfast.
+
+Wearing an oversized chef hat, she struggles to prepare pancakes in the kitchen. She accidentally spills flour everywhere, gets chocolate on her face, and finally serves her father a funny-looking, slightly burnt pancake.
+
+🎙️ Girl: "Papa! I made this for you!"
+
+Her father takes a bite, struggles to hide his reaction, and says, "Delicious!"
+
+The little girl notices his watery eyes and innocently asks, "Papa, are you crying because it's so yummy?"
+
+The mother walks in, tastes the pancake, and bursts into laughter. The father hugs his little daughter and kisses her forehead.
+
+Final Shot: The little girl proudly poses like a professional chef while her parents laugh.
+
+Style: High-end Japanese 3D animation, adorable characters, expressive faces, realistic movements, warm lighting, cinematic camera angles, funny sound effects, natural Japanese dialogue, and heartwarming family moments.
+
+Consistency: Maintain identical characters, clothing, facial features, and kitchen throughout.
+
+Negative: No distorted faces, extra fingers, flickering, scene jumps, subtitles, text, or watermark.
+```
+
+</details>
+
+| 参数 | 配置 |
+| --- | --- |
+| 模型 | MAGI-2 (flagship) |
+| 任务类型 | t2v |
+| 时长 / 帧率 | 30.3s · 30 fps |
+| 分辨率 / 比例 | 1080p · 16:9 |
+| 音频模式 | dialogue (audio=True) |
+
+[原始来源](https://x.com/AIwithkhan/status/2125522773258952776) · 作者: [@AIwithkhan](https://x.com/AIwithkhan) · 2026-11-25
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[案例详情页](cases/cms-31031581/README.zh-CN.md) · **[在 Raphael 上生成同类视频 →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-31031581&utm_term=zh-CN)**
+
+---
+
 <a id="case-asics-gel-nimbus-ugc-ad"></a>
 
-#### 12. ASICS Gel Nimbus 跑鞋竖屏 UGC 广告
+#### 25. ASICS Gel Nimbus 跑鞋竖屏 UGC 广告
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1418,7 +2181,7 @@ Finished ad direction: A genuine creator-style product recommendation with a str
 
 <a id="case-cms-fb4c34de"></a>
 
-#### 13. 雨夜屋顶武侠短片
+#### 26. 雨夜屋顶武侠短片
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1532,7 +2295,7 @@ Finished ad direction: A genuine creator-style product recommendation with a str
 
 <a id="case-cms-5378ef28"></a>
 
-#### 14. 红帽女孩的冬日录像
+#### 27. 红帽女孩的冬日录像
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1584,7 +2347,7 @@ Maintain identical facial features, clothing, hairstyle, and body proportions th
 
 <a id="case-neon-night-run-edm"></a>
 
-#### 15. 霓虹夜奔约会（128 BPM 电子乐）
+#### 28. 霓虹夜奔约会（128 BPM 电子乐）
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1622,7 +2385,7 @@ Generate with full audio: a loud continuous EDM music soundtrack must play from 
 
 <a id="case-tiny-2d-girl-in-nyc"></a>
 
-#### 16. 迷你动画女孩闯入纽约实景
+#### 29. 迷你动画女孩闯入纽约实景
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 
@@ -1682,7 +2445,7 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 
 <a id="case-the-door-in-the-sky"></a>
 
-#### 17. 天空之门（奇幻短片）
+#### 30. 天空之门（奇幻短片）
 
 **来源类型**: `community` · **任务**: `T2V` · **音画**: `Yes` · **状态**: `来源收录`
 

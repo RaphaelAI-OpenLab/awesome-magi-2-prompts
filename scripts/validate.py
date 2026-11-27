@@ -139,7 +139,6 @@ def validate_config(config, errors: list[str]) -> None:
         "brand": ["name", "home_url", "gallery_url", "model_page_url", "model_available", "model_support_verified_at"],
         "tracking": ["utm_source", "utm_medium", "utm_campaign"],
         "cms": ["collection"],
-        "pages": ["plausible_domain", "plausible_script_url"],
         "presentation": ["updated_at", "featured_limit", "latest_limit", "generate_case_pages", "featured_case_ids"],
     }
     for section, fields in required.items():
@@ -211,8 +210,6 @@ def validate_config(config, errors: list[str]) -> None:
         errors.append("tracking: expected utm_source, utm_medium, and utm_campaign")
     if not re.fullmatch(r"[A-Za-z0-9_]+", str(config["cms"].get("collection", ""))):
         errors.append("cms.collection: invalid collection identifier")
-    if not is_https_url(config["pages"]["plausible_script_url"]):
-        errors.append("pages.plausible_script_url: expected HTTPS URL")
 
     try:
         updated = dt.datetime.fromisoformat(presentation["updated_at"])
@@ -364,7 +361,7 @@ def validate_repo_hygiene(errors: list[str]) -> None:
         if not path.is_file():
             continue
         rel = path.relative_to(ROOT)
-        if rel.parts[0] in {".git", "_site", "__pycache__", "dist"}:
+        if rel.parts[0] in {".git", "__pycache__", "dist"}:
             continue
         if path.suffix.lower() in DISALLOWED_GIT_MEDIA_SUFFIXES:
             errors.append(f"{rel}: binary video/audio files must not be stored in Git")

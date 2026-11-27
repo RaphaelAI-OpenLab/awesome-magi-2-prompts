@@ -5,7 +5,6 @@ __pycache__/
 .env.*
 !.env.example
 dist/
-_site/
 *.mp4
 *.mov
 *.webm

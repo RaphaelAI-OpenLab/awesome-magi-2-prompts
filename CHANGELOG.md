@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-27 — Remove GitHub Pages
+
+- Remove GitHub Pages generator (`scripts/build_pages.py`), deployment workflow (`.github/workflows/deploy-pages.yml`), page tests (`tests/test_pages.py`), and `pages` configuration to keep traffic focused on the GitHub repository and `raphael.app`.
+
 ## 2026-11-26 — Initial 10 MAGI-2 video cases from CMS
 
 - Import 10 curated MAGI-2 community cases from Directus CMS `magi2_materials` covering all 6 repository categories (dialogue lip-sync, multi-shot storytelling, omni-reference consistency, vertical UGC commercials, EDM/ambient SFX, and mixed-media/fantasy animation).

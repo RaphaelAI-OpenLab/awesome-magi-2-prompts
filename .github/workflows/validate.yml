@@ -20,7 +20,5 @@ jobs:
         run: python3 scripts/validate.py
       - name: Check generated READMEs and badges
         run: python3 scripts/build_readme.py --check
-      - name: Build GitHub Pages check
-        run: python3 scripts/build_pages.py --out _site
       - name: Run regression tests
         run: python3 -m unittest discover -s tests -v

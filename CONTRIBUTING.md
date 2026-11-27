@@ -15,7 +15,7 @@ Thanks for helping build this MAGI-2 prompt collection. A useful entry includes 
 ## Add a prompt case / 添加提示词案例
 
 1. Copy the template object in [`templates/prompt.json`](templates/prompt.json) into the array in [`content/prompts.json`](content/prompts.json).
-2. Keep `status` as `draft` while collecting missing metadata. Drafts are omitted from generated README and Pages outputs.
+2. Keep `status` as `draft` while collecting missing metadata. Drafts are omitted from generated README outputs.
 3. Fill a unique lowercase slug `id`, bilingual `title` (`en`, `zh-CN`), `category` from [`site.config.json`](site.config.json), `origin` (`original`, `official`, `community`), and `prompt_status` (`public`, `not-public`, `unverified`).
 4. Separate `short_prompt` (one-line prompt) and `structured_prompt` (MAGI-2 PE JSON or timeline format when available). Never fabricate a prompt when `prompt_status` is not `public`.
 5. Record `parameters` (`task_type`, `duration_sec`, `fps`, `resolution`, `aspect_ratio`, `has_audio`, `audio_mode`) and any `omni_references` (image, video, audio).
@@ -24,7 +24,6 @@ Thanks for helping build this MAGI-2 prompt collection. A useful entry includes 
 
 ```bash
 python3 scripts/build_readme.py
-python3 scripts/build_pages.py --out _site
 python3 scripts/validate.py
 python3 -m unittest discover -s tests -v
 ```

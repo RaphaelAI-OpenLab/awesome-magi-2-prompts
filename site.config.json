@@ -56,10 +56,6 @@
   "cms": {
     "collection": "magi2_materials"
   },
-  "pages": {
-    "plausible_domain": "raphaelai-openlab.github.io",
-    "plausible_script_url": "https://plau.colorepistle.com/js/script.outbound-links.js"
-  },
   "presentation": {
     "updated_at": "2026-11-26T08:00:00Z",
     "featured_limit": 12,

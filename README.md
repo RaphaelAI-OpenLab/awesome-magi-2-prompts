@@ -38,7 +38,7 @@
 
 ## 🏷️ Browse by category
 
-[All (44)](#all-cases) · [Dialogue & Lip-Sync (4)](#category-dialogue-lip-sync) · [Multi-Shot Storytelling (4)](#category-multi-shot-storytelling) · [Omni-Reference Consistency (7)](#category-omni-reference) · [Product & Commercials (22)](#category-product-commercials) · [SFX, Music & Ambience (4)](#category-sfx-ambience) · [Cinematic & Animation (3)](#category-cinematic-animation)
+[All (67)](#all-cases) · [Dialogue & Lip-Sync (5)](#category-dialogue-lip-sync) · [Multi-Shot Storytelling (7)](#category-multi-shot-storytelling) · [Omni-Reference Consistency (7)](#category-omni-reference) · [Product & Commercials (36)](#category-product-commercials) · [SFX, Music & Ambience (5)](#category-sfx-ambience) · [Cinematic & Animation (7)](#category-cinematic-animation)
 
 <a id="contents"></a>
 
@@ -128,11 +128,11 @@ SAMPLES=my_samples.json bash scripts/run_demo.sh
 
 | **Metric** | **Count** |
 | --- | --- |
-| 🎬 Total cases | **44** |
+| 🎬 Total cases | **67** |
 | ⭐ Featured cases | **6** |
-| 🔄 Last updated | **2026-11-28 UTC 08:11:04** |
+| 🔄 Last updated | **2026-11-28 UTC 17:02:17** |
 
-<!-- cms-stats 44 2026-11-28T08:11:04Z -->
+<!-- cms-stats 67 2026-11-28T17:02:17Z -->
 
 <a id="featured"></a>
 
@@ -532,9 +532,86 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 
 ### Dialogue & Lip-Sync
 
+<a id="case-cms-4d664d0b"></a>
+
+#### 1. 牦牛与刺猬的钟楼闹剧
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+Community MAGI-2 video case (@sebatheepan): 牦牛与刺猬的钟楼闹剧.
+
+<a href="https://awesome.raphael.app/materials/e2ae5a24-05ab-42c2-9fad-dba6bacdb0e8.mp4"><img src="assets/examples/cms-4d664d0b/preview.jpg" alt="Preview still frame from 牦牛与刺猬的钟楼闹剧 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/e2ae5a24-05ab-42c2-9fad-dba6bacdb0e8.mp4)**
+
+<details><summary><strong>Full Structured Prompt (10044 chars)</strong></summary>
+
+```text
+# global_caption
+
+core_caption:一段时长30秒、皮克斯与照明娱乐风格的3D动画喜剧冒险视频，由4个镜头组成：珊瑚粉冲天冠翠绿眼橙嘴的高瘦白鹦鹉、弯象牙角刘海遮眼的庞大蓬松炭蓝牦牛、金橙大凸眼黄背脊卷尾的胖绿松石变色龙与蓝宝石大眼柔和肉桂尖刺的迷你奶白小刺猬，在阳光透洒的巨型卡通蒸汽朋克黄铜钟楼内引发齿轮缠绕闹剧，从拉下亮红操纵杆与巨型指针勾角升空演变为倒挂卷尾戏耍螺母，最终由小刺猬滚轨撞响金锣将全员弹落天鹅绒软垫收尾。
+format_and_structure:30秒，16:9，实时自然运动。4个镜头，在7.0秒、14.0秒和22.0秒处硬切衔接。
+narrative_and_emotional_design:金色钟楼平静骤然转为亢奋拉杆闹剧，加速齿轮带起黄铜指针把冷面牦牛吊上高空，变色龙在飞转齿轮间倒挂弹舌戏耍螺母，镇定小刺猬顺弧形黄铜轨滚下撞响金锣将全员安全弹回天鹅绒软垫；情绪由夸张卡通表情、挤压拉伸动作、金色光柱与奇趣发条管弦喜剧配乐传递。
+visual_design:院线级3D计算机动画，细腻呈现抛光金黄铜齿轮、锻造铜铃、拉扣酒红天鹅绒、亮泽绿松石鳞片、蓬松羽毛、厚实炭蓝长毛与透光彩绘玻璃；温暖黄金蒸汽朋克色调以蜂蜜铜色和金色微尘衬托绿松石、炭蓝与猩红点缀；倾斜金色阳光穿透彩色玻璃圆钟面投下丁达尔光束、锐利暖轮廓光与柔和琥珀补光；35mm广角大景与50mm表情近景交替并保持深景深；空气中飘浮闪烁微尘与金色声波光环。
+audio_design:持续黄铜钟楼内部环境音，含深沉规律滴答、温暖铜鸣、平顺齿轮运转声与远处铜铃轻颤；清脆卡通拟音涵盖厚重拉杆咔嗒、加速齿轮哗啦、弯角挂针磕碰、弹力卷尾与长舌弹响、黄铜轨顺滑滚动、金锣浑厚共鸣与天鹅绒软垫噗咚声，辅以滑稽无台词嘎叫、叹息与咯咯笑声；奇趣发条管弦喜剧配乐含钢片琴、木鱼、巴松管、拨弦提琴、钟琴与温暖铜管；无对白。
+
+continuity_requirements:Image 1锁定ref_chameleon，Image 2锁定ref_hedgehog，Image 3锁定ref_yak，Image 4锁定ref_cockatoo，每个镜头外观一致 | 钟楼内部垂直空间地理保持连贯，从底层黄铜走道与中层齿轮群上接彩色玻璃圆钟面，再沿弧形黄铜滑轨通往悬挂金锣与天鹅绒软垫 | 角色相对体型比例严格锁定（牦牛最高最宽、鹦鹉高瘦约为牦牛身高的82%、变色龙圆胖约为牦牛身高的45%、小刺猬极迷你约为牦牛身高的20%），道具保持造型 | 彩色玻璃圆钟面、齿轮、操纵杆与金锣仅保留纯粹几何彩玻镶片与装饰辐条，无数字、无字母、无可读文字、无徽标且无人类元素 | 弯角、刘海、珊瑚羽冠、螺旋卷尾、尖刺与黄铜道具在每次动作与切镜中保持准确形态，无瞬移或替换
+
+# reference_bank
+
+## reference_bank1
+
+reference_identifier:ref_chameleon
+reference_type:character
+label:变色龙
+role:爱表现的戏剧化惹祸精，拥有弹力长粉舌和弹簧卷尾。Image 1控制面部、金橙色凸起转眼、绿松石鳞片、黄色背脊与卷曲尾巴；忽略其灰色摄影棚背景。
+description:金橙大凸眼黄背脊卷尾的胖绿松石变色龙
+appearance_or_design:胖乎乎的双足直立3D亮绿松石色变色龙，覆满细腻圆润亮泽鳞片与浅水蓝条纹腹甲，头顶弯曲绿松石冠，背脊排列一排明黄圆润脊突，巨大凸起的金橙色转眼配深色瞳孔，咧着得意搞怪抿嘴笑，三趾足配紧紧盘卷的螺旋绿松石尾巴，外观如Image 1所示。
+
+## reference_bank2
+
+reference_identifier:ref_hedgehog
+reference_type:character
+label:小刺猬
+role:镇定无畏的迷你小萌宠，受惊时会缩成弹跳蒲公英刺球。Image 2控制面部、蓝宝石大眼、奶白桃色肚皮、肉桂金尖刺与迷你体型；忽略其灰色摄影棚背景。
+description:蓝宝石大眼柔和肉桂尖刺的迷你奶白小刺猬
+appearance_or_design:极其圆润如小蛋般的迷你3D小刺猬，踩着娇小桃色短脚直立，鼓鼓粉颊、口鼻与圆肚皮覆着柔和奶白桃色细毛，头背环绕蓬松柔和的肉桂金与蜂蜜棕圆头尖刺光环，超大闪亮深蓝宝石圆眼、深棕小亮圆鼻、圆润小耳与贴在胸前的桃色小爪，外观如Image 2所示。
+
+## reference_bank3
+
+reference_identifier:ref_yak
+reference_type:character
+label:高原牦牛
+role:沉重冷面的愁眉苦脸担当，靠庞大体重与弯角承接所有闹剧。Image 3控制面部、遮住单眼的蓬松刘海、单只琥珀愁眉眼、弯曲象牙角与深炭蓝长毛；忽略其灰色摄影棚背景。
+description:弯象牙角刘海遮眼的庞大蓬松炭蓝牦牛
+appearance_or_design:高大魁梧的方正双足3D高原牦牛，全身垂落层次蓬松的深炭蓝灰色长毛，厚重斜刘海遮住左眼，浓眉下露出单只半眯不爽的金琥珀色眼睛，头顶伸出两根粗壮上翘的暖象牙白弯角，宽阔灰蓝愁眉口鼻、深色蹄掌大手、粗短蹄腿与簇毛尾巴
+
+... [truncated in root README; open standalone case page for full prompt]
+```
+
+[Read complete 10044-char prompt →](cases/cms-4d664d0b/README.md)
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 28.6s · 25 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | mixed (audio=True) |
+
+[Original source](https://x.com/sebatheepan/status/2125915609288335391) · Creator: [@sebatheepan](https://x.com/sebatheepan) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[Case page](cases/cms-4d664d0b/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-4d664d0b&utm_term=en)**
+
+---
+
 <a id="case-cms-fbd168f7"></a>
 
-#### 1. 两位宋代女子闲游汴河
+#### 2. 两位宋代女子闲游汴河
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -581,7 +658,7 @@ Community MAGI-2 video case (@PixelAigc): 两位宋代女子闲游汴河.
 
 <a id="case-cms-0c9e2e90"></a>
 
-#### 2. 古镇早市的婚期笑谈
+#### 3. 古镇早市的婚期笑谈
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -715,7 +792,7 @@ Community MAGI-2 video case (@abulu8): 古镇早市的婚期笑谈.
 
 <a id="case-rainy-cafe-boarding-pass"></a>
 
-#### 3. Rainy Night Cafe Boarding Pass
+#### 4. Rainy Night Cafe Boarding Pass
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -807,7 +884,7 @@ Negative:
 
 <a id="case-hedgehog-pip-3d-comedy"></a>
 
-#### 4. Maya & Pip the Hedgehog — 3D Animated Short
+#### 5. Maya & Pip the Hedgehog — 3D Animated Short
 
 **Origin**: `community` · **Task**: `OMNI-REF` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -870,9 +947,131 @@ STORY: Maya keeps dodging Pip's pointy cuddles, until an unreachable sweater itc
 
 ### Multi-Shot Storytelling
 
+<a id="case-cms-dd430d93"></a>
+
+#### 6. 从起晚到登机的一路狂奔
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+ENVIRONMENT: Bedroom → bathroom → kitchen → apartment hallway → street → taxi → airport entrance → check-in counter → security che…
+
+<a href="https://awesome.raphael.app/materials/fb63fdb4-d505-4b8c-9263-8f2661b1989f.mp4"><img src="assets/examples/cms-dd430d93/preview.jpg" alt="Preview still frame from 从起晚到登机的一路狂奔 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/fb63fdb4-d505-4b8c-9263-8f2661b1989f.mp4)**
+
+<details><summary><strong>Full Structured Prompt (3000 chars)</strong></summary>
+
+```text
+ENVIRONMENT: Bedroom → bathroom → kitchen → apartment hallway → street → taxi → airport entrance → check-in counter → security check → departure lounge → boarding gate → jet bridge → airplane cabin → airplane window → hotel lobby → hotel room at night.
+
+MOOD ARC: Late wake-up → morning panic → high-pressure travel rush → near-missed flight → relief → peaceful journey → quiet exhaustion.
+
+SHOT SEQUENCE (30 beat-synced shots):
+
+* Shots 1–3: Alarm rings loudly. She suddenly wakes up, checks her phone, realizes she's running late, and jumps out of bed.
+
+* Shots 4–6: Rushes into the bathroom, brushes her teeth, washes her face, and quickly fixes her hair while checking the time.
+
+* Shots 7–9: Runs into the kitchen, grabs a quick breakfast and coffee, stuffs essentials into her handbag, and zips up her suitcase.
+
+* Shot 10: Changes to crop top and shorts , Grabs her passport and phone, rushes toward the apartment door, and almost forgets her suitcase.
+
+* Shot 11: Exits the apartment and jumps into a fast-moving taxi. Rain streaks slide across the windows as the city rushes past.
+
+* Shots 12–14: Runs through the busy airport terminal pulling her suitcase, checks the flashing departure board, and rushes toward the check-in counter.
+
+* Shots 15–16: Places her suitcase on the check-in scale, receives her boarding pass, and quickly heads toward security.
+
+* Shots 17–18: Places her belongings in security trays, walks through the scanner, collects everything, and hurries away.
+
+* Shots 19–20: Runs through the departure lounge, spots her boarding gate number, and finally sees the boarding announcement.
+
+* Shots 21–22: Reaches the boarding gate just in time, scans her boarding pass, and walks through the jet bridge.
+
+* Shots 23–24: Enters the airplane cabin, finds her window seat, stores her handbag, and fastens her seatbelt.
+
+* Shots 25–26: Looks through the airplane window as the aircraft takes off. Beautiful city lights shimmer beneath the clouds.
+
+* Shots 27–28: Arrives at the hotel at night, enters her room, and drops her suitcase beside the bed.
+
+* Shots 29–30: Falls face-first onto the hotel bed, exhausted, with her suitcase still half-open. She slowly turns toward the camera with a tired smile before closing her eyes.
+
+VISUAL STYLE & CAMERA: Fast cinematic tracking shots, energetic handheld camera movements, dynamic whip pans, smooth match cuts, close-up facial expressions, overhead airport shots, low-angle running shots, realistic motion blur, dramatic transitions, detailed environments, natural character movements, cinematic lighting, polished AAA 3D animated-film quality.
+
+TECHNICAL: 4K, 24fps, 16:9, 30 seconds, perfectly synchronized 145 BPM editing, consistent character identity, seamless transitions, realistic physics.
+
+NEGATIVE PROMPT: No subtitles, no on-screen text, no logos, no watermarks, no duplicate characters, no face distortion, no outfit inconsistencies, no flickering, no unnatural movements, no teleportation, no low-detail environments.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.3s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | music (audio=True) |
+
+[Original source](https://x.com/AIwithSynthia/status/2125863211102802157) · Creator: [@AIwithSynthia](https://x.com/AIwithSynthia) · 2026-11-26
+
+> 视频使用 MAGI-2 为作者自述，未经独立核实。X 原视频：https://video.twimg.com/amplify_video/2125863112335400960/vid/avc1/1920x1080/kinEtNpcpxrkNnMv.mp4?tag=29
+
+[Case page](cases/cms-dd430d93/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-dd430d93&utm_term=en)**
+
+---
+
+<a id="case-cms-a1430d20"></a>
+
+#### 7. 厨房里的舒芙蕾危机
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+[Generation Goal] In a cramped restaurant kitchen a tyrannical French chef whisper-directs a terrified junior cook carrying a towe…
+
+<a href="https://awesome.raphael.app/materials/62db0979-3248-4372-8fff-a317f49c2395.mp4"><img src="assets/examples/cms-a1430d20/preview.jpg" alt="Preview still frame from 厨房里的舒芙蕾危机 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/62db0979-3248-4372-8fff-a317f49c2395.mp4)**
+
+<details><summary><strong>Full Structured Prompt (14306 chars)</strong></summary>
+
+```text
+[Generation Goal]
+In a cramped restaurant kitchen a tyrannical French chef whisper-directs a terrified junior cook carrying a towering souffle from oven to pass: it survives a squeaking clog, a falling copper lid and a bellowing waiter, then sinks at the chef's own sneeze. A live-action suspense comedy in twelve shots, close-ups and inserts alternating with three wider side views, played in whispers.
+
+[Characters]
+HORTENSE DUVAL, the chef. A 55-year-old French woman. Pale skin under matte face powder, fine upright lines above the lip, two deep creases between the brows. A long narrow face, a thin high-bridged nose, a mouth painted dark red. Sharp black eyes that look over half-moon steel-rimmed glasses worn low on the nose on a silver chain. Steel-grey hair in a hard chignon. An immaculate white double-breasted chef's jacket, a black neckerchief, a long black waist apron. Small, narrow, straight-backed, chin raised, short exact steps. Her right hand carries a long steel tasting spoon that she points and jabs with; her left is empty, palm out. A tyrant who commands in a hiss: the lips hardly part, the nostrils flare, the eyebrows do the shouting. Original English voice: a low, dry contralto with a strong French accent.
+
+WOJTEK 'WOJ' NOWAK, the junior cook, on his second day. A 22-year-old Polish man. Fair skin flushed in blotches, bright pink ears that stick out, sweat beading on the upper lip. A long face on a long neck with a bobbing Adam's apple, a wide rubbery mouth, round pale-blue eyes with almost white lashes. Straw-fair hair pokes out under a tall white paper cap. A white chef's jacket two sizes too big, a blue-and-white striped bib apron, black rubber clogs; small blue adhesive bandages on three fingers of his left hand. Lanky, all wrists and knees, stooped over the hot ramekin that both hands hold through a folded grey cloth at chest height. Terrified and heroic: cheeks puffed with held breath, shoulders up at his ears, eyes swivelling from dome to Chef and back. Original English voice: a light, breathy tenor with a soft Polish accent.
+
+BRUNO, the waiter. A 35-year-old Italian man: tanned olive skin, shiny round cheeks, thick black curls, a full black m
+
+... [truncated in root README; open standalone case page for full prompt]
+```
+
+[Read complete 14306-char prompt →](cases/cms-a1430d20/README.md)
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.2s · 24 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | mixed (audio=True) |
+
+[Original source](https://x.com/maxescu/status/2125623155960017230) · Creator: [@maxescu](https://x.com/maxescu) · 2026-11-25
+
+> MAGI-2 为作者自述，未经独立核实。完整提示词来自作者回复 https://x.com/maxescu/status/2125623162629173447
+
+[Case page](cases/cms-a1430d20/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-a1430d20&utm_term=en)**
+
+---
+
 <a id="case-cms-414dc90a"></a>
 
-#### 5. 收市前的巷战
+#### 8. 收市前的巷战
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1039,9 +1238,79 @@ cut14:
 
 ---
 
+<a id="case-cms-104c29a3"></a>
+
+#### 9. 忙碌清晨的家庭录像
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+Create a 30-second, 12-shot montage of candid, realistic home-video footage. Every shot must use a different angle or framing, wit…
+
+<a href="https://awesome.raphael.app/materials/400ea659-b3b5-46ba-b365-f9efdfe534c1.mp4"><img src="assets/examples/cms-104c29a3/preview.jpg" alt="Preview still frame from 忙碌清晨的家庭录像 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/400ea659-b3b5-46ba-b365-f9efdfe534c1.mp4)**
+
+<details><summary><strong>Full Structured Prompt (3549 chars)</strong></summary>
+
+```text
+Create a 30-second, 12-shot montage of candid, realistic home-video footage. Every shot must use a different angle or framing, with natural handheld movement, imperfect composition, subtle camera shake, delayed autofocus and gentle exposure changes. Authentic documentary feel, soft morning sunlight, realistic skin textures, warm muted colours and subtle film grain. Never look staged or overly cinematic.
+
+Character: The same woman from <<<image_1>>>, wearing an oversized pastel-blue cotton T-shirt and cream lounge shorts, barefoot, with loosely tied messy hair. Maintain exact facial identity and outfit throughout.
+
+Setting: A small, lived-in apartment with a connected kitchen and living room, half-open curtains, scattered cushions, unfinished tea, laundry and everyday clutter. A small playful dog wanders around.
+
+12-SHOT SEQUENCE:
+
+1. 0–2s: From the kitchen doorway, she stares blankly inside the open refrigerator, seemingly forgetting why she came. She slowly closes it and mutters something in Korean.
+
+2. 2–4s: Side angle. She pours cereal into a bowl, grabs the milk carton and discovers it's empty. She shakes it and gives it an annoyed look.
+
+3. 4–6s: Low floor-level shot. Her dog approaches carrying a sock. She tries to take it, but the dog backs away and starts a playful chase around the kitchen island.
+
+4. 6–8s: Over-the-shoulder shot. She retrieves the sock, only to notice the dog has stolen a dish towel. She looks at it in disbelief.
+
+5. 8–11s: Wide living-room shot. She sits folding laundry while calling the dog. It ignores her and lies on the clothes. She gives up and pets it.
+
+6. 11–13s: Close-up of her vibrating phone on the sofa. She picks it up and answers a friend's call.
+
+7. 13–16s: Side-profile handheld shot. Listening to her friend, she raises her eyebrows, responds in casual Korean and suddenly bursts into genuine laughter.
+
+8. 16–19s: Elevated handheld angle. Still on the call, she takes a sip of forgotten cold tea and immediately makes a disgusted expression.
+
+9. 19–21s: Behind-the-sofa angle. She places the cup on a crowded table, accidentally knocks a cushion over and catches it. She gives the camera an embarrassed smile.
+
+10. 21–24s: Medium-wide shot. She starts tidying the sofa, but the dog immediately jumps onto the freshly arranged cushions and settles down. She stares at it and laughs.
+
+11. 24–27s: Loud knocking at the apartment door. She freezes, looks at her messy clothes and untidy room, then turns toward the camera with a panicked expression. The dog barks excitedly.
+
+12. 27–30s: She hurriedly ends the phone call and rushes toward the entrance. Before leaving, she grabs the empty milk carton and accidentally puts it back inside the refrigerator instead of throwing it away. She notices her mistake, pauses awkwardly, then rushes out. The camera stays behind as the dog looks toward the doorway.
+
+Audio: No music. Only authentic apartment ambience, refrigerator hum, cereal pouring, milk carton rattling, dog footsteps and barking, phone vibration, faint friend conversation, natural Korean speech, genuine laughter, cup clinking, cushions rustling and loud door knocking. Accurate natural lip sync.
+
+Consistency and quality: Preserve the woman's identity, clothing, dog appearance and apartment layout across all shots. Natural body movement, believable interactions, spontaneous expressions and realistic timing. No exaggerated acting, artificial posing, slow motion, subtitles, on-screen text, logos, watermarks or duplicate characters. Never generate a reference sheet.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.3s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | sfx (audio=True) |
+
+[Original source](https://x.com/john_my07/status/2125869111775461507) · Creator: [@john_my07](https://x.com/john_my07) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[Case page](cases/cms-104c29a3/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-104c29a3&utm_term=en)**
+
+---
+
 <a id="case-cms-17ddf808"></a>
 
-#### 6. 在森林里煮杯面
+#### 10. 在森林里煮杯面
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1121,7 +1390,7 @@ cut17: バストショット、斜め横から。 ふうっと息を吐いて遠
 
 <a id="case-red-paper-kite-five-styles"></a>
 
-#### 7. Red Paper Kite Across Five Art Styles
+#### 11. Red Paper Kite Across Five Art Styles
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1168,7 +1437,7 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 <a id="case-library-note-youth-short"></a>
 
-#### 8. Library Note — Silent High-School Youth Short
+#### 12. Library Note — Silent High-School Youth Short
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1217,7 +1486,7 @@ Audio: steady soft wind throughout and a single gentle solo piano melody that sl
 
 <a id="case-cms-ea3e77d5"></a>
 
-#### 9. 暴风雪后的雪板追逐
+#### 13. 暴风雪后的雪板追逐
 
 **Origin**: `community` · **Task**: `OMNI-REF` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1275,7 +1544,7 @@ If the previous shot is mid-carve, the next continues the same carve; if the pre
 
 <a id="case-cms-b0f22c2e"></a>
 
-#### 10. 粉色睡衣的夜间自拍视频
+#### 14. 粉色睡衣的夜间自拍视频
 
 **Origin**: `community` · **Task**: `OMNI-REF` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1358,7 +1627,7 @@ Preserve the exact same facial identity throughout. No face morphing, no charact
 
 <a id="case-cms-fdda6fe4"></a>
 
-#### 11. 雨中巴黎的冷面喜剧
+#### 15. 雨中巴黎的冷面喜剧
 
 **Origin**: `community` · **Task**: `OMNI-REF` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1394,7 +1663,7 @@ THE GENTLEWOMAN 02 — THE ART OF NOT CARING. CLIP 2: THE CITY BOWS DOWN. Create
 
 <a id="case-cms-de6cd92d"></a>
 
-#### 12. ONE HIT 时装换装广告
+#### 16. ONE HIT 时装换装广告
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1504,7 +1773,7 @@ Final result should feel like a high-end Korean fashion campaign mixed with a Y2
 
 <a id="case-cms-bd4ae1e1"></a>
 
-#### 13. 无底洞里走回来的鞋
+#### 17. 无底洞里走回来的鞋
 
 **Origin**: `community` · **Task**: `OMNI-REF` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1594,7 +1863,7 @@ Community MAGI-2 video case (@john87445528): 无底洞里走回来的鞋.
 
 <a id="case-rococo-garden-three-room-oner"></a>
 
-#### 14. Rococo Garden Three-Room One-Take
+#### 18. Rococo Garden Three-Room One-Take
 
 **Origin**: `community` · **Task**: `OMNI-REF` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1658,7 +1927,7 @@ Community MAGI-2 video case (@john87445528): 无底洞里走回来的鞋.
 
 <a id="case-bangkok-night-market-cel-anime"></a>
 
-#### 15. Bangkok Night Market Cel-Anime (13 Cuts)
+#### 19. Bangkok Night Market Cel-Anime (13 Cuts)
 
 **Origin**: `community` · **Task**: `OMNI-REF` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1760,7 +2029,7 @@ cut13:
 
 <a id="case-cms-fa134f7b"></a>
 
-#### 16. 三人偶像团的赛博说唱
+#### 20. 三人偶像团的赛博说唱
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1862,9 +2131,173 @@ Stylish kinetic moving underground fashion magazine spread.
 
 ---
 
+<a id="case-cms-f34765d0"></a>
+
+#### 21. 猫咪乘坐里斯本老电车
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+**고양이 × 리스본 트램** A young woman (Image 1 = her face and hair) is already settling into a varnished wooden window seat of a vintage…
+
+<a href="https://awesome.raphael.app/materials/421d2f57-5abc-44ef-8afc-6b31e6e56e70.mp4"><img src="assets/examples/cms-f34765d0/preview.jpg" alt="Preview still frame from 猫咪乘坐里斯本老电车 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/421d2f57-5abc-44ef-8afc-6b31e6e56e70.mp4)**
+
+<details><summary><strong>Full Structured Prompt (3802 chars)</strong></summary>
+
+```text
+**고양이 × 리스본 트램**
+
+A young woman (Image 1 = her face and hair) is already settling into a varnished wooden window seat of a vintage yellow Lisbon tram waiting at a hillside stop, steep cobbled street, pastel tiled facades and warm afternoon light outside the open window, brass handrails and polished wood panelling around her, cradling a small fluffy cream-and-grey cat and nuzzling it; once seated she lifts it up to the camera, melting with adoration, and says: "우리 애기에요." A beat later, hard cut to the exact same locked framing: she lowers the cat onto the wooden seat beside her, clips a small harness leash to the armrest, and the tram bell clangs twice as the carriage jolts and starts to creak forward, the cat's ears flick; she turns to it, mouth toward the camera, and coos: "준비됐어?", and the cat answers with a soft meow. Hard cut, same locked framing, now climbing a steep cobbled street: the window is fully open, terracotta rooftops, laundry lines and tiled walls slide past in motion blur, warm wind rushes in whipping her hair and ruffling the cat's fur; one hand on the window frame, the other clutching at her whipping hair, she scrunches her face and yelps half-laughing: "으아, 내 머리!" Hard cut, same locked framing: the tram rattles through a narrow alley, walls close on both sides and the light flickers between shade and sun, she fishes a cat treat from her bag and holds it up, the cat's eyes locking on it with an eager meow, and she says to it with a teasing smile: "간식 줄까?!" Hard cut, same locked framing: the tram slowing at a crest, wheels squealing softly and the carriage rocking at a lazy pace, she props an elbow on the window ledge, jaw on her hand in a loose pose, glances out at the open sky and river view then side-eyes the lens and sighs: "오늘 날씨가 진짜.." At the end, hard cut to arrival, same locked framing: the tram has pulled to a halt at a viewpoint stop, brakes hissing and the street outside stops moving past; she leans toward the camera, warm and playful with the cat on the seat beside her, reaches a hand toward the lens as if to switch off the cam, and says clearly: "도착! 다녀올게요." — her hand grazes the lens and the clip cuts out.
+
+Keep her face and hair exactly as the reference and never copy its background. The vintage yellow tram interior, its wooden seats, brass rails and open window stay identical, the small cream-and-grey cat stays the same in every cut, and the window stays fully open from the third cut on; the first two cuts sit at the hillside stop and the rest happen on the moving tram and at the viewpoint stop.
+
+The camera is one locked viewpoint low on the wooden seat between the woman and the cat, slightly wide-angle, seeing the woman at the window seat and the cat beside her; every cut returns to this exact position and focal length and the camera never moves, pans, tilts, zooms, dollies, drones or reframes — only the woman and the cat move, rhythm coming only from that and hard cuts; no camera, mount, tripod or filming rig is ever visible, no rig reflection or shadow.
+
+Shot like real self-filmed vlog footage in live-action photorealism: true skin texture with pores and fine hairs, film grain, natural light falloff, no beauty filter or skin smoothing, no 3D-render, CGI or AI-plastic gloss, staying razor-sharp through wind and motion. Never render a reference sheet or duplicate a subject. No subtitles, no on-screen text, no logo, no watermark.
+
+Diegetic sound only and absolutely no background music, not even at the end: tram bell clangs, wheels grinding on steel rails, creaking wood, rushing window wind, brake squeal and hiss, distant street murmur, the cat's soft meows and collar bell; her spoken lines are all live and frontal with the lips clearly visible and the mouth matching the words, in Korean, no voiceover.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.2s · 25 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | mixed (audio=True) |
+
+[Original source](https://x.com/doctorwasif/status/2126304231179309362) · Creator: [@doctorwasif](https://x.com/doctorwasif) · 2026-11-27
+
+> 视频使用 MAGI-2 为作者自述，未经独立核实。X 原视频：https://video.twimg.com/amplify_video/2126304158428876800/vid/avc1/1920x1080/81D3PHu7VRvO_NFF.mp4?tag=29
+
+[Case page](cases/cms-f34765d0/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-f34765d0&utm_term=en)**
+
+---
+
+<a id="case-cms-f0dfcc77"></a>
+
+#### 22. 济州岛海边的夏日录像
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video capturing a spontaneous summer afternoon in a quiet coas…
+
+<a href="https://awesome.raphael.app/materials/87f3b365-75c5-486d-9273-6a3520eea526.mp4"><img src="assets/examples/cms-f0dfcc77/preview.jpg" alt="Preview still frame from 济州岛海边的夏日录像 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/87f3b365-75c5-486d-9273-6a3520eea526.mp4)**
+
+<details><summary><strong>Full Structured Prompt (3025 chars)</strong></summary>
+
+```text
+Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video capturing a spontaneous summer afternoon in a quiet coastal village on Jeju Island, South Korea. Make it feel like a nostalgic vacation recording filmed by a close friend, not a professional production.
+
+CHARACTER CONSISTENCY
+
+One young Korean woman in her early 20s throughout the entire video. Natural beauty, realistic skin texture, expressive dark-brown eyes and long wavy dark-brown hair in a loose half-up hairstyle.
+
+She wears an ivory linen shirt over a sage-green camisole, light-wash denim shorts, white canvas sneakers, a tan woven crossbody bag, silver jewelry and black sunglasses resting on her head. Maintain identical facial features, hairstyle, proportions and outfit in every scene.
+
+LOCATION & ATMOSPHERE
+
+A peaceful Jeju fishing village with volcanic stone walls, colorful fishing boats, narrow coastal roads, flower stalls, traditional houses, green fields and sparkling ocean views. Warm summer sunlight, gentle sea breeze and distant volcanic hills.
+
+30-SECOND STORY
+
+- 00:00–00:05: She walks out of a blue wooden gate carrying breakfast, smiles at the camera and walks along a charming stone-walled road.
+- 00:05–00:10: At a tiny flower stall, she picks up delicate white flowers, playfully poses beside her face and laughs when the camera zooms too close.
+- 00:10–00:15: At a fishing harbor, she excitedly waves at a fisherman on a colorful boat. The camera quickly pans and briefly loses focus.
+- 00:15–00:20: A strong sea breeze blows her hair across her face. She catches her slipping sunglasses, laughs and says, "Not today!"
+- 00:20–00:25: Sitting on a volcanic stone wall overlooking the ocean, she enjoys a pastry, places a little flower behind her ear and smiles peacefully.
+- 00:25–00:30: She walks toward a wooden pier, turns back, waves and says, "See you tomorrow!" The camera accidentally tilts toward the sparkling ocean before abruptly cutting to black.
+
+CAMERA & VISUAL STYLE
+
+Authentic early-2000s consumer DV camcorder footage. Handheld movement, imperfect framing, accidental zooms, autofocus hunting, exposure shifts, faded colors, subtle digital noise, interlacing artifacts and natural motion blur. No cinematic stabilization, drone shots or professional camera movements.
+
+AUDIO & REALISM
+
+Natural synchronized dialogue, ocean waves, seagulls, coastal wind, footsteps, distant boats and genuine laughter. No music, narration, subtitles or watermarks.
+
+IMPORTANT CONTINUITY
+
+Keep the same woman, face, outfit and accessories across all six scenes. Natural expressions, believable movements, realistic wind and ocean physics. All scenes remain in the same Jeju village and afternoon.
+
+Avoid face distortion, duplicated characters, extra fingers, outfit changes, artificial beauty filters, exaggerated expressions, CGI appearance and overly polished cinematography.
+
+Overall feeling: A beautiful forgotten summer memory captured on an old family camcorder — warm, imperfect, intimate and genuinely magical.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.2s · 30 fps |
+| Resolution / Ratio | 720p · 16:9 |
+| Audio mode | mixed (audio=True) |
+
+[Original source](https://x.com/SimplyAnnisa/status/2125803088523231600) · Creator: [@SimplyAnnisa](https://x.com/SimplyAnnisa) · 2026-11-26
+
+> 视频使用 MAGI-2 为作者自述，未经独立核实。X 原视频：https://video.twimg.com/amplify_video/2125802938547458048/vid/avc1/1280x720/xdVP3WemubjjjiHF.mp4?tag=29
+
+[Case page](cases/cms-f0dfcc77/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-f0dfcc77&utm_term=en)**
+
+---
+
+<a id="case-cms-ec76a653"></a>
+
+#### 23. 兄妹争夺最后一个餐包
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+Style: High-energy hand-drawn action anime 20-second spectacular hand-drawn anime comedy. Two adult siblings, a woman with short b…
+
+<a href="https://awesome.raphael.app/materials/71f71f91-5656-4ed9-8c55-d109e6e87c47.mp4"><img src="assets/examples/cms-ec76a653/preview.jpg" alt="Preview still frame from 兄妹争夺最后一个餐包 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/71f71f91-5656-4ed9-8c55-d109e6e87c47.mp4)**
+
+<details><summary><strong>Full Structured Prompt (1350 chars)</strong></summary>
+
+```text
+Style: High-energy hand-drawn action anime
+20-second spectacular hand-drawn anime comedy. Two adult siblings, a woman with short black hair wearing a burgundy sweater and a man with messy brown hair wearing a green sweater, notice the final golden dinner roll at the Thanksgiving table. Treat their competition with the intensity of an epic anime confrontation.
+00:00–00:02: Extreme close-up of a single golden dinner roll beneath a dramatic shaft of light.
+00:02–00:04: Split-screen close-up of both siblings' eyes widening simultaneously.
+00:04–00:06: Dynamic low-angle shot as both reach toward the breadbasket.
+00:06–00:08: Slow-motion close-up of their fingertips approaching the roll from opposite directions.
+00:08–00:10: Overhead shot with dramatic anime speed lines surrounding the table.
+00:10–00:12: Their fingers almost touch the roll.
+00:12–00:14: A third hand calmly enters the frame and takes it.
+00:14–00:17: Reverse shot revealing their cheerful grandfather casually eating the roll.
+00:17–00:20: Both siblings stare in complete disbelief as he asks, "What?"
+Maintain identical anime character designs, coherent hand positions, table geography and screen direction. Elaborate action framing, exaggerated anticipation and an abrupt comedic contrast. SFX: dramatic whooshes, heartbeat, bread crunch and synchronized dialogue. No music.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 20.3s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | mixed (audio=True) |
+
+[Original source](https://x.com/airina_xyz/status/2125789673348034738) · Creator: [@airina_xyz](https://x.com/airina_xyz) · 2026-11-26
+
+> 视频使用 MAGI-2 为作者自述，未经独立核实。X 原视频：https://video.twimg.com/amplify_video/2125789643451039744/vid/avc1/1920x1080/qGYv4hWO5gD-p6rE.mp4?tag=16
+
+[Case page](cases/cms-ec76a653/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-ec76a653&utm_term=en)**
+
+---
+
 <a id="case-cms-e5251a4a"></a>
 
-#### 17. 雨伞与咖啡的无声喜剧
+#### 24. 雨伞与咖啡的无声喜剧
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1912,9 +2345,71 @@ FOCUS: deadpan physical comedy, effortless luck, chaos happening around a calm g
 
 ---
 
+<a id="case-cms-e4f16f6e"></a>
+
+#### 25. 穿过婚宴大厅的飞镖
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+SCENE CONTEXT One continuous 30-second chase shot through a wedding banquet hall at , running from the head table, down the 2.5-me…
+
+<a href="https://awesome.raphael.app/materials/27789327-3870-40e3-b5b9-06f69b670488.mp4"><img src="assets/examples/cms-e4f16f6e/preview.jpg" alt="Preview still frame from 穿过婚宴大厅的飞镖 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/27789327-3870-40e3-b5b9-06f69b670488.mp4)**
+
+<details><summary><strong>Full Structured Prompt (9838 chars)</strong></summary>
+
+```text
+SCENE CONTEXT
+One continuous 30-second chase shot through a wedding banquet hall at , running from the head table, down the 2.5-meter aisle between the round tables, past the stage, to the dessert table at the far end where a bullseye cake stands 1.15 meters off the floor. The bride in @Image1 stands at the aisle mouth. The flight line runs along the aisle's center axis at 1.15 meters.
+
+ACTIVE REFERENCES
+@Image1 (thrower) = The bride — face, hair and build 100% match the reference. She wears an ivory silk gown; the gown replaces the outfit in the reference. Reference pose, background and lighting are not inherited.
+
+LOCATION MAP
+Foreground: dark parquet dance floor with an ivory aisle runner.
+Midground: eight round tables per side in ivory linen with gold chargers, wine-red napkins and tall floral centrepieces; a champagne tower on the left; crystal chandeliers hanging at 4 meters.
+Background: the stage with a red-and-ivory floral arch, the dessert table with the bullseye cake, and 300 guests falling away into warm bokeh.
+The camera runs on the aisle's center axis at 1.15 meters. Chandeliers at 2800K, stage wash at 3200K, a 5600K rim from the hall's rear windows for separation.
+
+FIRST FRAME / BLOCKING
+A stable shot from behind and just over the left shoulder of @Image1 standing at the aisle mouth, her veil and the back of her head filling the left third of the frame. Her right hand is raised beside her head with a small silver dart between two fingers, tip pointing down the aisle. Ahead on the right, a waiter in a black waistcoat walks away from camera with a tray. A flower girl is already running across the aisle 20 meters ahead. 300 guests are already moving, toasting and turning in their seats from frame one.
+
+FORMAT MODE
+One continuous shot, the camera does not cut on its own. Real-time speed throughout.
+
+OPTICS
+Rectilinear lens. FOV per segment, no drift mid-segment: 0–3s at 47°, 3–30s at 63°. The dart stays in sharp focus; background focus pulls to the next target as the dart nears it. Natural motion blur.
+
+CAMERA
+At the release the camera swings forward past her hand and settles 45 centimeters behind the dart's tail and 10 centimeters above its line, matc
+
+... [truncated in root README; open standalone case page for full prompt]
+```
+
+[Read complete 9838-char prompt →](cases/cms-e4f16f6e/README.md)
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.2s · 25 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | mixed (audio=True) |
+
+[Original source](https://x.com/VeraVCreates/status/2126127498358649073) · Creator: [@VeraVCreates](https://x.com/VeraVCreates) · 2026-11-27
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[Case page](cases/cms-e4f16f6e/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-e4f16f6e&utm_term=en)**
+
+---
+
 <a id="case-cms-df2a04e9"></a>
 
-#### 18. 微型运动员的体育商店冒险
+#### 26. 微型运动员的体育商店冒险
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -1970,9 +2465,139 @@ NEGATIVE: No cartoon, anime, toy-like appearance, animation, duplicated characte
 
 ---
 
+<a id="case-cms-c8128797"></a>
+
+#### 27. 差点错过航班的动画旅程
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+Create a fast-paced, cinematic 30-second animated travel adventure following a young woman who nearly misses her flight. STORY FLO…
+
+<a href="https://awesome.raphael.app/materials/01526aa2-ec0c-41ff-b619-49d6bc6f0ece.mp4"><img src="assets/examples/cms-c8128797/preview.jpg" alt="Preview still frame from 差点错过航班的动画旅程 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/01526aa2-ec0c-41ff-b619-49d6bc6f0ece.mp4)**
+
+<details><summary><strong>Full Structured Prompt (1845 chars)</strong></summary>
+
+```text
+Create a fast-paced, cinematic 30-second animated travel adventure following a young woman who nearly misses her flight.
+
+STORY FLOW: She wakes up late to a blaring alarm, scrambles out of bed, gets ready in a hurry, brushes her teeth, fixes her hair, and grabs a quick coffee. After changing into a casual crop top and shorts, she packs her handbag, grabs her passport, and rushes out with her rolling suitcase.
+
+A taxi speeds through rainy city streets as she watches the clock anxiously. At the airport, she races through the terminal, checks the departure screens, completes check-in and security, and sprints toward her boarding gate. Just as boarding is about to close, she makes it onto the plane.
+
+Inside, she finally relaxes by the window, watching the glowing city disappear beneath the clouds. The final sequence shows her arriving at a hotel late at night, dragging her suitcase into the room, collapsing onto the bed, and giving the camera a sleepy, relieved smile before falling asleep.
+
+VISUAL DIRECTION: Premium 3D animated feature-film quality, expressive facial animation, detailed environments, cinematic lighting, lively character movements, dramatic camera angles, quick tracking shots, overhead compositions, whip pans, dynamic close-ups, and creative match cuts. Build tension during the airport rush and transition into slower, peaceful shots during the flight and hotel arrival.
+
+EDITING: 30 distinct shots with rhythmic, beat-matched transitions at 145 BPM. Maintain clear storytelling, smooth scene continuity, and consistent character appearance, hairstyle, and proportions.
+
+TECHNICAL: 30 seconds, 4K, 24fps, 16:9 widescreen.
+
+NEGATIVE: No subtitles, text overlays, logos, watermarks, duplicate characters, distorted faces, inconsistent outfits, flickering, unnatural physics, stiff animation, or abrupt scene jumps.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.3s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | music (audio=True) |
+
+[Original source](https://x.com/mehvishs25/status/2125933866666037271) · Creator: [@mehvishs25](https://x.com/mehvishs25) · 2026-11-26
+
+> 视频使用 MAGI-2 为作者自述，未经独立核实。X 原视频：https://video.twimg.com/amplify_video/2125932962483253248/vid/avc1/1920x1080/o7-txaR8aUHpWMaz.mp4?tag=29
+
+[Case page](cases/cms-c8128797/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-c8128797&utm_term=en)**
+
+---
+
+<a id="case-cms-977d291c"></a>
+
+#### 28. 非洲草原上的猎豹追逐
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+One CONTINUOUS FPV drone shot, no cuts, one unbroken take, EXTREME real-time speed. The footage NEVER reverses or plays backward.…
+
+<a href="https://awesome.raphael.app/materials/43dc7333-d8e1-4c24-bcc1-fa3eefd2ae74.mp4"><img src="assets/examples/cms-977d291c/preview.jpg" alt="Preview still frame from 非洲草原上的猎豹追逐 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/43dc7333-d8e1-4c24-bcc1-fa3eefd2ae74.mp4)**
+
+<details><summary><strong>Full Structured Prompt (3873 chars)</strong></summary>
+
+```text
+One CONTINUOUS FPV drone shot, no cuts, one unbroken take, EXTREME real-time speed. The footage NEVER reverses or plays backward. NO slow motion except one half-second beat at the reveal, then an instant snap back to full speed. Photoreal point-blank FPV framing. GROUND LOCK: the animals stay on the ground at all times — NOTHING rises into the sky, ever. The camera flies LOW, at grass and knee height, its only altitude change one downward drop off the riverbank. NO ESCAPE, no fade to black — the take runs until time runs out, still inside the chaos.
+
+CINEMATIC CAPTURE: real FPV drone footage — ultra-wide 14mm lens, barrel distortion, 180-degree shutter, heavy motion blur on fast pans, fine 35mm grain, lens flares off the low sun, dust and water hitting the lens. Golden-hour light under a bruised storm sky, one shaft of low gold raking the plain, a living savannah, herds and birds throughout. Grade: dry ochre and bleached gold, documentary contrast — the texture of a BBC nature documentary from a racing drone, NOT a game engine, NOT animation.
+
+The shot opens ALREADY at full speed, skimming grass tips inches behind a sprinting cheetah at 110 km/h, claws throwing dirt at the lens. Ahead — seen ONLY from behind and flank, NEVER its face — an impala jinks hard right; the camera BANKS 90 degrees with it, tearing sideways through grass as guinea fowl burst around the lens. The impala zigzags; the camera snaps left, right, left with each cut, the cheetah's shoulder filling frame. Ahead a zebra herd grazes; the two tear into it and the herd EXPLODES — zebras rear, wheel and bolt in every direction, throwing a wall of dust. The camera stays LOW and threads THROUGH the stampede at knee height, swerving between hammering legs and striped bodies, dust raking the lens, then bursts out the far side back onto the cheetah's tail. Ahead a SHALLOW RIVER CHANNEL cuts the plain — muddy water, black mud. The impala plunges in; the camera drops VERTICALLY off the bank lip after it, out across the water, spray hitting the lens. THE ENTIRE CLIMAX HAPPENS HERE, IN THE WATER AND MUD — the channel never leaves frame. THE REVEAL: half-second slow motion — the cheetah at full stretch in its final lunge, low and flat over the shallows, claws out, seen from behind — then an INSTANT SNAP back to full speed. The paw hooks the flank at an angle; both crash sideways into the shallows, muddy water erupting, the camera driving THROUGH the splash, orbiting tight and low as they thrash, bodies soaked black. The jaws lock; the cheetah drags the kill through the mud, water streaming off its coat, the camera circling recklessly close. It plants its feet in the water over the body, flanks heaving with ragged open-mouthed panting, and lets rip a HIGH, PIERCING CHEETAH YOWL — a rasping chirp-scream breaking into a snarl and hiss, teeth bared, NOT a lion's roar. Vultures drop past the lens, the zebra herd stampedes on the far bank, the camera still arcing around the soaked, snarling cheetah as the runtime runs out mid-chaos.
+
+Sound: a howling wall of grass-rush and wind pitching with every bank and drop, stampeding hooves, a driving score — dropping to one held breath of near-silence at the slow-motion reveal, then a MASSIVE concussive water impact, then sustained escalating chaos: thrashing water, ragged panting, hissing snarls, the piercing yowl, vulture wings, herd thunder, the score building to the final frame.
+
+Global style lock: photoreal cinematic FPV; the camera stays low, the animals stay grounded, nothing rises into the sky; the climax escalates rather than resolves, no directed ending; the prey NEVER turns to face the predator or camera while running; EVERY background animal REACTS and keeps moving — nothing stands still as the chase passes; the river persists through the climax; no lion roar; no distortion, no subtitles, no watermarks.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 20.4s · 30 fps |
+| Resolution / Ratio | 720p · 2.35:1 |
+| Audio mode | music (audio=True) |
+
+[Original source](https://x.com/abulu8/status/2125537498659225849) · Creator: [@abulu8](https://x.com/abulu8) · 2026-11-25
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[Case page](cases/cms-977d291c/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-977d291c&utm_term=en)**
+
+---
+
+<a id="case-cms-974b571c"></a>
+
+#### 29. 深夜例行检查
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+16:9, 12 seconds, chest-mounted bodycam, wide fisheye lens with edge distortion, slightly overexposed highlights, compression arti…
+
+<a href="https://awesome.raphael.app/materials/3f869d36-19f3-45ad-96b9-e85cd79ad069.mp4"><img src="assets/examples/cms-974b571c/preview.jpg" alt="Preview still frame from 深夜例行检查 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/3f869d36-19f3-45ad-96b9-e85cd79ad069.mp4)**
+
+<details><summary><strong>Full Structured Prompt (865 chars)</strong></summary>
+
+```text
+16:9, 12 seconds, chest-mounted bodycam, wide fisheye lens with edge distortion, slightly overexposed highlights, compression artifacts, timestamp overlay in the corner reading 23:14:08. Setting: a dark suburban street at night, one flickering streetlight, a parked sedan with its engine running, breath fogging in the cold. 0-4s: The camera sways with walking steps toward the car, flashlight beam sweeping across the rear window, radio chatter crackling. 4-8s: The beam lands on the driver, a man in his 40s in a gray hoodie, who keeps his hands on the wheel and says, "I didn't do anything, man." Camera stays steady, hand briefly entering frame. 8-11s: The man's hands slowly rise off the wheel and his eyes flick to the passenger seat. 11-12s: The footage cuts abruptly to black. Audio: radio static, boots on asphalt, idling engine, tense breathing, no music.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 12.4s · 30 fps |
+| Resolution / Ratio | 360p · 16:9 |
+| Audio mode | mixed (audio=True) |
+
+[Original source](https://x.com/weiinberg/status/2125873134322733507) · Creator: [@weiinberg](https://x.com/weiinberg) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[Case page](cases/cms-974b571c/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-974b571c&utm_term=en)**
+
+---
+
 <a id="case-cms-92e103f1"></a>
 
-#### 19. 蒸汽朋克城市的循环镜头
+#### 30. 蒸汽朋克城市的循环镜头
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2019,7 +2644,7 @@ The elegant Victorian woman stands in the foreground admiring the city, but noth
 
 <a id="case-cms-9011c6c1"></a>
 
-#### 20. 木精灵女王唤醒森林
+#### 31. 木精灵女王唤醒森林
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2065,7 +2690,7 @@ THE YOUNGLING, a newborn sapling sprite without a sheet, designed in the same 3D
 
 <a id="case-cms-889ad968"></a>
 
-#### 21. 终点线上的毫秒之争
+#### 32. 终点线上的毫秒之争
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2123,9 +2748,81 @@ AVOID: Slow motion, crashes, fire, blood, real car brand logos, cartoon look, sl
 
 ---
 
+<a id="case-cms-830f5f4b"></a>
+
+#### 33. 末班列车的丧尸危机
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+TITLE: THE LAST TRAIN HOME. Create a 30-second ultra-realistic live-action Korean zombie-apocalypse horror sequence. The protagoni…
+
+<a href="https://awesome.raphael.app/materials/6bc36a7a-5b24-4d40-835c-b868df74c3f6.mp4"><img src="assets/examples/cms-830f5f4b/preview.jpg" alt="Preview still frame from 末班列车的丧尸危机 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/6bc36a7a-5b24-4d40-835c-b868df74c3f6.mp4)**
+
+<details><summary><strong>Full Structured Prompt (2740 chars)</strong></summary>
+
+```text
+TITLE: THE LAST TRAIN HOME. Create a 30-second ultra-realistic live-action Korean zombie-apocalypse horror sequence. The protagonist is the same beautiful young adult Korean university student throughout: long straight black hair, natural Korean facial features, fitted white blouse, dark pleated skirt, black knee-high socks and casual sneakers. Preserve her exact face, hairstyle, body proportions and clothing. 00:00–00:04: Wide cinematic shot of an underground Seoul subway platform late evening. Fluorescent lights flicker, a few passengers wait silently. The girl rushes down the stairs clutching her backpack, looks behind her, terrified. A distant emergency announcement echoes. 00:04–00:08: She notices a male passenger standing motionless beside a vending machine, head tilted unnaturally, dark liquid at his mouth, fingers twitching. She steps backward. 00:08–00:12: He violently turns and charges. She screams and dodges; he crashes into the vending machine, drinks scatter, passengers flee. 00:12–00:17: A subway train arrives with metallic screech. She runs inside as terrified passengers push past. In the train window reflection, infected figures sprint down the platform. Doors close as infected passengers slam their hands against the glass. 00:17–00:22: Train moves. She collapses into a seat gasping. Across the carriage, an elderly passenger sits motionless staring at her. A child beside him points toward her backpack. 00:22–00:26: She turns. Her backpack moves by itself; scratching comes from inside. She unzips it slightly and a bloodied infected hand reaches out. She recoils. The elderly passenger raises his head, revealing completely black eyes. 00:26–00:30: Carriage lights switch off one by one. Emergency red lights illuminate her terrified face. She looks toward camera. Her nose bleeds, black veins spread from wrist toward neck, eyes turn completely black. She lunges directly toward camera. CUT TO BLACK. Native realistic audio: subway ambience, distant Korean announcements, footsteps, electrical buzzing, subway braking, door chimes, glass impacts, screams, heavy breathing, metallic rattling, infected growls, sudden silence. No background music. Photorealistic Korean zombie-horror movie, cinematic live action, practical infection makeup, detailed skin, realistic expressions and body movement, handheld camera, subway lighting, dramatic shadows, motion blur, suspenseful pacing, cinematic color grading. Negative: anime, cartoon, illustration, plastic skin, artificial CGI, excessive gore, graphic dismemberment, duplicated characters, face morphing, changing clothes, inconsistent identity, distorted anatomy, extra limbs, floating objects, impossible physics, subtitles, text, logos, watermarks.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.2s · 60 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | sfx (audio=True) |
+
+[Original source](https://x.com/oggii_0/status/2125849409078645150) · Creator: [@oggii_0](https://x.com/oggii_0) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[Case page](cases/cms-830f5f4b/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-830f5f4b&utm_term=en)**
+
+---
+
+<a id="case-cms-81c6ef3d"></a>
+
+#### 34. 盲剑客与红伞少女
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+Create a 15-second cinematic 2D animated dark-folklore sequence featuring a blind swordsman, a mysterious girl with a crimson umbr…
+
+<a href="https://awesome.raphael.app/materials/e9f449c4-7dbd-4581-8fcc-ebdf5556ac1c.mp4"><img src="assets/examples/cms-81c6ef3d/preview.jpg" alt="Preview still frame from 盲剑客与红伞少女 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/e9f449c4-7dbd-4581-8fcc-ebdf5556ac1c.mp4)**
+
+<details><summary><strong>Full Structured Prompt (519 chars)</strong></summary>
+
+```text
+Create a 15-second cinematic 2D animated dark-folklore sequence featuring a blind swordsman, a mysterious girl with a crimson umbrella, and an ancient shadow creature. Set in a rain-soaked Japanese village with hand-painted gouache textures, bold silhouettes, and a dark midnight-blue palette. The story unfolds through atmospheric camera movements, supernatural shadows, a dramatic katana strike, and an unexpected final twist. Maintain consistent characters, fluid 2D animation, and cinematic sound design throughout.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 15.1s · 60 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | sfx (audio=True) |
+
+[Original source](https://x.com/oggii_0/status/2125791629982437711) · Creator: [@oggii_0](https://x.com/oggii_0) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[Case page](cases/cms-81c6ef3d/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-81c6ef3d&utm_term=en)**
+
+---
+
 <a id="case-cms-6f1b1086"></a>
 
-#### 22. 放下弓的重逢
+#### 35. 放下弓的重逢
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2215,9 +2912,53 @@ ONLY natural breathing, footsteps, clothing movement, wind, birds chirping and s
 
 ---
 
+<a id="case-cms-4c951e7f"></a>
+
+#### 36. 无人机飞越恐龙世界
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+One single CONTINUOUS FPV drone shot, no cuts, one unbroken take. EXTREME real-time speed, relentless. Only ever moves forward in…
+
+<a href="https://awesome.raphael.app/materials/cfcee1cd-4760-48e2-8e5d-47bf3dd7b572.mp4"><img src="assets/examples/cms-4c951e7f/preview.jpg" alt="Preview still frame from 无人机飞越恐龙世界 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/cfcee1cd-4760-48e2-8e5d-47bf3dd7b572.mp4)**
+
+<details><summary><strong>Full Structured Prompt (4404 chars)</strong></summary>
+
+```text
+One single CONTINUOUS FPV drone shot, no cuts, one unbroken take. EXTREME real-time speed, relentless. Only ever moves forward in time — never loops or reverses. NO slow motion except one half-second beat at the reveal, then an instant snap back to full velocity. THE CLIP DOES NOT END IN AN ESCAPE OR EXIT, and there is no fade or cut to black — the take simply runs continuously until time runs out, still inside the chaos.
+
+CINEMATIC CAPTURE: shot as real FPV drone footage on a cinema camera — ultra-wide FPV lens (12–16mm) with subtle barrel distortion at the frame edges, 180-degree shutter with natural heavy motion blur on fast pans, shallow organic depth of field close to the creatures, fine 35mm film grain, subtle chromatic aberration, real lens flares through the canopy gaps, mud flecks briefly contaminating the lens, humid haze softening the deep forest. Early golden-hour light — low sun shafting through the redwood canopy in broken beams. Cinematic color grade: rich jungle greens and warm earth tones, gold highlights only in the sun shafts, lifted blacks, documentary contrast — the texture of a BBC prehistoric-wildlife documentary shot from a racing drone, NOT a game engine, NOT animation.
+
+The flight launches already diving steeply from high above a fern-choked prehistoric canyon at full speed — no calm start — a flight of leathery pterosaurs wheeling far below over the canopy. It punches down through the canopy in a hard vertical breach, bursting through startled flocks of small darting birds that scatter off the branches, banking a full 90° to thread between redwood trunks at ground level, dragonflies flicking through the light shafts. The forest opens into a muddy floodplain where the <<<image_2>>> Thunder-Herd erupts alongside in full charge; the camera corkscrews low between their charging bodies, skimming mud, small scurrying creatures bolting from the herd's path into the ferns. Ahead, the tree line EXPLODES as <<<image_1>>> the Tyrannosaur bursts through at a hard lateral angle, jaws opening wide toward the lens — the single slow-motion beat, teeth and saliva frozen, the herd scattering, every bird in the canopy lifting off at once in a single pani
+
+... [truncated in root README; open standalone case page for full prompt]
+```
+
+[Read complete 4404-char prompt →](cases/cms-4c951e7f/README.md)
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.3s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | music (audio=True) |
+
+[Original source](https://x.com/abulu8/status/2125373412910747712) · Creator: [@abulu8](https://x.com/abulu8) · 2026-11-24
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[Case page](cases/cms-4c951e7f/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-4c951e7f&utm_term=en)**
+
+---
+
 <a id="case-cms-4497bbed"></a>
 
-#### 23. 霓虹赛道上的赛车广告
+#### 37. 霓虹赛道上的赛车广告
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2286,9 +3027,55 @@ Dark studio, symmetrical top-down view from front-above, 50-70mm. The camera slo
 
 ---
 
+<a id="case-cms-3e3de801"></a>
+
+#### 38. 猎豹冲下碎石坡
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+One CONTINUOUS FPV drone shot, no cuts, one unbroken take, EXTREME real-time speed. Never reverses. NO slow motion except one half…
+
+<a href="https://awesome.raphael.app/materials/d200690a-2486-425f-870b-30b410e31ca7.mp4"><img src="assets/examples/cms-3e3de801/preview.jpg" alt="Preview still frame from 猎豹冲下碎石坡 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/d200690a-2486-425f-870b-30b410e31ca7.mp4)**
+
+<details><summary><strong>Full Structured Prompt (3793 chars)</strong></summary>
+
+```text
+One CONTINUOUS FPV drone shot, no cuts, one unbroken take, EXTREME real-time speed. Never reverses. NO slow motion except one half-second beat at the reveal, then an instant snap back to full speed. Photoreal point-blank framing. DOWNHILL LOCK: the whole chase runs DOWN the mountainside, top to bottom — NOTHING rises into the sky, ever. The camera flies LOW, inches off rock and scree, and its every altitude change is a DROP, ledge after ledge down to the gully. NO ESCAPE, no fade to black.
+
+REFERENCES: terrain and route = @Image1 (cliff ledges, scree chute, snow gully). Snow leopard = @Image4, blue sheep = @Image2, ibex = @Image3 — animals' look only, no grey backdrops, no labels.
+
+CINEMATIC CAPTURE: real FPV drone footage — ultra-wide 14mm lens, barrel distortion, 180-degree shutter, heavy motion blur on fast pans, fine grain, lens flares, grit and snow hitting the lens. Golden-hour light under a bruised storm sky, one low gold shaft raking the cliffs. Grade: slate, ochre and snow-white, documentary contrast — BBC nature documentary from a racing drone, NOT a game engine.
+
+The shot opens ALREADY at full speed on the golden cliff ledges, skimming rock inches behind the snow leopard as it tears along a narrow ledge, ringed tail swinging for balance. Ahead — seen ONLY from behind and flank, NEVER its face — the blue sheep bolts along the ledge and DROPS off its edge to the ledge below; the leopard drops after it and the camera DIVES with them, ledge after ledge, choughs scattering around the lens. The sheep hits the top of the scree chute and plunges straight down it; the leopard follows, and the camera tips into a VERTICAL DIVE down the chute behind them, loose stones breaking free and pouring down alongside in a growing rockslide. On the grassy slope beside the chute an ibex herd — a few big curved-horn males, females and young, close to the lens — bolts sideways away from the falling rocks, the camera swerving past their flanks and back onto the leopard's tail. The chute pours out into the snow gully. THE ENTIRE CLIMAX HAPPENS HERE, IN THE SNOW AND STREAM. THE REVEAL: half-second slow motion — the snow leopard at full stretch in its final lunge, low and flat over the snow, huge furry paws out, seen from behind — then an INSTANT SNAP back to full speed. The paws hook the sheep's flank at an angle; both crash sideways into the snow and the stream, powder and water erupting, the camera driving THROUGH the burst, orbiting tight and low as they thrash. The jaws lock at the throat; the leopard pins the sheep, the camera circling recklessly close. It plants its feet over the body, flanks heaving, breath steaming, and lets rip a RASPING SNOW LEOPARD YOWL — a harsh wail breaking into a snarl and hiss, teeth bared, NOT a lion's roar. The rockslide's tail spills into the gully around them, a bearded vulture drops past the camera, the ibex herd scrambles across the far slope, the camera arcing around the snarling leopard as the runtime runs out mid-chaos.
+
+Sound: howling wind pitching with every drop, clattering scree, a rumbling rockslide, a driving score — dropping to one breath of near-silence at the slow-motion reveal, then a MASSIVE concussive snow-and-water impact, then sustained escalating chaos: thrashing snow and water, ragged panting, snarls, the rasping yowl, ibex hooves, vulture wings, the score building to the final frame.
+
+Global style lock: photoreal cinematic FPV; the chase only goes DOWN, nothing rises into the sky; the climax escalates rather than resolves, no directed ending; the blue sheep NEVER turns to face the predator or camera while running; EVERY background animal REACTS and keeps moving as the chase passes; the gully persists through the climax; no lion roar, no distortion, no subtitles, no watermarks. 16:9.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 15.3s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | music (audio=True) |
+
+[Original source](https://x.com/abulu8/status/2125719013473014266) · Creator: [@abulu8](https://x.com/abulu8) · 2026-11-25
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[Case page](cases/cms-3e3de801/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-3e3de801&utm_term=en)**
+
+---
+
 <a id="case-cms-2b0ce4a1"></a>
 
-#### 24. 穿过屏幕隧道的动画街景
+#### 39. 穿过屏幕隧道的动画街景
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2360,9 +3147,155 @@ The upper screens gradually enclose into an incomple
 
 ---
 
+<a id="case-cms-2056663c"></a>
+
+#### 40. 雨夜街头的机甲对决
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+A cinematic ultra-realistic battle in a rain-soaked futuristic city at night. A sleek silver humanoid combat robot with glowing bl…
+
+<a href="https://awesome.raphael.app/materials/45c06fe2-29ce-47a8-891d-f850b0cc7465.mp4"><img src="assets/examples/cms-2056663c/preview.jpg" alt="Preview still frame from 雨夜街头的机甲对决 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/45c06fe2-29ce-47a8-891d-f850b0cc7465.mp4)**
+
+<details><summary><strong>Full Structured Prompt (778 chars)</strong></summary>
+
+```text
+A cinematic ultra-realistic battle in a rain-soaked futuristic city at night. A sleek silver humanoid combat robot with glowing blue eyes faces a massive mechanical beast made of dark industrial metal. Heavy rain falls through neon reflections on the wet street. The two machines sprint toward each other, leap simultaneously, collide in mid-air, exchange several fast mechanical strikes, then slide across the wet pavement and rise into a dramatic final face-off. Realistic metal surfaces, detailed mechanical joints, believable weight and physics, dynamic handheld camera, low-angle tracking shots, fast cinematic cuts, dramatic rim lighting, volumetric rain, sharp reflections, intense but non-graphic action, ultra HD, 1080p, extremely sharp colors, cinematic realism, 16:9.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 17.4s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | sfx (audio=True) |
+
+[Original source](https://x.com/VirgowatiShema/status/2125794173051953252) · Creator: [@VirgowatiShema](https://x.com/VirgowatiShema) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[Case page](cases/cms-2056663c/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-2056663c&utm_term=en)**
+
+---
+
+<a id="case-cms-14d99ace"></a>
+
+#### 41. 女孩与猫滑过纽约
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+Create a cinematic semi-realistic anime sequence using my uploaded girl reference as the exact character identity source; preserve…
+
+<a href="https://awesome.raphael.app/materials/838f4559-6e7a-41d1-9d58-7629f8876b05.mp4"><img src="assets/examples/cms-14d99ace/preview.jpg" alt="Preview still frame from 女孩与猫滑过纽约 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/838f4559-6e7a-41d1-9d58-7629f8876b05.mp4)**
+
+<details><summary><strong>Full Structured Prompt (3704 chars)</strong></summary>
+
+```text
+Create a cinematic semi-realistic anime sequence using my uploaded girl reference as the exact character identity source; preserve her face, hairstyle, skin tone and body proportions throughout every shot.
+
+She wears a sporty red-and-white skirt with integrated shorts, a fitted white top with red detailing, dark blue Nike sneakers, a beige "Cool" cap, dark blue backpack, black digital watch and headphones around her neck.
+
+Include the same cute small ginger-and-white fluffy cat with amber eyes, maintaining realistic house-cat proportions at the girl's shin/lower-calf height. Keep both characters visually consistent throughout the sequence.
+
+Set the entire story across a vibrant, bustling New York City, featuring Times Square, Broadway, Manhattan skyscrapers, Brooklyn Bridge, yellow NYC taxis, subway entrances, brick buildings, street vendors, traffic lights, graffiti-covered walls and crowded sidewalks.
+
+The girl aggressively skateboards through the streets of Manhattan at extreme speed while the cat races alongside her, naturally weaving between pedestrians, taxis and street obstacles without falling behind.
+
+Use dynamic low ground-level chase-cam cinematography, fast tracking shots, aggressive whip-pans, punchy hard cuts, wheel-level close-ups and subtle handheld micro-shake.
+
+She races through Times Square, dodging yellow taxis and crossing pedestrians. As she passes a busy street coffee cart, she reaches out and grabs a takeaway coffee without slowing down. She takes a quick sip while maintaining perfect balance on her skateboard, then casually flicks the empty cup into a nearby trash bin as she speeds away.
+
+The cat follows closely, jumping over a small street obstacle and landing smoothly beside her.
+
+She suddenly spots a graffiti-covered wall near a narrow alley. Without hesitation, she accelerates, rides up the wall and performs an explosive skateboard wall jump. The cat leaps beside her in perfect synchronization. Both land together and immediately continue at full speed.
+
+Cut seamlessly to Brooklyn Bridge. The girl races along the pedestrian-side pathway, weaving past cyclists and tourists, with the Manhattan skyline and East River visible in the background. Use dramatic sweeping camera movements and dynamic aerial tracking shots.
+
+She launches her skateboard over a series of street obstacles, performs a stylish mid-air kickflip, lands smoothly and continues toward the waterfront.
+
+Transition into an industrial Brooklyn area featuring elevated subway tracks, steel bridges, warehouses, construction zones, rooftop structures and graffiti-covered tunnels.
+
+She ollies onto a low industrial rail, grinds across it, crouches beneath a steel bridge and races alongside a passing subway train. The cat keeps pace beside her, jumping over obstacles with impressive agility.
+
+As the subway train pulls away, she accelerates toward an elevated steel platform and launches into an enormous synchronized jump with the cat.
+
+Final shot: Both characters leap from the elevated structure into a street-level parking area, performing a spectacular synchronized mid-air trick before landing smoothly. The girl continues riding forward while the cat runs beside her. End with a dramatic low-angle tracking shot revealing the New York skyline in the distance.
+
+Maintain premium anime-game splash-art quality, clean linework, painterly cel-shading, crisp character rendering, expressive animation, cinematic New York lighting, dynamic anime speed lines and fluid movement.
+
+Audio: Natural New York street ambience, skateboard wheels rolling, trucks grinding against rails, passing taxis, subway rumbling, city crowds and wind rushing during jumps. No background music.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.3s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | mixed (audio=True) |
+
+[Original source](https://x.com/AIwithSynthia/status/2125650088341246435) · Creator: [@AIwithSynthia](https://x.com/AIwithSynthia) · 2026-11-25
+
+> 视频使用 MAGI-2 为作者自述，未经独立核实。X 原视频：https://video.twimg.com/amplify_video/2125649995223445504/vid/avc1/1920x1080/UwMCb3sGTSLovz7m.mp4?tag=29
+
+[Case page](cases/cms-14d99ace/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-14d99ace&utm_term=en)**
+
+---
+
+<a id="case-cms-014fb4e5"></a>
+
+#### 42. 纽约深夜地铁惊魂
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+A young American woman wearing a black leather jacket, a denim skirt, and black boots waits alone on a nearly empty New York City…
+
+<a href="https://awesome.raphael.app/materials/b6eb47e2-575c-45b6-894d-71c4eb559773.mp4"><img src="assets/examples/cms-014fb4e5/preview.jpg" alt="Preview still frame from 纽约深夜地铁惊魂 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/b6eb47e2-575c-45b6-894d-71c4eb559773.mp4)**
+
+<details><summary><strong>Full Structured Prompt (1739 chars)</strong></summary>
+
+```text
+A young American woman wearing a black leather jacket, a denim skirt, and black boots waits alone on a nearly empty New York City subway platform late at night. The station has a gritty American urban atmosphere, with old tiled walls, metal benches, flickering fluorescent lights, and a few American commuters scattered across the platform.
+
+Suddenly, her eyes turn completely milky white, dark veins spread across her face, and she begins laughing uncontrollably. Her expression becomes increasingly disturbing. As a subway train approaches, she suddenly drops to all fours and crawls unnaturally toward terrified American passengers. People scream and desperately run away. One male commuter escapes into a narrow maintenance corridor, but she suddenly appears directly behind him, moving unnaturally while dragging her fingers along the walls. He turns around in terror as the station lights begin flickering violently. The lights completely go out as the last train pulls away. In the darkness, her two pale white eyes slowly appear inside the train's final rear window, staring directly into the camera.
+
+STYLE: Photorealistic American zombie horror, authentic New York City subway environment, cinematic 4K, realistic American-looking characters and passengers, handheld documentary-style camera, natural human movements, terrifying facial expressions, creepy uncontrollable laughter, flickering fluorescent lights, atmospheric shadows, realistic film grain, intense suspense and immersive horror sound design.
+
+NEGATIVE: Cartoon, anime, obvious CGI, excessive gore, unrealistic movements, inconsistent character appearances, changing outfits, distorted faces, subtitles, text, logos, or watermark. No background music, no narration.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.3s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | sfx (audio=True) |
+
+[Original source](https://x.com/john_my07/status/2125795305920880995) · Creator: [@john_my07](https://x.com/john_my07) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[Case page](cases/cms-014fb4e5/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-014fb4e5&utm_term=en)**
+
+---
+
 <a id="case-cms-f7ba0d44"></a>
 
-#### 25. 感恩节晚餐体育直播
+#### 43. 感恩节晚餐体育直播
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2408,7 +3341,7 @@ Maintain consistent family members, table geography, dish trajectories and natur
 
 <a id="case-cms-eeb1c07c"></a>
 
-#### 26. 摩天楼玻璃上的圣诞雪花
+#### 44. 摩天楼玻璃上的圣诞雪花
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2454,7 +3387,7 @@ Maintain consistent skyscraper geometry, platform construction, safety equipment
 
 <a id="case-cms-eaba3dd3"></a>
 
-#### 27. 迷你厨师做巨型早餐
+#### 45. 迷你厨师做巨型早餐
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2506,7 +3439,7 @@ IMPORTANT: Every scene must connect naturally to the next. Avoid sudden cuts, in
 
 <a id="case-cms-d53ca8bf"></a>
 
-#### 28. 雨天伦敦的连环闹剧
+#### 46. 雨天伦敦的连环闹剧
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2546,7 +3479,7 @@ Make this short, cinematic and entertaining, with seven fast-paced London sequen
 
 <a id="case-cms-ca066ab7"></a>
 
-#### 29. 海滨小城的意外英雄
+#### 47. 海滨小城的意外英雄
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2604,7 +3537,7 @@ Visual style: High-end Pixar-inspired 3D animation, expressive facial expression
 
 <a id="case-cms-be9dc2dd"></a>
 
-#### 30. 奶奶的感恩节秘方
+#### 48. 奶奶的感恩节秘方
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2650,7 +3583,7 @@ Maintain consistent characters, recipe-card appearance and kitchen layout. Drama
 
 <a id="case-cms-ba7672e8"></a>
 
-#### 31. 日式精致料理广告
+#### 49. 日式精致料理广告
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2692,7 +3625,7 @@ BGM: Sophisticated jazz mixed with rhythmic kitchen sounds, knife impacts, sizzl
 
 <a id="case-cms-b52d2b0b"></a>
 
-#### 32. 电梯里的第十三层
+#### 50. 电梯里的第十三层
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2750,7 +3683,7 @@ AVOID: Slow motion, horror, ghosts, monsters, blood, cartoon look, slideshow eff
 
 <a id="case-cms-a1baa303"></a>
 
-#### 33. 烛光餐厅的三场约会
+#### 51. 烛光餐厅的三场约会
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2802,7 +3735,7 @@ In frame only: Stella, Brad, Tony and the background diners. Every other table i
 
 <a id="case-cms-9f948804"></a>
 
-#### 34. 迷你工人的可口可乐工厂
+#### 52. 迷你工人的可口可乐工厂
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2864,7 +3797,7 @@ The camera slowly pulls backward and rises above the factory floor, revealing th
 
 <a id="case-cms-8868357e"></a>
 
-#### 35. 迷你女孩闯进体育用品店
+#### 53. 迷你女孩闯进体育用品店
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -2944,7 +3877,7 @@ No 3D rendering, photorealism, live-action, CGI, anime styling, character duplic
 
 <a id="case-cms-31031581"></a>
 
-#### 36. 给爸爸做松饼
+#### 54. 给爸爸做松饼
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -3000,7 +3933,7 @@ Negative: No distorted faces, extra fingers, flickering, scene jumps, subtitles,
 
 <a id="case-asics-gel-nimbus-ugc-ad"></a>
 
-#### 37. ASICS Gel Nimbus Vertical UGC Ad (9:16)
+#### 55. ASICS Gel Nimbus Vertical UGC Ad (9:16)
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -3091,9 +4024,46 @@ Finished ad direction: A genuine creator-style product recommendation with a str
 
 ### SFX, Music & Ambience
 
+<a id="case-cms-d2d8aa9f"></a>
+
+#### 56. 微型送货女孩闯纽约
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+Create a whimsical mixed-reality animation featuring a miniature hand-drawn 2D young woman with long black hair, a pink hoodie, de…
+
+<a href="https://awesome.raphael.app/materials/5eb34644-bc78-4a69-b6b7-fc6625c8dbfb.mp4"><img src="assets/examples/cms-d2d8aa9f/preview.jpg" alt="Preview still frame from 微型送货女孩闯纽约 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/5eb34644-bc78-4a69-b6b7-fc6625c8dbfb.mp4)**
+
+<details><summary><strong>Full Structured Prompt (1337 chars)</strong></summary>
+
+```text
+Create a whimsical mixed-reality animation featuring a miniature hand-drawn 2D young woman with long black hair, a pink hoodie, denim shorts, white sneakers, and a tiny red delivery backpack exploring a gigantic photorealistic New York street. She encounters a massive pedestrian crossing where passing cars create powerful gusts of wind that nearly blow her away, climbs onto a giant sneaker left on the pavement, slides down a newspaper stand, discovers a giant hot-dog cart where she narrowly escapes a rolling pickle, sails across a huge puddle using a discarded coffee cup lid as a boat, and gets lifted into the air by a gust of wind using her delivery bag as an improvised parachute. Finally, she lands on top of a giant pizza slice and celebrates triumphantly until a human hand suddenly picks up the slice, leaving her dangling in disbelief.
+Combine expressive hand-drawn 2D animation with photorealistic urban environments, exaggerated scale, playful physics, cinematic macro close-ups, smooth camera movements, and seamless mixed-media compositing. Include realistic city ambience, traffic, footsteps, car horns, street vendor sounds, water splashes, wind, and playful comedic sound effects. No dialogue. Ultra-detailed visuals, consistent character design, cinematic depth of field, and high-end commercial animation quality.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.3s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | mixed (audio=True) |
+
+[Original source](https://x.com/AIwithSynthia/status/2125574502285529485) · Creator: [@AIwithSynthia](https://x.com/AIwithSynthia) · 2026-11-25
+
+> 视频使用 MAGI-2 为作者自述，未经独立核实。X 原视频：https://video.twimg.com/amplify_video/2125574401056002049/vid/avc1/1920x1080/n56BFO-hjB3r4J7Z.mp4?tag=29
+
+[Case page](cases/cms-d2d8aa9f/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-d2d8aa9f&utm_term=en)**
+
+---
+
 <a id="case-cms-b6a12ce7"></a>
 
-#### 38. 醉仙翁大战三兄弟
+#### 57. 醉仙翁大战三兄弟
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -3211,7 +4181,7 @@ Community MAGI-2 video case (@abulu8): 醉仙翁大战三兄弟.
 
 <a id="case-cms-fb4c34de"></a>
 
-#### 39. 雨夜屋顶武侠短片
+#### 58. 雨夜屋顶武侠短片
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -3325,7 +4295,7 @@ Community MAGI-2 video case (@abulu8): 雨夜屋顶武侠短片.
 
 <a id="case-cms-5378ef28"></a>
 
-#### 40. 红帽女孩的冬日录像
+#### 59. 红帽女孩的冬日录像
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -3377,7 +4347,7 @@ Maintain identical facial features, clothing, hairstyle, and body proportions th
 
 <a id="case-neon-night-run-edm"></a>
 
-#### 41. Neon Night Run Music Video (128 BPM EDM)
+#### 60. Neon Night Run Music Video (128 BPM EDM)
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -3413,9 +4383,204 @@ Generate with full audio: a loud continuous EDM music soundtrack must play from 
 
 ### Cinematic & Animation
 
+<a id="case-cms-ae78a185"></a>
+
+#### 61. 复古武侠片
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+Community MAGI-2 video case (@abulu8): 复古武侠片.
+
+<a href="https://awesome.raphael.app/materials/72b2e161-6fbe-42a9-ad94-0b57eeb22fe6.mp4"><img src="assets/examples/cms-ae78a185/preview.jpg" alt="Preview still frame from 复古武侠片 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/72b2e161-6fbe-42a9-ad94-0b57eeb22fe6.mp4)**
+
+<details><summary><strong>Full Structured Prompt (4235 chars)</strong></summary>
+
+```text
+【全局前置设定：画质与质感】
+
+1970 年代香港武侠电影质感。Techniscope 2.35:1 宽银幕，褪色偏暖的 Eastmancolor 胶片色调，厚重的胶片颗粒，轻微的片门抖动与画面边缘暗角，偶尔出现细小的划痕与灰尘斑点。
+
+布景是那个年代的摄影棚质感：手绘的远山与晚霞背景板、夯实的黄土地面、木结构客栈、纸灯笼。暖色钨丝灯模拟黄昏，硬光、强轮廓光、人物脸上有明显的油彩妆感。
+
+所有特效都是实拍物理效果：吊威亚的腾跃、真实碎裂的木器、铁器撞击的火星、黄土扬尘。全片绝对没有能量光效、气功光、彩色剑气或数字特效。
+
+声音是那个年代的后期配音质感：兵器碰撞声、拳脚声略微过响、过干净；每一次重击配一记鼓点或锣声；急促的鼓点从第一帧贯穿到最后一帧，一刻不停。
+
+【柳寒霜·白衣女侠】
+
+成年东亚女性，身高 5 英尺 6 寸，身形修长挺拔，体态轻盈。黑色长发在头顶束成高髻，细长眉眼，那个年代的油彩妆容。白色交领长袍，蓝色宽腰带，袖口收紧，下摆宽大，腾跃时如花瓣展开。白色布鞋。手持细长直剑，深褐色木剑鞘，蓝色剑穗。
+
+她快、准、狠。出手幅度小，速度极快，以巧破力。全程神情冷静、专注。
+
+【熊霸天·黑衣山贼头目】
+
+成年东亚男性，身高 6 英尺 2 寸，体型魁梧厚重，肩宽背阔。光头，浓密的黑色络腮胡垂到胸口，粗眉，一颗金牙。黑色短打长袍镶金色滚边，敞胸，粗布腰带，黑色布靴。手持粗重铁棍，棍身黝黑，两端包铁。
+
+他凶、猛、重。每一棍都用尽全力，攻势一浪接一浪，砸到哪里哪里碎。
+
+【体型比例·必须严格遵守】
+
+柳寒霜 5 英尺 6 寸，熊霸天 6 英尺 2 寸。同框时柳寒霜的头顶只到熊霸天的下巴，熊霸天体宽是她的两倍。全程严格保持。
+
+【场景：黄昏客栈后院】
+
+荒野客栈的夯土后院。压实的黄土地面，散落干草与枯叶。一侧是两层木结构客栈，二楼有木栏杆回廊，深褐色木廊柱。院中有长木凳、木桌、木酒桶，墙角堆着一摞土陶酒坛。屋檐下一排红色纸灯笼。背景是手绘远山晚霞背景板。
+
+【可破坏结构】长木凳、木桌、酒桶、酒坛、回廊栏杆与栏柱、纸灯笼、木柱——全部可以被砸碎、踢飞、劈断、点燃。已损坏处永久保持。
+
+【刚性空间锚点】客栈、二楼回廊、木柱、墙角酒坛、远山背景板，全片绝不漂移、消失或改变数量。
+
+【全片从第一帧到最后一帧都是恶斗·必须严格遵守】
+
+第 0 帧两人已经在交手，兵器正在相撞。没有开场对峙、没有亮相、没有出鞘的仪式。
+
+第 0 秒到第 30 秒，两人的兵器始终在交击，任何一秒都不允许出现没有攻防的画面。最后一帧依然处在高速运动中。
+
+绝对禁止：对峙、凝视、慢慢走近、站着不动、单独的表情镜头、单独的反应镜头、僵持、蓄力、摆架势、慢动作、停顿、收剑、转身离开、结尾的静止画面、定格。
+
+变焦急推（crash zoom）只作为 0.3 秒的插入，插在两次交击之间，插完立刻回到打斗。
+
+每一招都有起手、轨迹、目标、接触反馈与收势；每一次移动都交代从哪里到哪里；每一次格挡都有火星、木屑、扬尘或身体后滑的真实反馈。
+
+【密度】全片每秒 6—8 次清晰的攻防状态变化，下方每段都写明了交击次数，必须全部打出来。速度快至巅峰，但不是快进，不用模糊残影掩盖动作。
+
+【伤害等级 0】无血、无伤口。凶狠体现为：衣袍被划破、兵器撞出火星、器物被砸碎、扬尘、被震退滑行。
+
+【胜负】柳寒霜赢。
+
+【对白规则】本片没有任何台词、对白、旁白或内心独白。所有文字都是画面说明，绝对不得念出、不得配音。
+
+【运镜·七十年代武侠语法】
+
+不使用现代手持晃动与 FPV。使用：横移跟拍跟随追打；腾跃时低角度仰拍；固定广角交代走位；0.3 秒的变焦急推插入作为节奏重音。
+
+近景与广角交替：每一段贴身快打之后立即切回广角让观众看清走位，绝不长时间停留在近景里。
+
+━━━━━━━━━━━━━━━━━━
+
+【0.0—3.0 秒｜开打·十次交击】
+
+第 0 帧：固定低角度广角，黄昏客栈后院正中央，熊霸天的铁棍正当头砸下，柳寒霜已经侧身让过——木凳被砸成两截，木屑飞溅。
+
+紧接着：她连刺三剑取胸口，他横棍连挡三下，三串火星；他回棍横扫腰际，她竖剑硬架，被震退半步；他扫堂棍扫脚踝，她翻身跃起越过铁棍；落地即反手一削，他仰身让过；他借仰身之势一棍上挑，她剑压棍头卸开。
+
+每一次碰撞配一记鼓点。
+
+【3.0—5.5 秒｜追打上廊·八次交击】
+
+横移跟拍。柳寒霜踩上酒桶借力，吊威亚跃上二楼回廊栏杆，白袍展开。
+
+熊霸天追到廊下向上连抡，她在栏杆顶上边跑边挡：一棍——她剑格开，栏柱断；二棍——她跳过，栏柱断；三棍——她踩住棍头借力，再断一根；四棍——她俯身反刺他肩头，他缩肩避开。灯笼被震落，在地上燃起小火。
+
+每断一根栏柱配一记锣声。
+
+【5.5—8.0 秒｜翻越反击·九次交击】
+
+0.3 秒近景插入：她的脚在最后一根栏柱上一蹬。
+
+切回广角：她从他头顶翻过，空中就已出剑——反手一剑划开他后背的黑袍，金滚边耷拉下来。落地瞬间他头也不回反手横扫，她矮身让过；他转身连砸三棍，她左、右、左连闪，三棍砸在地上黄土炸开；她趁他收棍连刺两剑取手腕，他转棍格开两下。
+
+【8.0—11.0 秒｜贴身快打·十二次交击】
+
+紧凑双人近景，全片最快的节奏之一：
+
+棍尾捣腹——剑脊格开；剑削手腕——转棍挡住；棍头砸肩——她沉肩
+
+... [truncated in root README; open standalone case page for full prompt]
+```
+
+[Read complete 4235-char prompt →](cases/cms-ae78a185/README.md)
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 29.5s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | dialogue (audio=True) |
+
+[Original source](https://x.com/abulu8/status/2125761364677529817) · Creator: [@abulu8](https://x.com/abulu8) · 2026-11-26
+
+> MAGI-2 为作者自述，未经独立核实。
+
+[Case page](cases/cms-ae78a185/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-ae78a185&utm_term=en)**
+
+---
+
+<a id="case-cms-93c5b8fa"></a>
+
+#### 62. 雪山村的列车大冒险
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+Create an exactly 30-second, premium-quality 3D animated slapstick comedy featuring four original animal characters in a beautiful…
+
+<a href="https://awesome.raphael.app/materials/c40d19b0-6f77-49fd-9014-2428cf755485.mp4"><img src="assets/examples/cms-93c5b8fa/preview.jpg" alt="Preview still frame from 雪山村的列车大冒险 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/c40d19b0-6f77-49fd-9014-2428cf755485.mp4)**
+
+<details><summary><strong>Full Structured Prompt (2921 chars)</strong></summary>
+
+```text
+Create an exactly 30-second, premium-quality 3D animated slapstick comedy featuring four original animal characters in a beautiful snowy mountain village. High-end theatrical animation, expressive faces, detailed fluffy fur, vibrant colours, cinematic winter lighting, 16:9, 24fps, fluid animation, hilarious physical comedy and energetic pacing.
+
+CHARACTER LOCK — keep identical throughout:
+
+- FROG: Chubby bright-green frog, enormous glossy red lips, bulging yellow eyes, dramatic expressions.
+- HAMSTER: Tiny orange-and-cream hamster, round cheeks, huge shiny black eyes.
+- WOLF: Large shaggy grey wolf, light-grey belly, pale eyes, grumpy villainous expression.
+- HYENA: Goofy spotted brown hyena with a messy hair bun, buck teeth and exaggerated expressions.
+
+SCENE 1 (0–7s) — The Snowball Incident
+
+A peaceful snowy village surrounded by enormous pine trees. FROG proudly builds a giant snowball while HAMSTER decorates it with tiny sticks. WOLF sneaks behind them, preparing to scare them. Suddenly, the snowball rolls downhill, collecting more snow until it becomes enormous. WOLF gets caught directly in its path.
+
+SCENE 2 (7–14s) — Out of Control
+
+WOLF is trapped inside the rolling snowball, with only his head sticking out. HYENA jumps onto it, treating it like a carnival ride. The snowball crashes through a wooden snowman, launches over a small bridge and races toward a frozen lake. FROG and HAMSTER chase after it on tiny wooden sleds.
+
+SCENE 3 (14–22s) — Frozen Surprise
+
+The giant snowball bursts apart on the frozen lake. WOLF and HYENA slide wildly across the ice, spinning like dancers. FROG attempts to stop them but slips, spinning uncontrollably. HAMSTER grabs FROG's tongue and uses it like a rope, accidentally pulling all three into a perfectly synchronized spinning circle.
+
+SCENE 4 (22–30s) — The Biggest Snow Surprise
+
+A gigantic snow-covered pine tree shakes above them. A massive pile of snow drops onto the group, leaving four little heads poking out. They stare at each other in silence. Suddenly, WOLF sneezes, triggering a huge avalanche of fluffy snow that sweeps the entire group downhill. Final shot: all four emerge from the snow in a perfectly arranged row, blinking at the camera, while a tiny snowball drops onto WOLF's head.
+
+ANIMATION & SOUND:
+
+Maintain exact character identity, proportions, fur colours and facial features across every shot. Use expressive reactions, exaggerated squash-and-stretch, believable snow physics, dynamic tracking shots, fast comedic cuts and cinematic close-ups. Every action should flow naturally into the next.
+
+Crisp cinematic cartoon audio: rushing snow, rolling rumbles, icy sliding, funny impacts, boings, squeals, wolf growls, hyena laughter and nonverbal screams. Bright orchestral comedy soundtrack with a satisfying final musical punchline.
+
+No dialogue, no text, no subtitles, no logos, no references to existing films or characters.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 30.3s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | mixed (audio=True) |
+
+[Original source](https://x.com/john_my07/status/2125562735350169860) · Creator: [@john_my07](https://x.com/john_my07) · 2026-11-25
+
+> MAGI-2 为作者自述，未经独立核实。 提示词见同一作者的回复 https://x.com/john_my07/status/2125562953453953405
+
+[Case page](cases/cms-93c5b8fa/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-93c5b8fa&utm_term=en)**
+
+---
+
 <a id="case-cms-71c121de"></a>
 
-#### 42. 新东京高架上的摩托追逐
+#### 63. 新东京高架上的摩托追逐
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -3477,9 +4642,147 @@ Keep the exact art style, line art, colours, muted sepia-and-lavender palette an
 
 ---
 
+<a id="case-cms-6ca34618"></a>
+
+#### 64. 蓝调时刻的城市追逐
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+Community MAGI-2 video case (@TanLuAI): 蓝调时刻的城市追逐.
+
+<a href="https://awesome.raphael.app/materials/0e541a92-2a50-4c56-aa13-cf1034f1c94d.mp4"><img src="assets/examples/cms-6ca34618/preview.jpg" alt="Preview still frame from 蓝调时刻的城市追逐 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/0e541a92-2a50-4c56-aa13-cf1034f1c94d.mp4)**
+
+<details><summary><strong>Full Structured Prompt (7596 chars)</strong></summary>
+
+```text
+【影片类型与时长】
+制作一支30秒、16:9横屏、真人实拍质感的现代都市追逐短片。
+故事发生在美国东海岸大城市的旧工业街区，时间是日落后的蓝调时刻。天边还留着最后一层微弱暖光，街道与建筑已经进入偏冷的夜色。
+一名穿着中式灰绿色古装、手持传统弓的成年女子（射箭女），正在追赶一名全身银色金属装甲的成年女子（钢甲女）。钢甲女在前方奔逃，依靠装甲腿部的力量直接从街面跳上建筑高处；射箭女没有这种力量，只能射出带牵引索的箭矢，被绳索拉上高楼，继续追赶。两人在楼顶与行驶中的货运列车之间一路追逐。最后，射箭女从楼上一路跳落到街面，落地后立刻拉弓射出一箭，钢甲女在箭即将命中时猛地回头，一把将箭攥在金属手掌中。
+古装弓手与银色金属装甲人物形成强烈的视觉反差，又与现代美国街区自然共处。片中不解释两人的来历，也不交代射箭女追赶钢甲女的原因。
+全片有明确的速度与情绪递进：开场已经处于追逐中；钢甲女一跃上楼展示力量差距；射箭与牵引段突出动作准确和身体受力；楼顶跃向列车形成第一次高潮；射箭女从楼上跳落到街面，紧接着一箭射出，钢甲女回头空手接箭，形成最后一拍的对峙。结尾不解释接下来会发生什么，不用文字交代剧情。
+
+【整体视觉风格】
+现代美国动作惊悚电影摄影，硬朗、紧凑，有真实的重量和空间压迫感。所有人物、街道、车辆、建筑与列车均保持真人实拍质感，不出现游戏过场动画感、塑料皮肤、漫画速度线或漂浮失重的动作。钢甲女的装甲是真实可触摸的拉丝金属材质，有划痕、接缝、螺丝和使用磨损，不像CG玩具或镜面塑料。
+环境色以冷钢蓝、石墨灰、深棕砖色和低饱和墨绿构成。路灯、店铺窗光与列车上的小型灯具提供局部偏脏的暖黄色，冷暖光源具有明确来源。钢甲女的银色装甲反射这些冷暖光源，在暗处只留下沿边缘的高光线条。不使用大面积鲜艳霓虹，不将整座城市处理成赛博朋克。
+射箭女肤色自然，奔跑后轻微泛红，额角与颈侧的汗水只在掠过光源时短暂反光。
+街面略湿，像是傍晚下过小雨，现已停雨。沥青有零碎反光，轮胎驶过带起少量水汽，不出现持续暴雨。局部通风口吐出薄蒸汽，不用浓雾遮住动作。画面清晰，暗部保留砖墙、衣物与金属纹理。
+采用24fps电影运动质感，快速运动保留适度动态模糊。跟拍有经过控制的肩扛呼吸感，冲击发生时允许短促震动，但不能持续剧烈摇晃到看不清人。关键动作先交代空间，再跟随人物完成。
+
+【城市环境与追逐路线】
+场景是虚构的美国旧工业城区，融合红砖仓库、旧式公寓、钢制外置消防梯、楼顶通风设备与街边小商店。道路两侧停有轿车、厢式货车和垃圾清运车辆，街口有英文交通牌、红色消防栓、金属灯杆与褪色斑马线。
+整条追逐路线在空间上连接：
+两人沿街道奔跑，转入旧仓库外侧的狭窄装卸通道；仓库外墙高处有钢制检修平台，平台连接楼顶。建筑背面紧邻一条高架货运支线，列车沿楼体侧后方经过。楼顶高于列车车顶几米，落点是下方经过的封闭货车车顶，不是从摩天楼垂直坠落。
+列车前方贴着另一栋三层旧公寓楼经过，公寓楼顶与车顶高度接近，楼的临街一面挂着之字形钢制外置消防梯，一直通到街面。最后的对峙发生在这栋楼前方的湿润街面上。
+通过短暂宽景提前展示这些位置，让观众理解街头、检修平台、楼顶、列车、公寓楼顶与街面的关系。
+铁路为无架空电线的工业货运支线，列车以适中的速度通过城区。车顶没有乘客，没有连续密集的障碍物。所有高度、间距与速度保持一致，按动作电影的虚构特技尺度呈现。
+
+【射箭女外貌、发型与服装——以参考图射箭女.png为准】
+射箭女为成年女性，面貌严格参考图片，保留眉眼结构、眼形、鼻梁、唇形与面部轮廓，颧骨附近保留参考图中一道浅浅的细小擦痕。目光锐利、专注，随追逐过程表现出判断、咬牙坚持、疲惫与最后瞄准时的冷静，不能全程保持固定表情。
+保留参考图额头中央细长、低饱和灰青色的纹样。纹样位置、形状与颜色全片一致，不发光、不变化。
+发型保持参考图中的古风半束长发：头顶部分束起，配小型金属发饰，其余黑色长发自然垂落，发间夹着几缕细长的浅灰色发带与细编发。不要改成现代高马尾或短发。奔跑、牵引和跳跃时，长发与发带产生连续的惯性摆动，不遮住整张脸，也不缠住弓弦和绳索。
+服装严格延续参考图可见部分的样式、配色与材质：灰绿色偏深的古装交领外袍，领口与肩部具有层叠结构，内搭颜色更深的交领衣。布料为哑光、略粗粝、有厚度的织物，袖子宽松，袖口内层贴近手腕，保留深色腕部包覆。肩部、衣领和袖子都有真实的折叠、缝线与穿着痕迹。
+参考图未显示的下半身，按同一服装体系延续为灰绿色长袍下摆、深色束腰、深色长裤和哑光深色布面靴。袍摆长度接近脚踝，两侧留有便于奔跑的开衩，动作中可露出内层长裤。
+不将衣服改成现代机能外套、运动上衣、紧身皮衣、战术裤或现代作战服。古装轮廓从开场到结尾保持一致。布料在奔跑时被腿部带动，牵引时受风向后扬起，落地时随惯性折叠回落，具有真实重量。衣摆不无限延长、不像烟雾漂浮，也不穿过栏杆或列车车顶。
+
+【弓箭与牵引装备】
+射箭女使用参考图中的传统弓：深色弓身、古朴轮廓、局部缠绕握把，不使用现代复合弓滑轮或科幻结构。尺寸与她的身形匹配，能完成奔跑、拉弓与背负动作。
+背侧固定一只窄箭袋，装着少量普通箭矢和一支尾部连着绳索的牵引箭。牵引箭尾部连接一根纤细但可辨识的深色绳索，绳索另一端连接藏在束腰侧面的紧凑收索装置，承重结构隐藏在外袍内，外部只露出
+
+... [truncated in root README; open standalone case page for full prompt]
+```
+
+[Read complete 7596-char prompt →](cases/cms-6ca34618/README.md)
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 29.4s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | mixed (audio=True) |
+
+[Original source](https://x.com/TanLuAI/status/2126222812625182914) · Creator: [@TanLuAI](https://x.com/TanLuAI) · 2026-11-27
+
+> MAGI-2 为作者自述，未经独立核实。 提示词见同一作者的回复 https://x.com/TanLuAI/status/2126222821755895903。原回复同时提供主片提示词及补生成片段提示词。
+
+[Case page](cases/cms-6ca34618/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-6ca34618&utm_term=en)**
+
+---
+
+<a id="case-cms-42531667"></a>
+
+#### 65. 早餐桌上的微型滑板女孩
+
+**Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
+
+SUBJECT A miniature hand-drawn 2D skateboard girl with messy black hair, orange oversized shirt, teal shorts, striped socks and a…
+
+<a href="https://awesome.raphael.app/materials/707069ee-5985-4cc7-858f-6723a6713c46.mp4"><img src="assets/examples/cms-42531667/preview.jpg" alt="Preview still frame from 早餐桌上的微型滑板女孩 MAGI-2 clip" width="640" /></a>
+
+▶ **[Watch audio-enabled MP4](https://awesome.raphael.app/materials/707069ee-5985-4cc7-858f-6723a6713c46.mp4)**
+
+<details><summary><strong>Full Structured Prompt (2837 chars)</strong></summary>
+
+```text
+SUBJECT
+A miniature hand-drawn 2D skateboard girl with messy black hair, orange oversized shirt, teal shorts, striped socks and a yellow backpack, riding a tiny orange skateboard through a gigantic real-world breakfast table.
+
+STYLE
+Premium mixed-reality animation. Expressive hand-drawn 2D character integrated seamlessly into photorealistic live-action macro photography. Playful physical interaction, believable miniature scale, smooth line animation, practical tabletop lighting, cinematic stop-motion energy. Dynamic movement with fluid animation, exaggerated momentum and realistic object interaction.
+
+CAMERA
+Extreme macro photography, shallow depth of field, energetic miniature tracking camera, rapid perspective changes, physically motivated transitions, seamless movement between shots, cinematic motion blur.
+
+**00:00–00:03 — THE BREAKFAST RACE**
+Extreme low-angle macro tracking shot. She pushes hard across a wooden breakfast table while enormous cereal pieces tumble behind her like falling boulders. Tiny skateboard wheels rattle across the wood. The camera races alongside her board as she dodges scattered crumbs and a pool of spilled milk.
+
+**00:03–00:05 — BLUEBERRY JUMP**
+A gigantic rolling blueberry suddenly crosses her path. She crouches and ollies over it, the camera whip-panning upward with her. She lands perfectly on the curved handle of a silver spoon, her backpack bouncing with the impact.
+
+00:05–00:07 — SPOON GRIND
+She grinds down the spoon handle at high speed. Metallic sparks transform into tiny hand-drawn orange doodle stars. The spoon begins flexing and tipping downward like a seesaw, building momentum.
+
+00:07–00:10 — MILK CATAPULT
+The spoon CATAPULTS her into the air across a gigantic bowl of milk. Slow-motion aerial kickflip above floating cereal islands. The camera dives beneath her orange skateboard and rotates upward as she passes through droplets of milk suspended in the air.
+
+00:10–00:12 — THE GLASS RIDE
+She lands on the rim of a giant orange juice glass. She accelerates around its circular rim, hugging the curve like a miniature skatepark bowl. The camera spirals around the glass as her speed increases.
+
+00:12–00:15 — TRANSITION TO THE NEXT WORLD**
+She rockets past the camera and disappears behind the orange juice glass.
+
+MATCH CUT: The circular orange juice glass rim transforms seamlessly into the circular door of a washing machine in a new gigantic world. A brief mechanical spin, cinematic transition hit, and the camera pushes into the next environment.
+
+AUDIO
+Tiny skateboard wheel rolling, wooden tabletop rattles, blueberry impact, sharp skateboard pop, metallic spoon grind, playful doodle spark sounds, spoon creaking, milk splash, airy slow-motion whoosh, circular glass rolling sound, rising playful percussion, and a sharp transition hit at the final match cut.
+```
+
+</details>
+
+| Parameter | Value |
+| --- | --- |
+| Model | MAGI-2 (flagship) |
+| Task type | t2v |
+| Duration / FPS | 15.0s · 30 fps |
+| Resolution / Ratio | 1080p · 16:9 |
+| Audio mode | mixed (audio=True) |
+
+[Original source](https://x.com/Gwsubsa/status/2125765192294502911) · Creator: [@Gwsubsa](https://x.com/Gwsubsa) · 2026-11-26
+
+> 视频使用 MAGI-2 为作者自述，未经独立核实。X 原视频：https://video.twimg.com/amplify_video/2125754211283644416/vid/avc1/1920x1080/qtUsCCMN1kTKN1l_.mp4?tag=29
+
+[Case page](cases/cms-42531667/README.md) · **[Generate similar on Raphael →](https://raphael.app/ai-video-generator?utm_source=github&utm_medium=repository&utm_campaign=magi_2_launch&utm_content=case_cms-42531667&utm_term=en)**
+
+---
+
 <a id="case-tiny-2d-girl-in-nyc"></a>
 
-#### 43. Tiny 2D Anime Girl in Photoreal NYC
+#### 66. Tiny 2D Anime Girl in Photoreal NYC
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
@@ -3539,7 +4842,7 @@ AUDIO: No dialogue and no narration. Use immersive New York street ambience, dis
 
 <a id="case-the-door-in-the-sky"></a>
 
-#### 44. The Door in the Sky — Fantasy Short
+#### 67. The Door in the Sky — Fantasy Short
 
 **Origin**: `community` · **Task**: `T2V` · **Audio**: `Yes` · **Status**: `Source-linked`
 
